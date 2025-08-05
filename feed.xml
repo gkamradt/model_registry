@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-05T17:03:29.362835+00:00</updated>
+  <updated>2025-08-05T17:37:12.381389+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.1</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.1</title>
-    <updated>2025-08-05T17:03:29.362890+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.1&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-oss-20b</id>
+    <title>openrouter - openai - openai/gpt-oss-20b</title>
+    <updated>2025-08-05T17:37:12.381707+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-oss-20b&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.1" label="model_id"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-oss-20b" label="model_id"/>
+    <category term="2025-08-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-oss-120b</id>
+    <title>openrouter - openai - openai/gpt-oss-120b</title>
+    <updated>2025-08-05T17:37:12.381446+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-oss-120b&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-oss-120b" label="model_id"/>
     <category term="2025-08-05" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-05T00:00:00+00:00</published>
