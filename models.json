@@ -3138,6 +3138,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-oss-20b:free",
+    "release_date": "2025-08-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/o1",
     "release_date": "2024-12-17",
     "status": "active"
