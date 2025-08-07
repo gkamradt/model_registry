@@ -2767,6 +2767,55 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5",
+    "release_date": "2025-08-05",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-2025-08-07",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-chat-latest",
+    "release_date": "2025-08-01",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-mini",
+    "release_date": "2025-08-05",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-mini-2025-08-07",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-nano",
+    "release_date": "2025-08-05",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-nano-2025-08-07",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-image-1",
     "release_date": "2025-04-24",
     "status": "active"
@@ -3119,6 +3168,34 @@
     "developer": "openai",
     "model_id": "openai/gpt-4o:extended",
     "release_date": "2024-05-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5-chat",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5-mini",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5-nano",
+    "release_date": "2025-08-07",
     "status": "active"
   },
   {

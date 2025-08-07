@@ -2,20 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-06T22:03:18.009282+00:00</updated>
+  <updated>2025-08-07T18:43:49.653702+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-oss-20b:free</id>
-    <title>openrouter - openai - openai/gpt-oss-20b:free</title>
-    <updated>2025-08-06T22:03:18.009349+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-oss-20b:free&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
+    <id>urn:model-registry:openai:openai:gpt-5-chat-latest</id>
+    <title>openai - openai - gpt-5-chat-latest</title>
+    <updated>2025-08-07T18:43:49.654974+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-chat-latest&lt;br/&gt;Release Date: 2025-08-01&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
     <category term="openai" label="developer"/>
-    <category term="openai/gpt-oss-20b:free" label="model_id"/>
+    <category term="gpt-5-chat-latest" label="model_id"/>
+    <category term="2025-08-01" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5-nano</id>
+    <title>openai - openai - gpt-5-nano</title>
+    <updated>2025-08-07T18:43:49.654808+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-nano&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5-nano" label="model_id"/>
     <category term="2025-08-05" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5-mini</id>
+    <title>openai - openai - gpt-5-mini</title>
+    <updated>2025-08-07T18:43:49.654725+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-mini&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5-mini" label="model_id"/>
+    <category term="2025-08-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5</id>
+    <title>openai - openai - gpt-5</title>
+    <updated>2025-08-07T18:43:49.654611+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5" label="model_id"/>
+    <category term="2025-08-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-nano</id>
+    <title>openrouter - openai - openai/gpt-5-nano</title>
+    <updated>2025-08-07T18:43:49.654505+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-nano&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-nano" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-mini</id>
+    <title>openrouter - openai - openai/gpt-5-mini</title>
+    <updated>2025-08-07T18:43:49.654418+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-mini&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-mini" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-chat</id>
+    <title>openrouter - openai - openai/gpt-5-chat</title>
+    <updated>2025-08-07T18:43:49.654331+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-chat&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-chat" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5</id>
+    <title>openrouter - openai - openai/gpt-5</title>
+    <updated>2025-08-07T18:43:49.654229+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5-nano-2025-08-07</id>
+    <title>openai - openai - gpt-5-nano-2025-08-07</title>
+    <updated>2025-08-07T18:43:49.654130+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-nano-2025-08-07&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5-nano-2025-08-07" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5-mini-2025-08-07</id>
+    <title>openai - openai - gpt-5-mini-2025-08-07</title>
+    <updated>2025-08-07T18:43:49.654025+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-mini-2025-08-07&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5-mini-2025-08-07" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5-2025-08-07</id>
+    <title>openai - openai - gpt-5-2025-08-07</title>
+    <updated>2025-08-07T18:43:49.653768+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-2025-08-07&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5-2025-08-07" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
   </entry>
 </feed>
