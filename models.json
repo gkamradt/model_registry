@@ -2088,6 +2088,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-medium-3.1",
+    "release_date": "2025-08-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-nemo",
     "release_date": "2024-07-19",
     "status": "active"
