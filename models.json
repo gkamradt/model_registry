@@ -1500,7 +1500,28 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/imagen-4.0-fast-generate-001",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/imagen-4.0-generate-001",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/imagen-4.0-generate-preview-06-06",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/imagen-4.0-ultra-generate-001",
     "release_date": "9999-12-31",
     "status": "active"
   },
