@@ -478,6 +478,13 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/ernie-4.5-21b-a3b",
+    "release_date": "2025-08-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/ernie-4.5-300b-a47b",
     "release_date": "2025-06-30",
     "status": "active"
