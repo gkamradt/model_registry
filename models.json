@@ -498,6 +498,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "baidu",
+    "model_id": "baidu/ernie-4.5-vl-424b-a47b",
+    "release_date": "2025-06-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "bytedance",
     "model_id": "bytedance/ui-tars-1.5-7b",
     "release_date": "2025-07-22",
