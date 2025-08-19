@@ -3215,6 +3215,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-4o-audio-preview",
+    "release_date": "2025-08-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-4o-mini",
     "release_date": "2024-07-18",
     "status": "active"
