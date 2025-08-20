@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-19T19:32:06.024474+00:00</updated>
+  <updated>2025-08-20T23:32:38.075944+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-4o-audio-preview</id>
-    <title>openrouter - openai - openai/gpt-4o-audio-preview</title>
-    <updated>2025-08-19T19:32:06.024517+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4o-audio-preview&lt;br/&gt;Release Date: 2025-08-15&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v3.1-base</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v3.1-base</title>
+    <updated>2025-08-20T23:32:38.076011+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v3.1-base&lt;br/&gt;Release Date: 2025-08-20&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-4o-audio-preview" label="model_id"/>
-    <category term="2025-08-15" label="release_date"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v3.1-base" label="model_id"/>
+    <category term="2025-08-20" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-08-15T00:00:00+00:00</published>
+    <published>2025-08-20T00:00:00+00:00</published>
   </entry>
 </feed>
