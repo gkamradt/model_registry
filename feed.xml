@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-21T12:44:37.548291+00:00</updated>
+  <updated>2025-08-26T13:12:33.390231+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-chat-v3.1:thinking</id>
-    <title>openrouter - deepseek - deepseek/deepseek-chat-v3.1:thinking</title>
-    <updated>2025-08-21T12:44:37.548666+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-chat-v3.1:thinking&lt;br/&gt;Release Date: 2025-08-21&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-chat-v3.1:thinking" label="model_id"/>
-    <category term="2025-08-21" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-image-preview</id>
+    <title>gemini - google - models/gemini-2.5-flash-image-preview</title>
+    <updated>2025-08-26T13:12:33.390275+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-image-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-flash-image-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-08-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-chat-v3.1</id>
-    <title>openrouter - deepseek - deepseek/deepseek-chat-v3.1</title>
-    <updated>2025-08-21T12:44:37.548367+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-chat-v3.1&lt;br/&gt;Release Date: 2025-08-21&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-chat-v3.1" label="model_id"/>
-    <category term="2025-08-21" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-08-21T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

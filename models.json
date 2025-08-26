@@ -1325,6 +1325,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-2.5-flash-image-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-2.5-flash-lite",
     "release_date": "9999-12-31",
     "status": "active"
