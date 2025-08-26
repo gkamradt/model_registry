@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-26T18:39:23.168731+00:00</updated>
+  <updated>2025-08-26T19:32:14.490451+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-2.5-flash-image-preview:free</id>
-    <title>openrouter - google - google/gemini-2.5-flash-image-preview:free</title>
-    <updated>2025-08-26T18:39:23.169061+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-flash-image-preview:free&lt;br/&gt;Release Date: 2025-08-26&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nousresearch:nousresearch/hermes-4-70b</id>
+    <title>openrouter - nousresearch - nousresearch/hermes-4-70b</title>
+    <updated>2025-08-26T19:32:14.490730+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nousresearch/hermes-4-70b&lt;br/&gt;Release Date: 2025-08-26&lt;br/&gt;Developer: nousresearch&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-2.5-flash-image-preview:free" label="model_id"/>
+    <category term="nousresearch" label="developer"/>
+    <category term="nousresearch/hermes-4-70b" label="model_id"/>
     <category term="2025-08-26" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-26T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-2.5-flash-image-preview</id>
-    <title>openrouter - google - google/gemini-2.5-flash-image-preview</title>
-    <updated>2025-08-26T18:39:23.168784+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-flash-image-preview&lt;br/&gt;Release Date: 2025-08-26&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nousresearch:nousresearch/hermes-4-405b</id>
+    <title>openrouter - nousresearch - nousresearch/hermes-4-405b</title>
+    <updated>2025-08-26T19:32:14.490502+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nousresearch/hermes-4-405b&lt;br/&gt;Release Date: 2025-08-26&lt;br/&gt;Developer: nousresearch&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-2.5-flash-image-preview" label="model_id"/>
+    <category term="nousresearch" label="developer"/>
+    <category term="nousresearch/hermes-4-405b" label="model_id"/>
     <category term="2025-08-26" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-26T00:00:00+00:00</published>

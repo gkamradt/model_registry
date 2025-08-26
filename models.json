@@ -2452,6 +2452,20 @@
   {
     "provider": "openrouter",
     "developer": "nousresearch",
+    "model_id": "nousresearch/hermes-4-405b",
+    "release_date": "2025-08-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nousresearch",
+    "model_id": "nousresearch/hermes-4-70b",
+    "release_date": "2025-08-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nousresearch",
     "model_id": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
     "release_date": "2024-01-16",
     "status": "active"
