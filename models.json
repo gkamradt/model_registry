@@ -4237,6 +4237,13 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-code-fast-1",
+    "release_date": "2025-08-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-vision-beta",
     "release_date": "2024-11-19",
     "status": "active"
