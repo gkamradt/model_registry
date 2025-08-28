@@ -2,30 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-28T17:03:04.092836+00:00</updated>
+  <updated>2025-08-28T17:34:04.994846+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-30b-a3b-thinking-2507:free</id>
-    <title>openrouter - qwen - qwen/qwen3-30b-a3b-thinking-2507:free</title>
-    <updated>2025-08-28T17:03:04.093146+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-30b-a3b-thinking-2507:free&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-30b-a3b-thinking-2507:free" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-realtime</id>
+    <title>openai - openai - gpt-realtime</title>
+    <updated>2025-08-28T17:34:04.995437+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime&lt;br/&gt;Release Date: 2025-08-27&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-realtime" label="model_id"/>
+    <category term="2025-08-27" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-realtime-2025-08-28</id>
+    <title>openai - openai - gpt-realtime-2025-08-28</title>
+    <updated>2025-08-28T17:34:04.995301+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-2025-08-28&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-realtime-2025-08-28" label="model_id"/>
     <category term="2025-08-28" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-28T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-30b-a3b-thinking-2507</id>
-    <title>openrouter - qwen - qwen/qwen3-30b-a3b-thinking-2507</title>
-    <updated>2025-08-28T17:03:04.092879+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-30b-a3b-thinking-2507&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-30b-a3b-thinking-2507" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-audio-2025-08-28</id>
+    <title>openai - openai - gpt-audio-2025-08-28</title>
+    <updated>2025-08-28T17:34:04.995157+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-audio-2025-08-28&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-audio-2025-08-28" label="model_id"/>
+    <category term="2025-08-28" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-audio</id>
+    <title>openai - openai - gpt-audio</title>
+    <updated>2025-08-28T17:34:04.994894+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-audio&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-audio" label="model_id"/>
     <category term="2025-08-28" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-08-28T00:00:00+00:00</published>

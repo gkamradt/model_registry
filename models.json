@@ -2956,8 +2956,36 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-audio",
+    "release_date": "2025-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-audio-2025-08-28",
+    "release_date": "2025-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-image-1",
     "release_date": "2025-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-realtime",
+    "release_date": "2025-08-27",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-realtime-2025-08-28",
+    "release_date": "2025-08-28",
     "status": "active"
   },
   {
