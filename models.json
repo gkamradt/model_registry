@@ -3845,6 +3845,20 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-30b-a3b-thinking-2507",
+    "release_date": "2025-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3-30b-a3b-thinking-2507:free",
+    "release_date": "2025-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3-30b-a3b:free",
     "release_date": "2025-04-28",
     "status": "active"

@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-08-28T16:37:32.581167+00:00</updated>
+  <updated>2025-08-28T17:03:04.092836+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-coder-30b-a3b-instruct</id>
-    <title>openrouter - qwen - qwen/qwen3-coder-30b-a3b-instruct</title>
-    <updated>2025-08-28T16:37:32.581206+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-coder-30b-a3b-instruct&lt;br/&gt;Release Date: 2025-07-31&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-30b-a3b-thinking-2507:free</id>
+    <title>openrouter - qwen - qwen/qwen3-30b-a3b-thinking-2507:free</title>
+    <updated>2025-08-28T17:03:04.093146+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-30b-a3b-thinking-2507:free&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-coder-30b-a3b-instruct" label="model_id"/>
-    <category term="2025-07-31" label="release_date"/>
+    <category term="qwen/qwen3-30b-a3b-thinking-2507:free" label="model_id"/>
+    <category term="2025-08-28" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-07-31T00:00:00+00:00</published>
+    <published>2025-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-30b-a3b-thinking-2507</id>
+    <title>openrouter - qwen - qwen/qwen3-30b-a3b-thinking-2507</title>
+    <updated>2025-08-28T17:03:04.092879+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-30b-a3b-thinking-2507&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-30b-a3b-thinking-2507" label="model_id"/>
+    <category term="2025-08-28" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-28T00:00:00+00:00</published>
   </entry>
 </feed>
