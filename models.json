@@ -646,6 +646,13 @@
   {
     "provider": "openrouter",
     "developer": "deepseek",
+    "model_id": "deepseek/deepseek-chat-v3.1:free",
+    "release_date": "2025-08-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
     "model_id": "deepseek/deepseek-chat-v3.1:thinking",
     "release_date": "2025-08-21",
     "status": "active"
