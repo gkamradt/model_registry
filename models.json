@@ -2305,6 +2305,13 @@
   {
     "provider": "openrouter",
     "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-dev-72b",
+    "release_date": "2025-06-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
     "model_id": "moonshotai/kimi-dev-72b:free",
     "release_date": "2025-06-16",
     "status": "active"
