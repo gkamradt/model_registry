@@ -617,6 +617,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "deepcogito",
+    "model_id": "deepcogito/cogito-v2-preview-deepseek-671b",
+    "release_date": "2025-09-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepcogito",
+    "model_id": "deepcogito/cogito-v2-preview-llama-109b-moe",
+    "release_date": "2025-09-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "deepseek",
     "model_id": "deepseek/deepseek-chat",
     "release_date": "2024-12-26",
