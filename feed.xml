@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-02T17:03:22.431861+00:00</updated>
+  <updated>2025-09-05T03:14:05.159680+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepcogito:deepcogito/cogito-v2-preview-llama-109b-moe</id>
-    <title>openrouter - deepcogito - deepcogito/cogito-v2-preview-llama-109b-moe</title>
-    <updated>2025-09-02T17:03:22.432235+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepcogito/cogito-v2-preview-llama-109b-moe&lt;br/&gt;Release Date: 2025-09-02&lt;br/&gt;Developer: deepcogito&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2-0905</id>
+    <title>openrouter - moonshotai - moonshotai/kimi-k2-0905</title>
+    <updated>2025-09-05T03:14:05.159724+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2-0905&lt;br/&gt;Release Date: 2025-09-04&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepcogito" label="developer"/>
-    <category term="deepcogito/cogito-v2-preview-llama-109b-moe" label="model_id"/>
-    <category term="2025-09-02" label="release_date"/>
+    <category term="moonshotai" label="developer"/>
+    <category term="moonshotai/kimi-k2-0905" label="model_id"/>
+    <category term="2025-09-04" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:deepcogito:deepcogito/cogito-v2-preview-deepseek-671b</id>
-    <title>openrouter - deepcogito - deepcogito/cogito-v2-preview-deepseek-671b</title>
-    <updated>2025-09-02T17:03:22.431912+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepcogito/cogito-v2-preview-deepseek-671b&lt;br/&gt;Release Date: 2025-09-02&lt;br/&gt;Developer: deepcogito&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="deepcogito" label="developer"/>
-    <category term="deepcogito/cogito-v2-preview-deepseek-671b" label="model_id"/>
-    <category term="2025-09-02" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-09-02T00:00:00+00:00</published>
+    <published>2025-09-04T00:00:00+00:00</published>
   </entry>
 </feed>
