@@ -4131,6 +4131,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "stepfun-ai",
+    "model_id": "stepfun-ai/step3",
+    "release_date": "2025-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "switchpoint",
     "model_id": "switchpoint/router",
     "release_date": "2025-07-11",

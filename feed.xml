@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-05T22:03:08.792404+00:00</updated>
+  <updated>2025-09-05T22:33:44.554747+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:bytedance:bytedance/seed-oss-36b-instruct</id>
-    <title>openrouter - bytedance - bytedance/seed-oss-36b-instruct</title>
-    <updated>2025-09-05T22:03:08.792456+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: bytedance/seed-oss-36b-instruct&lt;br/&gt;Release Date: 2025-09-02&lt;br/&gt;Developer: bytedance&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:stepfun-ai:stepfun-ai/step3</id>
+    <title>openrouter - stepfun-ai - stepfun-ai/step3</title>
+    <updated>2025-09-05T22:33:44.554792+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stepfun-ai/step3&lt;br/&gt;Release Date: 2025-08-28&lt;br/&gt;Developer: stepfun-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="bytedance" label="developer"/>
-    <category term="bytedance/seed-oss-36b-instruct" label="model_id"/>
-    <category term="2025-09-02" label="release_date"/>
+    <category term="stepfun-ai" label="developer"/>
+    <category term="stepfun-ai/step3" label="model_id"/>
+    <category term="2025-08-28" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-02T00:00:00+00:00</published>
+    <published>2025-08-28T00:00:00+00:00</published>
   </entry>
 </feed>
