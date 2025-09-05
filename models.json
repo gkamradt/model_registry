@@ -3985,6 +3985,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-max",
+    "release_date": "2025-09-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwq-32b",
     "release_date": "2025-03-05",
     "status": "active"
