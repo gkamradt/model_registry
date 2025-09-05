@@ -506,6 +506,13 @@
   {
     "provider": "openrouter",
     "developer": "bytedance",
+    "model_id": "bytedance/seed-oss-36b-instruct",
+    "release_date": "2025-09-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "bytedance",
     "model_id": "bytedance/ui-tars-1.5-7b",
     "release_date": "2025-07-22",
     "status": "active"
