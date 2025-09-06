@@ -3634,6 +3634,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "openrouter",
+    "model_id": "openrouter/sonoma-dusk-alpha",
+    "release_date": "2025-09-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
+    "model_id": "openrouter/sonoma-sky-alpha",
+    "release_date": "2025-09-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "perplexity",
     "model_id": "perplexity/llama-3.1-sonar-large-128k-online",
     "release_date": "2024-08-01",
