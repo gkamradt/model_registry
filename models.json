@@ -93,6 +93,13 @@
   {
     "provider": "openrouter",
     "developer": "allenai",
+    "model_id": "allenai/molmo-7b-d",
+    "release_date": "2025-03-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "allenai",
     "model_id": "allenai/olmo-2-0325-32b-instruct",
     "release_date": "2025-03-14",
     "status": "active"
