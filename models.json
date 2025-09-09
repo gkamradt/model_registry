@@ -2563,6 +2563,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "nvidia",
+    "model_id": "nvidia/nemotron-nano-9b-v2",
+    "release_date": "2025-09-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "open-r1",
     "model_id": "open-r1/olympiccoder-32b:free",
     "release_date": "2025-03-15",
