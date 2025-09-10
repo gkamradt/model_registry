@@ -1779,6 +1779,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "meituan",
+    "model_id": "meituan/longcat-flash-chat",
+    "release_date": "2025-09-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "meta-llama",
     "model_id": "meta-llama/llama-2-70b-chat",
     "release_date": "2023-06-20",
