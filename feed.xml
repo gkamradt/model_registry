@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-09T23:32:26.795177+00:00</updated>
+  <updated>2025-09-10T17:03:08.126750+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:allenai:allenai/molmo-7b-d</id>
-    <title>openrouter - allenai - allenai/molmo-7b-d</title>
-    <updated>2025-09-09T23:32:26.795224+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: allenai/molmo-7b-d&lt;br/&gt;Release Date: 2025-03-26&lt;br/&gt;Developer: allenai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-nano-9b-v2:free</id>
+    <title>openrouter - nvidia - nvidia/nemotron-nano-9b-v2:free</title>
+    <updated>2025-09-10T17:03:08.126790+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-nano-9b-v2:free&lt;br/&gt;Release Date: 2025-09-05&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="allenai" label="developer"/>
-    <category term="allenai/molmo-7b-d" label="model_id"/>
-    <category term="2025-03-26" label="release_date"/>
+    <category term="nvidia" label="developer"/>
+    <category term="nvidia/nemotron-nano-9b-v2:free" label="model_id"/>
+    <category term="2025-09-05" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-03-26T00:00:00+00:00</published>
+    <published>2025-09-05T00:00:00+00:00</published>
   </entry>
 </feed>
