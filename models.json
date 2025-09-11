@@ -4062,6 +4062,20 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-next-80b-a3b-instruct",
+    "release_date": "2025-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3-next-80b-a3b-thinking",
+    "release_date": "2025-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwq-32b",
     "release_date": "2025-03-05",
     "status": "active"
