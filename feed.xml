@@ -2,32 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-11T18:37:01.282752+00:00</updated>
+  <updated>2025-09-11T19:32:25.013219+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-next-80b-a3b-thinking</id>
-    <title>openrouter - qwen - qwen/qwen3-next-80b-a3b-thinking</title>
-    <updated>2025-09-11T18:37:01.283085+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-next-80b-a3b-thinking&lt;br/&gt;Release Date: 2025-09-11&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen-plus-2025-07-28:thinking</id>
+    <title>openrouter - qwen - qwen/qwen-plus-2025-07-28:thinking</title>
+    <updated>2025-09-11T19:32:25.013901+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen-plus-2025-07-28:thinking&lt;br/&gt;Release Date: 2025-09-08&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-next-80b-a3b-thinking" label="model_id"/>
-    <category term="2025-09-11" label="release_date"/>
+    <category term="qwen/qwen-plus-2025-07-28:thinking" label="model_id"/>
+    <category term="2025-09-08" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-11T00:00:00+00:00</published>
+    <published>2025-09-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-next-80b-a3b-instruct</id>
-    <title>openrouter - qwen - qwen/qwen3-next-80b-a3b-instruct</title>
-    <updated>2025-09-11T18:37:01.282814+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-next-80b-a3b-instruct&lt;br/&gt;Release Date: 2025-09-11&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen-plus-2025-07-28</id>
+    <title>openrouter - qwen - qwen/qwen-plus-2025-07-28</title>
+    <updated>2025-09-11T19:32:25.013763+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen-plus-2025-07-28&lt;br/&gt;Release Date: 2025-09-08&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-next-80b-a3b-instruct" label="model_id"/>
-    <category term="2025-09-11" label="release_date"/>
+    <category term="qwen/qwen-plus-2025-07-28" label="model_id"/>
+    <category term="2025-09-08" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-11T00:00:00+00:00</published>
+    <published>2025-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-native-audio-thinking-eap</id>
+    <title>gemini - google - models/gemini-2.5-flash-native-audio-thinking-eap</title>
+    <updated>2025-09-11T19:32:25.013617+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-native-audio-thinking-eap&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-flash-native-audio-thinking-eap" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-native-audio-eap</id>
+    <title>gemini - google - models/gemini-2.5-flash-native-audio-eap</title>
+    <updated>2025-09-11T19:32:25.013290+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-native-audio-eap&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-flash-native-audio-eap" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

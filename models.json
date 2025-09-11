@@ -1416,6 +1416,20 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-2.5-flash-native-audio-eap",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-2.5-flash-native-audio-thinking-eap",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-2.5-flash-preview-04-17",
     "release_date": "9999-12-31",
     "status": "active"
@@ -3833,6 +3847,20 @@
     "developer": "qwen",
     "model_id": "qwen/qwen-plus",
     "release_date": "2025-02-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen-plus-2025-07-28",
+    "release_date": "2025-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen-plus-2025-07-28:thinking",
+    "release_date": "2025-09-08",
     "status": "active"
   },
   {
