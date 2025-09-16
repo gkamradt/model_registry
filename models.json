@@ -429,6 +429,13 @@
   {
     "provider": "openrouter",
     "developer": "arcee-ai",
+    "model_id": "arcee-ai/afm-4.5b",
+    "release_date": "2025-09-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "arcee-ai",
     "model_id": "arcee-ai/arcee-blitz",
     "release_date": "2025-05-05",
     "status": "active"

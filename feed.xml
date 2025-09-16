@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-16T02:27:17.451780+00:00</updated>
+  <updated>2025-09-16T17:02:55.296715+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:opengvlab:opengvlab/internvl3-78b</id>
-    <title>openrouter - opengvlab - opengvlab/internvl3-78b</title>
-    <updated>2025-09-16T02:27:17.451835+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: opengvlab/internvl3-78b&lt;br/&gt;Release Date: 2025-09-15&lt;br/&gt;Developer: opengvlab&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:arcee-ai:arcee-ai/afm-4.5b</id>
+    <title>openrouter - arcee-ai - arcee-ai/afm-4.5b</title>
+    <updated>2025-09-16T17:02:55.296764+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: arcee-ai/afm-4.5b&lt;br/&gt;Release Date: 2025-09-16&lt;br/&gt;Developer: arcee-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="opengvlab" label="developer"/>
-    <category term="opengvlab/internvl3-78b" label="model_id"/>
-    <category term="2025-09-15" label="release_date"/>
+    <category term="arcee-ai" label="developer"/>
+    <category term="arcee-ai/afm-4.5b" label="model_id"/>
+    <category term="2025-09-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-15T00:00:00+00:00</published>
+    <published>2025-09-16T00:00:00+00:00</published>
   </entry>
 </feed>
