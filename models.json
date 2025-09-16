@@ -3669,6 +3669,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "opengvlab",
+    "model_id": "opengvlab/internvl3-78b",
+    "release_date": "2025-09-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "openrouter",
     "model_id": "openrouter/auto",
     "release_date": "2023-11-08",
