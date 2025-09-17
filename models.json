@@ -4090,6 +4090,20 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-coder-flash",
+    "release_date": "2025-09-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3-coder-plus",
+    "release_date": "2025-09-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3-coder:free",
     "release_date": "2025-07-23",
     "status": "active"
