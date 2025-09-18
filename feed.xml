@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-17T13:37:47.082829+00:00</updated>
+  <updated>2025-09-18T16:03:49.944650+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-coder-plus</id>
-    <title>openrouter - qwen - qwen/qwen3-coder-plus</title>
-    <updated>2025-09-17T13:37:47.083194+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-coder-plus&lt;br/&gt;Release Date: 2025-09-17&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:alibaba:alibaba/tongyi-deepresearch-30b-a3b</id>
+    <title>openrouter - alibaba - alibaba/tongyi-deepresearch-30b-a3b</title>
+    <updated>2025-09-18T16:03:49.944702+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: alibaba/tongyi-deepresearch-30b-a3b&lt;br/&gt;Release Date: 2025-09-18&lt;br/&gt;Developer: alibaba&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-coder-plus" label="model_id"/>
-    <category term="2025-09-17" label="release_date"/>
+    <category term="alibaba" label="developer"/>
+    <category term="alibaba/tongyi-deepresearch-30b-a3b" label="model_id"/>
+    <category term="2025-09-18" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-coder-flash</id>
-    <title>openrouter - qwen - qwen/qwen3-coder-flash</title>
-    <updated>2025-09-17T13:37:47.082891+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-coder-flash&lt;br/&gt;Release Date: 2025-09-17&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-coder-flash" label="model_id"/>
-    <category term="2025-09-17" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-09-17T00:00:00+00:00</published>
+    <published>2025-09-18T00:00:00+00:00</published>
   </entry>
 </feed>
