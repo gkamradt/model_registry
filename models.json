@@ -4482,6 +4482,13 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-4-fast:free",
+    "release_date": "2025-09-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-beta",
     "release_date": "2024-10-20",
     "status": "active"
