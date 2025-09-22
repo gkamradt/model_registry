@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-19T23:32:20.808425+00:00</updated>
+  <updated>2025-09-22T15:03:52.577483+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4-fast:free</id>
-    <title>openrouter - x-ai - x-ai/grok-4-fast:free</title>
-    <updated>2025-09-19T23:32:20.808464+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4-fast:free&lt;br/&gt;Release Date: 2025-09-19&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v3.1-terminus</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v3.1-terminus</title>
+    <updated>2025-09-22T15:03:52.577542+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v3.1-terminus&lt;br/&gt;Release Date: 2025-09-22&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="x-ai" label="developer"/>
-    <category term="x-ai/grok-4-fast:free" label="model_id"/>
-    <category term="2025-09-19" label="release_date"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v3.1-terminus" label="model_id"/>
+    <category term="2025-09-22" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-19T00:00:00+00:00</published>
+    <published>2025-09-22T00:00:00+00:00</published>
   </entry>
 </feed>
