@@ -2536,6 +2536,13 @@
   {
     "provider": "openrouter",
     "developer": "nousresearch",
+    "model_id": "nousresearch/deephermes-3-llama-3-8b-preview",
+    "release_date": "2025-02-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nousresearch",
     "model_id": "nousresearch/deephermes-3-llama-3-8b-preview:free",
     "release_date": "2025-02-28",
     "status": "active"
