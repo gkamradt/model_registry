@@ -968,6 +968,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-2.5-flash-lite-preview-09-2025",
+    "release_date": "2025-09-25",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-2.5-flash-preview",
     "release_date": "2025-04-17",
     "status": "active"
@@ -984,6 +991,13 @@
     "developer": "google",
     "model_id": "google/gemini-2.5-flash-preview-05-20:thinking",
     "release_date": "2025-05-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/gemini-2.5-flash-preview-09-2025",
+    "release_date": "2025-09-25",
     "status": "active"
   },
   {
