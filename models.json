@@ -1612,6 +1612,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-robotics-er-1.5-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemma-3-12b-it",
     "release_date": "9999-12-31",
     "status": "active"
