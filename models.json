@@ -1430,6 +1430,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-2.5-flash-lite-preview-09-2025",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-2.5-flash-live-preview",
     "release_date": "9999-12-31",
     "status": "active"
@@ -1480,6 +1487,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-2.5-flash-preview-05-20",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-2.5-flash-preview-09-2025",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -1598,7 +1612,28 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-flash-latest",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-flash-lite-latest",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-live-2.5-flash-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-pro-latest",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -4540,6 +4575,13 @@
     "developer": "x-ai",
     "model_id": "x-ai/grok-4",
     "release_date": "2025-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
+    "model_id": "x-ai/grok-4-fast",
+    "release_date": "2025-09-19",
     "status": "active"
   },
   {
