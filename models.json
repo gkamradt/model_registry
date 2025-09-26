@@ -4292,6 +4292,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "relace",
+    "model_id": "relace/relace-apply-3",
+    "release_date": "2025-09-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "sao10k",
     "model_id": "sao10k/fimbulvetr-11b-v2",
     "release_date": "2024-04-21",
