@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-26T15:34:01.541146+00:00</updated>
+  <updated>2025-09-27T00:47:20.604083+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:relace:relace/relace-apply-3</id>
-    <title>openrouter - relace - relace/relace-apply-3</title>
-    <updated>2025-09-26T15:34:01.541202+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: relace/relace-apply-3&lt;br/&gt;Release Date: 2025-09-26&lt;br/&gt;Developer: relace&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:thedrummer:thedrummer/cydonia-24b-v4.1</id>
+    <title>openrouter - thedrummer - thedrummer/cydonia-24b-v4.1</title>
+    <updated>2025-09-27T00:47:20.604125+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thedrummer/cydonia-24b-v4.1&lt;br/&gt;Release Date: 2025-09-27&lt;br/&gt;Developer: thedrummer&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="relace" label="developer"/>
-    <category term="relace/relace-apply-3" label="model_id"/>
-    <category term="2025-09-26" label="release_date"/>
+    <category term="thedrummer" label="developer"/>
+    <category term="thedrummer/cydonia-24b-v4.1" label="model_id"/>
+    <category term="2025-09-27" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-26T00:00:00+00:00</published>
+    <published>2025-09-27T00:00:00+00:00</published>
   </entry>
 </feed>
