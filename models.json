@@ -876,6 +876,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v3.2-exp",
+    "release_date": "2025-09-29",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "eleutherai",
     "model_id": "eleutherai/llemma_7b",
     "release_date": "2025-04-14",
