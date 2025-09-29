@@ -357,6 +357,13 @@
     "status": "active"
   },
   {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-sonnet-4.5",
+    "release_date": "2025-09-29",
+    "status": "active"
+  },
+  {
     "provider": "anthropic",
     "developer": "anthropic",
     "model_id": "claude-2.0",
