@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-09-29T13:39:23.306058+00:00</updated>
+  <updated>2025-09-29T17:03:23.630790+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v3.2-exp</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v3.2-exp</title>
-    <updated>2025-09-29T13:39:23.306095+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v3.2-exp&lt;br/&gt;Release Date: 2025-09-29&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:anthropic:anthropic:claude-sonnet-4-5-20250929</id>
+    <title>anthropic - anthropic - claude-sonnet-4-5-20250929</title>
+    <updated>2025-09-29T17:03:23.631134+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-sonnet-4-5-20250929&lt;br/&gt;Release Date: 2025-09-29&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-sonnet-4-5-20250929" label="model_id"/>
+    <category term="2025-09-29" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-4.5-sonnet</id>
+    <title>openrouter - anthropic - anthropic/claude-4.5-sonnet</title>
+    <updated>2025-09-29T17:03:23.630843+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-4.5-sonnet&lt;br/&gt;Release Date: 2025-09-29&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v3.2-exp" label="model_id"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-4.5-sonnet" label="model_id"/>
     <category term="2025-09-29" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-09-29T00:00:00+00:00</published>
