@@ -92,6 +92,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "alibaba",
+    "model_id": "alibaba/tongyi-deepresearch-30b-a3b:free",
+    "release_date": "2025-09-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "all-hands",
     "model_id": "all-hands/openhands-lm-32b-v0.1",
     "release_date": "2025-04-02",
@@ -1914,6 +1921,13 @@
     "provider": "openrouter",
     "developer": "meituan",
     "model_id": "meituan/longcat-flash-chat",
+    "release_date": "2025-09-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "meituan",
+    "model_id": "meituan/longcat-flash-chat:free",
     "release_date": "2025-09-09",
     "status": "active"
   },
