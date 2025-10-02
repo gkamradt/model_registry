@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-01T21:03:05.847942+00:00</updated>
+  <updated>2025-10-02T08:04:01.984273+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:meituan:meituan/longcat-flash-chat:free</id>
-    <title>openrouter - meituan - meituan/longcat-flash-chat:free</title>
-    <updated>2025-10-01T21:03:05.848274+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meituan/longcat-flash-chat:free&lt;br/&gt;Release Date: 2025-09-09&lt;br/&gt;Developer: meituan&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="meituan" label="developer"/>
-    <category term="meituan/longcat-flash-chat:free" label="model_id"/>
-    <category term="2025-09-09" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-image</id>
+    <title>gemini - google - models/gemini-2.5-flash-image</title>
+    <updated>2025-10-02T08:04:01.984312+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-image&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-flash-image" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-09-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:alibaba:alibaba/tongyi-deepresearch-30b-a3b:free</id>
-    <title>openrouter - alibaba - alibaba/tongyi-deepresearch-30b-a3b:free</title>
-    <updated>2025-10-01T21:03:05.848006+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: alibaba/tongyi-deepresearch-30b-a3b:free&lt;br/&gt;Release Date: 2025-09-18&lt;br/&gt;Developer: alibaba&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="alibaba" label="developer"/>
-    <category term="alibaba/tongyi-deepresearch-30b-a3b:free" label="model_id"/>
-    <category term="2025-09-18" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-09-18T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
