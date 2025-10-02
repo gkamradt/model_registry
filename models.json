@@ -3761,6 +3761,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "text-embedding-3-small-okan-test",
+    "release_date": "2025-10-02",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "text-embedding-ada-002",
     "release_date": "2022-12-16",
     "status": "active"

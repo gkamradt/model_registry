@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-02T08:04:01.984273+00:00</updated>
+  <updated>2025-10-02T08:37:18.232546+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-image</id>
-    <title>gemini - google - models/gemini-2.5-flash-image</title>
-    <updated>2025-10-02T08:04:01.984312+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-image&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-2.5-flash-image" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openai:openai:text-embedding-3-small-okan-test</id>
+    <title>openai - openai - text-embedding-3-small-okan-test</title>
+    <updated>2025-10-02T08:37:18.232593+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: text-embedding-3-small-okan-test&lt;br/&gt;Release Date: 2025-10-02&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="text-embedding-3-small-okan-test" label="model_id"/>
+    <category term="2025-10-02" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2025-10-02T00:00:00+00:00</published>
   </entry>
 </feed>
