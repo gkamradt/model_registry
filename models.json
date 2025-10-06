@@ -3208,6 +3208,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5-pro",
+    "release_date": "2025-10-03",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-pro-2025-10-06",
+    "release_date": "2025-10-06",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
@@ -3224,6 +3238,13 @@
     "developer": "openai",
     "model_id": "gpt-image-1",
     "release_date": "2025-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-1-mini",
+    "release_date": "2025-09-26",
     "status": "active"
   },
   {
@@ -3742,6 +3763,20 @@
     "developer": "openai",
     "model_id": "openai/o4-mini-high",
     "release_date": "2025-04-16",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "sora-2",
+    "release_date": "2025-10-05",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "sora-2-pro",
+    "release_date": "2025-10-05",
     "status": "active"
   },
   {
