@@ -975,6 +975,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-2.5-flash-image",
+    "release_date": "2025-10-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-2.5-flash-image-preview",
     "release_date": "2025-08-26",
     "status": "active"
