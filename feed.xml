@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-06T21:03:25.051680+00:00</updated>
+  <updated>2025-10-07T18:40:16.208617+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5-pro</id>
-    <title>openrouter - openai - openai/gpt-5-pro</title>
-    <updated>2025-10-06T21:03:25.051727+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-pro&lt;br/&gt;Release Date: 2025-10-06&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5-pro" label="model_id"/>
-    <category term="2025-10-06" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-computer-use-preview-10-2025</id>
+    <title>gemini - google - models/gemini-2.5-computer-use-preview-10-2025</title>
+    <updated>2025-10-07T18:40:16.208661+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-computer-use-preview-10-2025&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-computer-use-preview-10-2025" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-06T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

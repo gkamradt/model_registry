@@ -1423,6 +1423,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-2.5-computer-use-preview-10-2025",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-2.5-flash",
     "release_date": "9999-12-31",
     "status": "active"
