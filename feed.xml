@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-07T21:32:25.833264+00:00</updated>
+  <updated>2025-10-09T18:04:04.148592+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-2.5-flash-image</id>
-    <title>openrouter - google - google/gemini-2.5-flash-image</title>
-    <updated>2025-10-07T21:32:25.833330+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-flash-image&lt;br/&gt;Release Date: 2025-10-07&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-vl-30b-a3b-thinking</id>
+    <title>openrouter - qwen - qwen/qwen3-vl-30b-a3b-thinking</title>
+    <updated>2025-10-09T18:04:04.149046+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-vl-30b-a3b-thinking&lt;br/&gt;Release Date: 2025-10-06&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-2.5-flash-image" label="model_id"/>
-    <category term="2025-10-07" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-vl-30b-a3b-thinking" label="model_id"/>
+    <category term="2025-10-06" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-07T00:00:00+00:00</published>
+    <published>2025-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-vl-30b-a3b-instruct</id>
+    <title>openrouter - qwen - qwen/qwen3-vl-30b-a3b-instruct</title>
+    <updated>2025-10-09T18:04:04.148659+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-vl-30b-a3b-instruct&lt;br/&gt;Release Date: 2025-10-06&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-vl-30b-a3b-instruct" label="model_id"/>
+    <category term="2025-10-06" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-10-06T00:00:00+00:00</published>
   </entry>
 </feed>
