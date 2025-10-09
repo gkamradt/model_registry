@@ -541,6 +541,13 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/ernie-4.5-21b-a3b-thinking",
+    "release_date": "2025-10-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/ernie-4.5-300b-a47b",
     "release_date": "2025-06-30",
     "status": "active"
