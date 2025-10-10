@@ -4503,6 +4503,13 @@
   {
     "provider": "openrouter",
     "developer": "sao10k",
+    "model_id": "sao10k/l3.1-70b-hanami-x1",
+    "release_date": "2025-01-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "sao10k",
     "model_id": "sao10k/l3.1-euryale-70b",
     "release_date": "2024-08-28",
     "status": "active"
