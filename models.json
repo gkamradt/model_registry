@@ -2760,6 +2760,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "release_date": "2025-10-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/llama-3.3-nemotron-super-49b-v1:free",
     "release_date": "2025-04-08",
     "status": "active"

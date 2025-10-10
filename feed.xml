@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-09T23:03:21.276710+00:00</updated>
+  <updated>2025-10-10T13:10:02.404069+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:baidu:baidu/ernie-4.5-21b-a3b-thinking</id>
-    <title>openrouter - baidu - baidu/ernie-4.5-21b-a3b-thinking</title>
-    <updated>2025-10-09T23:03:21.276757+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/ernie-4.5-21b-a3b-thinking&lt;br/&gt;Release Date: 2025-10-09&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/llama-3.3-nemotron-super-49b-v1.5</id>
+    <title>openrouter - nvidia - nvidia/llama-3.3-nemotron-super-49b-v1.5</title>
+    <updated>2025-10-10T13:10:02.404122+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/llama-3.3-nemotron-super-49b-v1.5&lt;br/&gt;Release Date: 2025-10-10&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="baidu" label="developer"/>
-    <category term="baidu/ernie-4.5-21b-a3b-thinking" label="model_id"/>
-    <category term="2025-10-09" label="release_date"/>
+    <category term="nvidia" label="developer"/>
+    <category term="nvidia/llama-3.3-nemotron-super-49b-v1.5" label="model_id"/>
+    <category term="2025-10-10" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-09T00:00:00+00:00</published>
+    <published>2025-10-10T00:00:00+00:00</published>
   </entry>
 </feed>
