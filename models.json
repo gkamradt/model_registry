@@ -2704,6 +2704,13 @@
   {
     "provider": "openrouter",
     "developer": "nousresearch",
+    "model_id": "nousresearch/hermes-3-llama-3.1-405b:free",
+    "release_date": "2024-08-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nousresearch",
     "model_id": "nousresearch/hermes-3-llama-3.1-70b",
     "release_date": "2024-08-18",
     "status": "active"
@@ -4378,6 +4385,13 @@
     "provider": "openrouter",
     "developer": "qwen",
     "model_id": "qwen/qwen3-next-80b-a3b-instruct",
+    "release_date": "2025-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3-next-80b-a3b-instruct:free",
     "release_date": "2025-09-11",
     "status": "active"
   },
