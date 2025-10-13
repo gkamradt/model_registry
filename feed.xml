@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-10T19:02:48.333370+00:00</updated>
+  <updated>2025-10-13T01:31:11.315891+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:sao10k:sao10k/l3.1-70b-hanami-x1</id>
-    <title>openrouter - sao10k - sao10k/l3.1-70b-hanami-x1</title>
-    <updated>2025-10-10T19:02:48.333418+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: sao10k/l3.1-70b-hanami-x1&lt;br/&gt;Release Date: 2025-01-08&lt;br/&gt;Developer: sao10k&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-1t</id>
+    <title>openrouter - inclusionai - inclusionai/ling-1t</title>
+    <updated>2025-10-13T01:31:11.315963+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-1t&lt;br/&gt;Release Date: 2025-10-13&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="sao10k" label="developer"/>
-    <category term="sao10k/l3.1-70b-hanami-x1" label="model_id"/>
-    <category term="2025-01-08" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-1t" label="model_id"/>
+    <category term="2025-10-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-01-08T00:00:00+00:00</published>
+    <published>2025-10-13T00:00:00+00:00</published>
   </entry>
 </feed>
