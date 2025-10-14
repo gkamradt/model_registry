@@ -3264,6 +3264,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5-search-api",
+    "release_date": "2025-10-03",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5-search-api-2025-10-14",
+    "release_date": "2025-10-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
