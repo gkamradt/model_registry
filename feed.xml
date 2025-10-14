@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-14T17:32:48.250856+00:00</updated>
+  <updated>2025-10-14T18:04:10.029115+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-5-search-api</id>
-    <title>openai - openai - gpt-5-search-api</title>
-    <updated>2025-10-14T17:32:48.251122+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-search-api&lt;br/&gt;Release Date: 2025-10-03&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-5-search-api" label="model_id"/>
-    <category term="2025-10-03" label="release_date"/>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-vl-8b-thinking</id>
+    <title>openrouter - qwen - qwen/qwen3-vl-8b-thinking</title>
+    <updated>2025-10-14T18:04:10.029459+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-vl-8b-thinking&lt;br/&gt;Release Date: 2025-10-14&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-vl-8b-thinking" label="model_id"/>
+    <category term="2025-10-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-03T00:00:00+00:00</published>
+    <published>2025-10-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-5-search-api-2025-10-14</id>
-    <title>openai - openai - gpt-5-search-api-2025-10-14</title>
-    <updated>2025-10-14T17:32:48.250898+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5-search-api-2025-10-14&lt;br/&gt;Release Date: 2025-10-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-5-search-api-2025-10-14" label="model_id"/>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-vl-8b-instruct</id>
+    <title>openrouter - qwen - qwen/qwen3-vl-8b-instruct</title>
+    <updated>2025-10-14T18:04:10.029164+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-vl-8b-instruct&lt;br/&gt;Release Date: 2025-10-14&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-vl-8b-instruct" label="model_id"/>
     <category term="2025-10-14" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-10-14T00:00:00+00:00</published>

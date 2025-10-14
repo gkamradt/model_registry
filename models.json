@@ -4454,6 +4454,20 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-vl-8b-instruct",
+    "release_date": "2025-10-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3-vl-8b-thinking",
+    "release_date": "2025-10-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwq-32b",
     "release_date": "2025-03-05",
     "status": "active"
