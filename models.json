@@ -1869,6 +1869,20 @@
     "status": "active"
   },
   {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/veo-3.1-fast-generate-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/veo-3.1-generate-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
     "provider": "openrouter",
     "developer": "gryphe",
     "model_id": "gryphe/mythomax-l2-13b",
