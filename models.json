@@ -3222,6 +3222,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-4o-transcribe-diarize",
+    "release_date": "2025-06-24",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-5",
     "release_date": "2025-08-05",
     "status": "active"
