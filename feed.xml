@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-15T19:03:03.301129+00:00</updated>
+  <updated>2025-10-15T22:02:56.628574+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-4o-transcribe-diarize</id>
-    <title>openai - openai - gpt-4o-transcribe-diarize</title>
-    <updated>2025-10-15T19:03:03.301175+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-4o-transcribe-diarize&lt;br/&gt;Release Date: 2025-06-24&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-image</id>
+    <title>openrouter - openai - openai/gpt-5-image</title>
+    <updated>2025-10-15T22:02:56.628624+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-image&lt;br/&gt;Release Date: 2025-10-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
     <category term="openai" label="developer"/>
-    <category term="gpt-4o-transcribe-diarize" label="model_id"/>
-    <category term="2025-06-24" label="release_date"/>
+    <category term="openai/gpt-5-image" label="model_id"/>
+    <category term="2025-10-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-06-24T00:00:00+00:00</published>
+    <published>2025-10-14T00:00:00+00:00</published>
   </entry>
 </feed>
