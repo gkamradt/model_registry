@@ -3768,6 +3768,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5-image-mini",
+    "release_date": "2025-10-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5-mini",
     "release_date": "2025-08-07",
     "status": "active"
