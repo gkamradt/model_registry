@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-17T14:35:58.683678+00:00</updated>
+  <updated>2025-10-17T15:03:42.939482+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepcogito:deepcogito/cogito-v2-preview-llama-405b</id>
-    <title>openrouter - deepcogito - deepcogito/cogito-v2-preview-llama-405b</title>
-    <updated>2025-10-17T14:35:58.683723+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepcogito/cogito-v2-preview-llama-405b&lt;br/&gt;Release Date: 2025-10-17&lt;br/&gt;Developer: deepcogito&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ring-1t</id>
+    <title>openrouter - inclusionai - inclusionai/ring-1t</title>
+    <updated>2025-10-17T15:03:42.939527+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ring-1t&lt;br/&gt;Release Date: 2025-10-13&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepcogito" label="developer"/>
-    <category term="deepcogito/cogito-v2-preview-llama-405b" label="model_id"/>
-    <category term="2025-10-17" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ring-1t" label="model_id"/>
+    <category term="2025-10-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-17T00:00:00+00:00</published>
+    <published>2025-10-13T00:00:00+00:00</published>
   </entry>
 </feed>

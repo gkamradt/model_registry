@@ -1954,6 +1954,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "inclusionai",
+    "model_id": "inclusionai/ring-1t",
+    "release_date": "2025-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "infermatic",
     "model_id": "infermatic/mn-inferor-12b",
     "release_date": "2024-11-13",
