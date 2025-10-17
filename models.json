@@ -723,6 +723,13 @@
   {
     "provider": "openrouter",
     "developer": "deepcogito",
+    "model_id": "deepcogito/cogito-v2-preview-llama-405b",
+    "release_date": "2025-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepcogito",
     "model_id": "deepcogito/cogito-v2-preview-llama-70b",
     "release_date": "2025-09-02",
     "status": "active"
