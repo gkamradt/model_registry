@@ -1926,6 +1926,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "ibm-granite",
+    "model_id": "ibm-granite/granite-4.0-h-micro",
+    "release_date": "2025-10-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "inception",
     "model_id": "inception/mercury",
     "release_date": "2025-06-19",

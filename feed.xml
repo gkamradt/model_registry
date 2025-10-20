@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-17T15:03:42.939482+00:00</updated>
+  <updated>2025-10-20T03:24:23.537422+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ring-1t</id>
-    <title>openrouter - inclusionai - inclusionai/ring-1t</title>
-    <updated>2025-10-17T15:03:42.939527+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ring-1t&lt;br/&gt;Release Date: 2025-10-13&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:ibm-granite:ibm-granite/granite-4.0-h-micro</id>
+    <title>openrouter - ibm-granite - ibm-granite/granite-4.0-h-micro</title>
+    <updated>2025-10-20T03:24:23.537497+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ibm-granite/granite-4.0-h-micro&lt;br/&gt;Release Date: 2025-10-20&lt;br/&gt;Developer: ibm-granite&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ring-1t" label="model_id"/>
-    <category term="2025-10-13" label="release_date"/>
+    <category term="ibm-granite" label="developer"/>
+    <category term="ibm-granite/granite-4.0-h-micro" label="model_id"/>
+    <category term="2025-10-20" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-13T00:00:00+00:00</published>
+    <published>2025-10-20T00:00:00+00:00</published>
   </entry>
 </feed>
