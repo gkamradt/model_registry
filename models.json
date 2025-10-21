@@ -4069,6 +4069,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/andromeda-alpha",
+    "release_date": "2025-10-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/auto",
     "release_date": "2023-11-08",
     "status": "active"
