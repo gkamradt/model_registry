@@ -2,20 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-21T21:32:31.896392+00:00</updated>
+  <updated>2025-10-22T18:04:31.210409+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/andromeda-alpha</id>
-    <title>openrouter - openrouter - openrouter/andromeda-alpha</title>
-    <updated>2025-10-21T21:32:31.896457+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/andromeda-alpha&lt;br/&gt;Release Date: 2025-10-21&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-coder:exacto</id>
+    <title>openrouter - qwen - qwen/qwen3-coder:exacto</title>
+    <updated>2025-10-22T18:04:31.211002+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-coder:exacto&lt;br/&gt;Release Date: 2025-07-23&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/andromeda-alpha" label="model_id"/>
-    <category term="2025-10-21" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-coder:exacto" label="model_id"/>
+    <category term="2025-07-23" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-21T00:00:00+00:00</published>
+    <published>2025-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-oss-120b:exacto</id>
+    <title>openrouter - openai - openai/gpt-oss-120b:exacto</title>
+    <updated>2025-10-22T18:04:31.210901+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-oss-120b:exacto&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-oss-120b:exacto" label="model_id"/>
+    <category term="2025-08-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2-0905:exacto</id>
+    <title>openrouter - moonshotai - moonshotai/kimi-k2-0905:exacto</title>
+    <updated>2025-10-22T18:04:31.210803+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2-0905:exacto&lt;br/&gt;Release Date: 2025-09-04&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="moonshotai" label="developer"/>
+    <category term="moonshotai/kimi-k2-0905:exacto" label="model_id"/>
+    <category term="2025-09-04" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v3.1-terminus:exacto</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v3.1-terminus:exacto</title>
+    <updated>2025-10-22T18:04:31.210695+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v3.1-terminus:exacto&lt;br/&gt;Release Date: 2025-09-22&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v3.1-terminus:exacto" label="model_id"/>
+    <category term="2025-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-4.6:exacto</id>
+    <title>openrouter - z-ai - z-ai/glm-4.6:exacto</title>
+    <updated>2025-10-22T18:04:31.210452+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-4.6:exacto&lt;br/&gt;Release Date: 2025-09-30&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="z-ai" label="developer"/>
+    <category term="z-ai/glm-4.6:exacto" label="model_id"/>
+    <category term="2025-09-30" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-30T00:00:00+00:00</published>
   </entry>
 </feed>
