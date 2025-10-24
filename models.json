@@ -2353,6 +2353,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "minimax",
+    "model_id": "minimax/minimax-m2:free",
+    "release_date": "2025-10-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "mistralai",
     "model_id": "mistralai/codestral-2501",
     "release_date": "2025-01-14",

@@ -2,42 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-23T15:34:51.086194+00:00</updated>
+  <updated>2025-10-24T22:03:31.850353+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm2-8b-a1b</id>
-    <title>openrouter - liquid - liquid/lfm2-8b-a1b</title>
-    <updated>2025-10-23T15:34:51.086675+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm2-8b-a1b&lt;br/&gt;Release Date: 2025-10-20&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m2:free</id>
+    <title>openrouter - minimax - minimax/minimax-m2:free</title>
+    <updated>2025-10-24T22:03:31.850413+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m2:free&lt;br/&gt;Release Date: 2025-10-23&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm2-8b-a1b" label="model_id"/>
-    <category term="2025-10-20" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-10-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2.2-6b</id>
-    <title>openrouter - liquid - liquid/lfm-2.2-6b</title>
-    <updated>2025-10-23T15:34:51.086524+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2.2-6b&lt;br/&gt;Release Date: 2025-10-20&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm-2.2-6b" label="model_id"/>
-    <category term="2025-10-20" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-10-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-vl-32b-instruct</id>
-    <title>openrouter - qwen - qwen/qwen3-vl-32b-instruct</title>
-    <updated>2025-10-23T15:34:51.086243+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-vl-32b-instruct&lt;br/&gt;Release Date: 2025-10-23&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-vl-32b-instruct" label="model_id"/>
+    <category term="minimax" label="developer"/>
+    <category term="minimax/minimax-m2:free" label="model_id"/>
     <category term="2025-10-23" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-10-23T00:00:00+00:00</published>
