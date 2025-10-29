@@ -2354,6 +2354,13 @@
   {
     "provider": "openrouter",
     "developer": "minimax",
+    "model_id": "minimax/minimax-m2",
+    "release_date": "2025-10-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "minimax",
     "model_id": "minimax/minimax-m2:free",
     "release_date": "2025-10-23",
     "status": "active"
