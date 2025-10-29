@@ -2893,6 +2893,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/nemotron-nano-12b-v2-vl",
+    "release_date": "2025-10-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/nemotron-nano-12b-v2-vl:free",
     "release_date": "2025-10-28",
     "status": "active"
