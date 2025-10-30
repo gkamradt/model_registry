@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-30T21:32:47.251337+00:00</updated>
+  <updated>2025-10-30T22:34:40.778250+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:perplexity:perplexity/sonar-pro-search</id>
-    <title>openrouter - perplexity - perplexity/sonar-pro-search</title>
-    <updated>2025-10-30T21:32:47.251391+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: perplexity/sonar-pro-search&lt;br/&gt;Release Date: 2025-10-30&lt;br/&gt;Developer: perplexity&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/text-embedding-3-large</id>
+    <title>openrouter - openai - openai/text-embedding-3-large</title>
+    <updated>2025-10-30T22:34:40.778306+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/text-embedding-3-large&lt;br/&gt;Release Date: 2025-10-30&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="perplexity" label="developer"/>
-    <category term="perplexity/sonar-pro-search" label="model_id"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/text-embedding-3-large" label="model_id"/>
     <category term="2025-10-30" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-10-30T00:00:00+00:00</published>
