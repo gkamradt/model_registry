@@ -4237,6 +4237,13 @@
   {
     "provider": "openrouter",
     "developer": "perplexity",
+    "model_id": "perplexity/sonar-pro-search",
+    "release_date": "2025-10-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "perplexity",
     "model_id": "perplexity/sonar-reasoning",
     "release_date": "2025-01-29",
     "status": "active"
