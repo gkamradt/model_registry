@@ -2640,6 +2640,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "mistralai",
+    "model_id": "mistralai/voxtral-small-24b-2507",
+    "release_date": "2025-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "moonshotai",
     "model_id": "moonshotai/kimi-dev-72b",
     "release_date": "2025-06-16",
