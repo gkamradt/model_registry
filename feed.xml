@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-10-30T22:34:40.778250+00:00</updated>
+  <updated>2025-10-31T23:03:24.567353+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/text-embedding-3-large</id>
-    <title>openrouter - openai - openai/text-embedding-3-large</title>
-    <updated>2025-10-30T22:34:40.778306+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/text-embedding-3-large&lt;br/&gt;Release Date: 2025-10-30&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:amazon:amazon/nova-premier-v1</id>
+    <title>openrouter - amazon - amazon/nova-premier-v1</title>
+    <updated>2025-10-31T23:03:24.567397+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: amazon/nova-premier-v1&lt;br/&gt;Release Date: 2025-10-31&lt;br/&gt;Developer: amazon&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/text-embedding-3-large" label="model_id"/>
-    <category term="2025-10-30" label="release_date"/>
+    <category term="amazon" label="developer"/>
+    <category term="amazon/nova-premier-v1" label="model_id"/>
+    <category term="2025-10-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-10-30T00:00:00+00:00</published>
+    <published>2025-10-31T00:00:00+00:00</published>
   </entry>
 </feed>

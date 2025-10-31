@@ -156,6 +156,13 @@
   {
     "provider": "openrouter",
     "developer": "amazon",
+    "model_id": "amazon/nova-premier-v1",
+    "release_date": "2025-10-31",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "amazon",
     "model_id": "amazon/nova-pro-v1",
     "release_date": "2024-12-05",
     "status": "active"
