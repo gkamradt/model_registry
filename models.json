@@ -2690,6 +2690,13 @@
   {
     "provider": "openrouter",
     "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-k2-thinking",
+    "release_date": "2025-11-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
     "model_id": "moonshotai/kimi-k2:free",
     "release_date": "2025-07-11",
     "status": "active"
