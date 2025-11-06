@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-06T16:04:11.057415+00:00</updated>
+  <updated>2025-11-06T20:03:42.940118+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2-thinking</id>
-    <title>openrouter - moonshotai - moonshotai/kimi-k2-thinking</title>
-    <updated>2025-11-06T16:04:11.057458+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2-thinking&lt;br/&gt;Release Date: 2025-11-06&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/polaris-alpha</id>
+    <title>openrouter - openrouter - openrouter/polaris-alpha</title>
+    <updated>2025-11-06T20:03:42.940169+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/polaris-alpha&lt;br/&gt;Release Date: 2025-11-06&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="moonshotai" label="developer"/>
-    <category term="moonshotai/kimi-k2-thinking" label="model_id"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/polaris-alpha" label="model_id"/>
     <category term="2025-11-06" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-11-06T00:00:00+00:00</published>
