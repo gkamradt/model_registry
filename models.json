@@ -2704,6 +2704,13 @@
   {
     "provider": "openrouter",
     "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-linear-48b-a3b-instruct",
+    "release_date": "2025-11-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
     "model_id": "moonshotai/kimi-vl-a3b-thinking",
     "release_date": "2025-04-10",
     "status": "active"
