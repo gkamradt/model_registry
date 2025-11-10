@@ -2003,6 +2003,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "kwaipilot",
+    "model_id": "kwaipilot/kat-coder-pro:free",
+    "release_date": "2025-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "liquid",
     "model_id": "liquid/lfm-2.2-6b",
     "release_date": "2025-10-20",
