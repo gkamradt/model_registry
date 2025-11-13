@@ -2,20 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-10T05:04:06.595045+00:00</updated>
+  <updated>2025-11-13T19:03:10.253496+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:kwaipilot:kwaipilot/kat-coder-pro:free</id>
-    <title>openrouter - kwaipilot - kwaipilot/kat-coder-pro:free</title>
-    <updated>2025-11-10T05:04:06.595083+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: kwaipilot/kat-coder-pro:free&lt;br/&gt;Release Date: 2025-11-10&lt;br/&gt;Developer: kwaipilot&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="kwaipilot" label="developer"/>
-    <category term="kwaipilot/kat-coder-pro:free" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-5.1-chat-latest</id>
+    <title>openai - openai - gpt-5.1-chat-latest</title>
+    <updated>2025-11-13T19:03:10.254864+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1-chat-latest&lt;br/&gt;Release Date: 2025-11-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1-chat-latest" label="model_id"/>
+    <category term="2025-11-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.1</id>
+    <title>openai - openai - gpt-5.1</title>
+    <updated>2025-11-13T19:03:10.254713+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1&lt;br/&gt;Release Date: 2025-11-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1" label="model_id"/>
     <category term="2025-11-10" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-11-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.1-codex</id>
+    <title>openai - openai - gpt-5.1-codex</title>
+    <updated>2025-11-13T19:03:10.254562+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1-codex&lt;br/&gt;Release Date: 2025-11-12&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1-codex" label="model_id"/>
+    <category term="2025-11-12" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.1-codex-mini</id>
+    <title>openrouter - openai - openai/gpt-5.1-codex-mini</title>
+    <updated>2025-11-13T19:03:10.254442+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.1-codex-mini&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.1-codex-mini" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.1-codex</id>
+    <title>openrouter - openai - openai/gpt-5.1-codex</title>
+    <updated>2025-11-13T19:03:10.254321+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.1-codex&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.1-codex" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.1-chat</id>
+    <title>openrouter - openai - openai/gpt-5.1-chat</title>
+    <updated>2025-11-13T19:03:10.254180+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.1-chat&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.1-chat" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.1</id>
+    <title>openrouter - openai - openai/gpt-5.1</title>
+    <updated>2025-11-13T19:03:10.254040+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.1&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.1" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.1-codex-mini</id>
+    <title>openai - openai - gpt-5.1-codex-mini</title>
+    <updated>2025-11-13T19:03:10.253896+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1-codex-mini&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1-codex-mini" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.1-2025-11-13</id>
+    <title>openai - openai - gpt-5.1-2025-11-13</title>
+    <updated>2025-11-13T19:03:10.253552+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1-2025-11-13&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1-2025-11-13" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
   </entry>
 </feed>

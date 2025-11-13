@@ -3439,6 +3439,41 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.1",
+    "release_date": "2025-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.1-2025-11-13",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.1-chat-latest",
+    "release_date": "2025-11-07",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.1-codex",
+    "release_date": "2025-11-12",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.1-codex-mini",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
@@ -3917,6 +3952,34 @@
     "developer": "openai",
     "model_id": "openai/gpt-5-pro",
     "release_date": "2025-10-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.1",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.1-chat",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.1-codex",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.1-codex-mini",
+    "release_date": "2025-11-13",
     "status": "active"
   },
   {
