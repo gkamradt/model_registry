@@ -4293,6 +4293,20 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/sherlock-dash-alpha",
+    "release_date": "2025-11-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
+    "model_id": "openrouter/sherlock-think-alpha",
+    "release_date": "2025-11-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/sonoma-dusk-alpha",
     "release_date": "2025-09-05",
     "status": "active"
