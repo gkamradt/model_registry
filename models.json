@@ -1577,6 +1577,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-2.5-flash-native-audio-eap-11-2025",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-2.5-flash-native-audio-latest",
     "release_date": "9999-12-31",
     "status": "active"
