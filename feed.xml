@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-19T17:03:21.584038+00:00</updated>
+  <updated>2025-11-19T23:32:54.605874+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepcogito:deepcogito/cogito-v2.1-671b</id>
-    <title>openrouter - deepcogito - deepcogito/cogito-v2.1-671b</title>
-    <updated>2025-11-19T17:03:21.584091+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepcogito/cogito-v2.1-671b&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: deepcogito&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.1-fast</id>
+    <title>openrouter - x-ai - x-ai/grok-4.1-fast</title>
+    <updated>2025-11-19T23:32:54.605925+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.1-fast&lt;br/&gt;Release Date: 2025-11-19&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepcogito" label="developer"/>
-    <category term="deepcogito/cogito-v2.1-671b" label="model_id"/>
-    <category term="2025-11-13" label="release_date"/>
+    <category term="x-ai" label="developer"/>
+    <category term="x-ai/grok-4.1-fast" label="model_id"/>
+    <category term="2025-11-19" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-11-13T00:00:00+00:00</published>
+    <published>2025-11-19T00:00:00+00:00</published>
   </entry>
 </feed>
