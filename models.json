@@ -1143,6 +1143,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-3-pro-image-preview",
+    "release_date": "2025-11-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-3-pro-preview",
     "release_date": "2025-11-18",
     "status": "active"
@@ -5218,6 +5225,13 @@
     "provider": "openrouter",
     "developer": "x-ai",
     "model_id": "x-ai/grok-4.1-fast",
+    "release_date": "2025-11-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
+    "model_id": "x-ai/grok-4.1-fast:free",
     "release_date": "2025-11-19",
     "status": "active"
   },
