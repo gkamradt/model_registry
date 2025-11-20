@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-19T23:32:54.605874+00:00</updated>
+  <updated>2025-11-20T16:03:57.753913+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.1-fast</id>
-    <title>openrouter - x-ai - x-ai/grok-4.1-fast</title>
-    <updated>2025-11-19T23:32:54.605925+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.1-fast&lt;br/&gt;Release Date: 2025-11-19&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="x-ai" label="developer"/>
-    <category term="x-ai/grok-4.1-fast" label="model_id"/>
-    <category term="2025-11-19" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/nano-banana-pro-preview</id>
+    <title>gemini - google - models/nano-banana-pro-preview</title>
+    <updated>2025-11-20T16:03:57.754255+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/nano-banana-pro-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/nano-banana-pro-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-11-19T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3-pro-image-preview</id>
+    <title>gemini - google - models/gemini-3-pro-image-preview</title>
+    <updated>2025-11-20T16:03:57.753953+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3-pro-image-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3-pro-image-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
