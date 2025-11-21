@@ -121,6 +121,27 @@
   {
     "provider": "openrouter",
     "developer": "allenai",
+    "model_id": "allenai/olmo-3-32b-think",
+    "release_date": "2025-11-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "allenai",
+    "model_id": "allenai/olmo-3-7b-instruct",
+    "release_date": "2025-11-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "allenai",
+    "model_id": "allenai/olmo-3-7b-think",
+    "release_date": "2025-11-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "allenai",
     "model_id": "allenai/olmo-7b-instruct",
     "release_date": "2024-05-10",
     "status": "active"
