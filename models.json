@@ -4335,6 +4335,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/bert-nebulon-alpha",
+    "release_date": "2025-11-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/cypher-alpha:free",
     "release_date": "2025-07-01",
     "status": "active"
