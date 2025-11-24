@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-24T17:35:43.458716+00:00</updated>
+  <updated>2025-11-24T19:02:31.965330+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/bert-nebulon-alpha</id>
-    <title>openrouter - openrouter - openrouter/bert-nebulon-alpha</title>
-    <updated>2025-11-24T17:35:43.458764+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/bert-nebulon-alpha&lt;br/&gt;Release Date: 2025-11-24&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/bert-nebulon-alpha" label="model_id"/>
+    <id>urn:model-registry:anthropic:anthropic:claude-opus-4-5-20251101</id>
+    <title>anthropic - anthropic - claude-opus-4-5-20251101</title>
+    <updated>2025-11-24T19:02:31.965394+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-opus-4-5-20251101&lt;br/&gt;Release Date: 2025-11-24&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-opus-4-5-20251101" label="model_id"/>
     <category term="2025-11-24" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-11-24T00:00:00+00:00</published>

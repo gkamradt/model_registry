@@ -492,6 +492,13 @@
   {
     "provider": "anthropic",
     "developer": "anthropic",
+    "model_id": "claude-opus-4-5-20251101",
+    "release_date": "2025-11-24",
+    "status": "active"
+  },
+  {
+    "provider": "anthropic",
+    "developer": "anthropic",
     "model_id": "claude-sonnet-4-20250514",
     "release_date": "2025-05-22",
     "status": "active"
