@@ -5188,6 +5188,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "tngtech",
+    "model_id": "tngtech/tng-r1t-chimera",
+    "release_date": "2025-11-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "tngtech",
+    "model_id": "tngtech/tng-r1t-chimera:free",
+    "release_date": "2025-11-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "undi95",
     "model_id": "undi95/remm-slerp-l2-13b",
     "release_date": "2023-07-22",
