@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-11-26T20:03:47.191401+00:00</updated>
+  <updated>2025-11-27T03:44:59.167342+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:tngtech:tngtech/tng-r1t-chimera:free</id>
-    <title>openrouter - tngtech - tngtech/tng-r1t-chimera:free</title>
-    <updated>2025-11-26T20:03:47.191765+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tngtech/tng-r1t-chimera:free&lt;br/&gt;Release Date: 2025-11-26&lt;br/&gt;Developer: tngtech&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:prime-intellect:prime-intellect/intellect-3</id>
+    <title>openrouter - prime-intellect - prime-intellect/intellect-3</title>
+    <updated>2025-11-27T03:44:59.167388+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: prime-intellect/intellect-3&lt;br/&gt;Release Date: 2025-11-27&lt;br/&gt;Developer: prime-intellect&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="tngtech" label="developer"/>
-    <category term="tngtech/tng-r1t-chimera:free" label="model_id"/>
-    <category term="2025-11-26" label="release_date"/>
+    <category term="prime-intellect" label="developer"/>
+    <category term="prime-intellect/intellect-3" label="model_id"/>
+    <category term="2025-11-27" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-11-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:tngtech:tngtech/tng-r1t-chimera</id>
-    <title>openrouter - tngtech - tngtech/tng-r1t-chimera</title>
-    <updated>2025-11-26T20:03:47.191444+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tngtech/tng-r1t-chimera&lt;br/&gt;Release Date: 2025-11-26&lt;br/&gt;Developer: tngtech&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="tngtech" label="developer"/>
-    <category term="tngtech/tng-r1t-chimera" label="model_id"/>
-    <category term="2025-11-26" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-11-26T00:00:00+00:00</published>
+    <published>2025-11-27T00:00:00+00:00</published>
   </entry>
 </feed>
