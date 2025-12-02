@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-02T16:04:12.007374+00:00</updated>
+  <updated>2025-12-02T17:38:02.711360+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-large-2512</id>
-    <title>openrouter - mistralai - mistralai/mistral-large-2512</title>
-    <updated>2025-12-02T16:04:12.007409+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-large-2512&lt;br/&gt;Release Date: 2025-12-01&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:amazon:amazon/nova-2-lite-v1:free</id>
+    <title>openrouter - amazon - amazon/nova-2-lite-v1:free</title>
+    <updated>2025-12-02T17:38:02.711816+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: amazon/nova-2-lite-v1:free&lt;br/&gt;Release Date: 2025-11-29&lt;br/&gt;Developer: amazon&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/mistral-large-2512" label="model_id"/>
-    <category term="2025-12-01" label="release_date"/>
+    <category term="amazon" label="developer"/>
+    <category term="amazon/nova-2-lite-v1:free" label="model_id"/>
+    <category term="2025-11-29" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-01T00:00:00+00:00</published>
+    <published>2025-11-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:amazon:amazon/nova-2-lite-v1</id>
+    <title>openrouter - amazon - amazon/nova-2-lite-v1</title>
+    <updated>2025-12-02T17:38:02.711450+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: amazon/nova-2-lite-v1&lt;br/&gt;Release Date: 2025-11-29&lt;br/&gt;Developer: amazon&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="amazon" label="developer"/>
+    <category term="amazon/nova-2-lite-v1" label="model_id"/>
+    <category term="2025-11-29" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-29T00:00:00+00:00</published>
   </entry>
 </feed>
