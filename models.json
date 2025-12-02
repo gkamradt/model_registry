@@ -2655,6 +2655,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-large-2512",
+    "release_date": "2025-12-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-medium",
     "release_date": "2024-01-10",
     "status": "active"
