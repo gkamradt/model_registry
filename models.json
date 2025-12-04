@@ -3621,6 +3621,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.1-codex-max",
+    "release_date": "2025-11-20",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-5.1-codex-mini",
     "release_date": "2025-11-13",
     "status": "active"

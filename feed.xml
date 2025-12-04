@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-02T18:04:30.286420+00:00</updated>
+  <updated>2025-12-04T18:43:46.921774+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:allenai:allenai/olmo-3-32b-think:free</id>
-    <title>openrouter - allenai - allenai/olmo-3-32b-think:free</title>
-    <updated>2025-12-02T18:04:30.286467+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: allenai/olmo-3-32b-think:free&lt;br/&gt;Release Date: 2025-11-21&lt;br/&gt;Developer: allenai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="allenai" label="developer"/>
-    <category term="allenai/olmo-3-32b-think:free" label="model_id"/>
-    <category term="2025-11-21" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-5.1-codex-max</id>
+    <title>openai - openai - gpt-5.1-codex-max</title>
+    <updated>2025-12-04T18:43:46.921812+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.1-codex-max&lt;br/&gt;Release Date: 2025-11-20&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.1-codex-max" label="model_id"/>
+    <category term="2025-11-20" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-11-21T00:00:00+00:00</published>
+    <published>2025-11-20T00:00:00+00:00</published>
   </entry>
 </feed>
