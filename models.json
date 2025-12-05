@@ -4447,6 +4447,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/bodybuilder",
+    "release_date": "2025-12-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/cypher-alpha:free",
     "release_date": "2025-07-01",
     "status": "active"

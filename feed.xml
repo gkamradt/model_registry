@@ -2,44 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-04T22:02:48.441481+00:00</updated>
+  <updated>2025-12-05T03:49:15.591642+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/ministral-8b-2512</id>
-    <title>openrouter - mistralai - mistralai/ministral-8b-2512</title>
-    <updated>2025-12-04T22:02:48.441898+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/ministral-8b-2512&lt;br/&gt;Release Date: 2025-12-02&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/bodybuilder</id>
+    <title>openrouter - openrouter - openrouter/bodybuilder</title>
+    <updated>2025-12-05T03:49:15.591688+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/bodybuilder&lt;br/&gt;Release Date: 2025-12-05&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/ministral-8b-2512" label="model_id"/>
-    <category term="2025-12-02" label="release_date"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/bodybuilder" label="model_id"/>
+    <category term="2025-12-05" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/ministral-3b-2512</id>
-    <title>openrouter - mistralai - mistralai/ministral-3b-2512</title>
-    <updated>2025-12-04T22:02:48.441791+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/ministral-3b-2512&lt;br/&gt;Release Date: 2025-12-02&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/ministral-3b-2512" label="model_id"/>
-    <category term="2025-12-02" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-12-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/ministral-14b-2512</id>
-    <title>openrouter - mistralai - mistralai/ministral-14b-2512</title>
-    <updated>2025-12-04T22:02:48.441523+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/ministral-14b-2512&lt;br/&gt;Release Date: 2025-12-02&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/ministral-14b-2512" label="model_id"/>
-    <category term="2025-12-02" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-12-02T00:00:00+00:00</published>
+    <published>2025-12-05T00:00:00+00:00</published>
   </entry>
 </feed>
