@@ -1065,6 +1065,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "essentialai",
+    "model_id": "essentialai/rnj-1-instruct",
+    "release_date": "2025-12-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "eva-unit-01",
     "model_id": "eva-unit-01/eva-llama-3.33-70b",
     "release_date": "2024-12-16",
