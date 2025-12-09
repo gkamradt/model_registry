@@ -2557,6 +2557,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/devstral-2512:free",
+    "release_date": "2025-12-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/devstral-medium",
     "release_date": "2025-07-10",
     "status": "active"
