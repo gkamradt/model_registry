@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-10T20:04:04.758350+00:00</updated>
+  <updated>2025-12-10T20:38:18.306642+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/deepseek-v3.1-nex-n1:free</id>
-    <title>openrouter - nex-agi - nex-agi/deepseek-v3.1-nex-n1:free</title>
-    <updated>2025-12-10T20:04:04.758405+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/deepseek-v3.1-nex-n1:free&lt;br/&gt;Release Date: 2025-12-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/devstral-2512</id>
+    <title>openrouter - mistralai - mistralai/devstral-2512</title>
+    <updated>2025-12-10T20:38:18.306691+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/devstral-2512&lt;br/&gt;Release Date: 2025-12-09&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/deepseek-v3.1-nex-n1:free" label="model_id"/>
-    <category term="2025-12-08" label="release_date"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/devstral-2512" label="model_id"/>
+    <category term="2025-12-09" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-08T00:00:00+00:00</published>
+    <published>2025-12-09T00:00:00+00:00</published>
   </entry>
 </feed>
