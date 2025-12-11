@@ -4244,6 +4244,27 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.2",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.2-chat",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.2-pro",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-oss-120b",
     "release_date": "2025-08-05",
     "status": "active"
