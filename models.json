@@ -3691,6 +3691,41 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.2",
+    "release_date": "2025-12-09",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.2-2025-12-11",
+    "release_date": "2025-12-11",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.2-chat-latest",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.2-pro",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.2-pro-2025-12-11",
+    "release_date": "2025-12-11",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
