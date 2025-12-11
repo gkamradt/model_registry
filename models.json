@@ -1374,6 +1374,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/deep-research-pro-preview-12-2025",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/embedding-001",
     "release_date": "9999-12-31",
     "status": "active"

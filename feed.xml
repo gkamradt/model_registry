@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-10T20:38:18.306642+00:00</updated>
+  <updated>2025-12-11T16:04:28.969851+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/devstral-2512</id>
-    <title>openrouter - mistralai - mistralai/devstral-2512</title>
-    <updated>2025-12-10T20:38:18.306691+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/devstral-2512&lt;br/&gt;Release Date: 2025-12-09&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/devstral-2512" label="model_id"/>
-    <category term="2025-12-09" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/deep-research-pro-preview-12-2025</id>
+    <title>gemini - google - models/deep-research-pro-preview-12-2025</title>
+    <updated>2025-12-11T16:04:28.969900+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/deep-research-pro-preview-12-2025&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/deep-research-pro-preview-12-2025" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-09T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
