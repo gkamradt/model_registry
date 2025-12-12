@@ -2,44 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-11T18:42:55.418249+00:00</updated>
+  <updated>2025-12-12T18:04:23.019979+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.2-pro</id>
-    <title>openrouter - openai - openai/gpt-5.2-pro</title>
-    <updated>2025-12-11T18:42:55.418707+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.2-pro&lt;br/&gt;Release Date: 2025-12-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:meta-llama:meta-llama/llama-guard-4-12b:free</id>
+    <title>openrouter - meta-llama - meta-llama/llama-guard-4-12b:free</title>
+    <updated>2025-12-12T18:04:23.020347+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta-llama/llama-guard-4-12b:free&lt;br/&gt;Release Date: 2025-04-30&lt;br/&gt;Developer: meta-llama&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.2-pro" label="model_id"/>
-    <category term="2025-12-10" label="release_date"/>
+    <category term="meta-llama" label="developer"/>
+    <category term="meta-llama/llama-guard-4-12b:free" label="model_id"/>
+    <category term="2025-04-30" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-10T00:00:00+00:00</published>
+    <published>2025-04-30T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.2-chat</id>
-    <title>openrouter - openai - openai/gpt-5.2-chat</title>
-    <updated>2025-12-11T18:42:55.418596+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.2-chat&lt;br/&gt;Release Date: 2025-12-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.2-chat" label="model_id"/>
-    <category term="2025-12-10" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-native-audio-preview-12-2025</id>
+    <title>gemini - google - models/gemini-2.5-flash-native-audio-preview-12-2025</title>
+    <updated>2025-12-12T18:04:23.020031+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-native-audio-preview-12-2025&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-2.5-flash-native-audio-preview-12-2025" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-12-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.2</id>
-    <title>openrouter - openai - openai/gpt-5.2</title>
-    <updated>2025-12-11T18:42:55.418303+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.2&lt;br/&gt;Release Date: 2025-12-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.2" label="model_id"/>
-    <category term="2025-12-10" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-12-10T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
