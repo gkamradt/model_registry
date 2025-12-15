@@ -3523,8 +3523,36 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-4o-mini-transcribe-2025-03-20",
+    "release_date": "2025-03-20",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-4o-mini-transcribe-2025-12-15",
+    "release_date": "2025-12-15",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-4o-mini-tts",
     "release_date": "2025-03-19",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-4o-mini-tts-2025-03-20",
+    "release_date": "2025-03-20",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-4o-mini-tts-2025-12-15",
+    "release_date": "2025-12-15",
     "status": "active"
   },
   {
@@ -3812,6 +3840,13 @@
     "developer": "openai",
     "model_id": "gpt-realtime-mini-2025-10-06",
     "release_date": "2025-10-06",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-realtime-mini-2025-12-15",
+    "release_date": "2025-12-15",
     "status": "active"
   },
   {
