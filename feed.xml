@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-12T18:04:23.019979+00:00</updated>
+  <updated>2025-12-15T16:04:59.977888+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:meta-llama:meta-llama/llama-guard-4-12b:free</id>
-    <title>openrouter - meta-llama - meta-llama/llama-guard-4-12b:free</title>
-    <updated>2025-12-12T18:04:23.020347+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta-llama/llama-guard-4-12b:free&lt;br/&gt;Release Date: 2025-04-30&lt;br/&gt;Developer: meta-llama&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3-nano-30b-a3b:free</id>
+    <title>openrouter - nvidia - nvidia/nemotron-3-nano-30b-a3b:free</title>
+    <updated>2025-12-15T16:04:59.977935+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3-nano-30b-a3b:free&lt;br/&gt;Release Date: 2025-12-14&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="meta-llama" label="developer"/>
-    <category term="meta-llama/llama-guard-4-12b:free" label="model_id"/>
-    <category term="2025-04-30" label="release_date"/>
+    <category term="nvidia" label="developer"/>
+    <category term="nvidia/nemotron-3-nano-30b-a3b:free" label="model_id"/>
+    <category term="2025-12-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-04-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-2.5-flash-native-audio-preview-12-2025</id>
-    <title>gemini - google - models/gemini-2.5-flash-native-audio-preview-12-2025</title>
-    <updated>2025-12-12T18:04:23.020031+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-2.5-flash-native-audio-preview-12-2025&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-2.5-flash-native-audio-preview-12-2025" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2025-12-14T00:00:00+00:00</published>
   </entry>
 </feed>

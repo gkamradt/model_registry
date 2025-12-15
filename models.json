@@ -3152,6 +3152,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "release_date": "2025-12-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/nemotron-nano-12b-v2-vl",
     "release_date": "2025-10-28",
     "status": "active"
