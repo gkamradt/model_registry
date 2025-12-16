@@ -2844,6 +2844,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-small-creative",
+    "release_date": "2025-12-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-tiny",
     "release_date": "2024-01-10",
     "status": "deprecated"
