@@ -3838,6 +3838,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-image-1.5",
+    "release_date": "2025-11-25",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-realtime",
     "release_date": "2025-08-27",
     "status": "active"
