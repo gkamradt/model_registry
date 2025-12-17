@@ -3222,6 +3222,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "chatgpt-image-latest",
+    "release_date": "2025-12-16",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "codex-mini-latest",
     "release_date": "2025-05-08",
     "status": "active"
