@@ -5703,5 +5703,12 @@
     "model_id": "z-ai/glm-4.6v",
     "release_date": "2025-12-08",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
+    "model_id": "z-ai/glm-4.7",
+    "release_date": "2025-12-22",
+    "status": "active"
   }
 ]
