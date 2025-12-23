@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2025-12-23T02:37:11.092505+00:00</updated>
+  <updated>2025-12-23T16:03:53.061486+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m2.1</id>
-    <title>openrouter - minimax - minimax/minimax-m2.1</title>
-    <updated>2025-12-23T02:37:11.092574+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m2.1&lt;br/&gt;Release Date: 2025-12-23&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:bytedance-seed:bytedance-seed/seed-1.6-flash</id>
+    <title>openrouter - bytedance-seed - bytedance-seed/seed-1.6-flash</title>
+    <updated>2025-12-23T16:03:53.061834+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: bytedance-seed/seed-1.6-flash&lt;br/&gt;Release Date: 2025-12-23&lt;br/&gt;Developer: bytedance-seed&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="minimax" label="developer"/>
-    <category term="minimax/minimax-m2.1" label="model_id"/>
+    <category term="bytedance-seed" label="developer"/>
+    <category term="bytedance-seed/seed-1.6-flash" label="model_id"/>
+    <category term="2025-12-23" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:bytedance-seed:bytedance-seed/seed-1.6</id>
+    <title>openrouter - bytedance-seed - bytedance-seed/seed-1.6</title>
+    <updated>2025-12-23T16:03:53.061534+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: bytedance-seed/seed-1.6&lt;br/&gt;Release Date: 2025-12-23&lt;br/&gt;Developer: bytedance-seed&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="bytedance-seed" label="developer"/>
+    <category term="bytedance-seed/seed-1.6" label="model_id"/>
     <category term="2025-12-23" label="release_date"/>
     <category term="active" label="status"/>
     <published>2025-12-23T00:00:00+00:00</published>
