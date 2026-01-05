@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-05T04:25:54.953448+00:00</updated>
+  <updated>2026-01-05T18:44:14.449099+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:kwaipilot:kwaipilot/kat-coder-pro</id>
-    <title>openrouter - kwaipilot - kwaipilot/kat-coder-pro</title>
-    <updated>2026-01-05T04:25:54.953494+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: kwaipilot/kat-coder-pro&lt;br/&gt;Release Date: 2025-11-10&lt;br/&gt;Developer: kwaipilot&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:allenai:allenai/olmo-3.1-32b-think</id>
+    <title>openrouter - allenai - allenai/olmo-3.1-32b-think</title>
+    <updated>2026-01-05T18:44:14.449143+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: allenai/olmo-3.1-32b-think&lt;br/&gt;Release Date: 2025-12-16&lt;br/&gt;Developer: allenai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="kwaipilot" label="developer"/>
-    <category term="kwaipilot/kat-coder-pro" label="model_id"/>
-    <category term="2025-11-10" label="release_date"/>
+    <category term="allenai" label="developer"/>
+    <category term="allenai/olmo-3.1-32b-think" label="model_id"/>
+    <category term="2025-12-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-11-10T00:00:00+00:00</published>
+    <published>2025-12-16T00:00:00+00:00</published>
   </entry>
 </feed>
