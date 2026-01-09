@@ -3096,6 +3096,13 @@
   {
     "provider": "openrouter",
     "developer": "nex-agi",
+    "model_id": "nex-agi/deepseek-v3.1-nex-n1",
+    "release_date": "2025-12-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nex-agi",
     "model_id": "nex-agi/deepseek-v3.1-nex-n1:free",
     "release_date": "2025-12-08",
     "status": "active"
