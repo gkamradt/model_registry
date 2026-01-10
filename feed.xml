@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-09T23:03:34.120275+00:00</updated>
+  <updated>2026-01-10T04:42:04.557753+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:allenai:allenai/molmo-2-8b</id>
-    <title>openrouter - allenai - allenai/molmo-2-8b</title>
-    <updated>2026-01-09T23:03:34.120318+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: allenai/molmo-2-8b&lt;br/&gt;Release Date: 2026-01-09&lt;br/&gt;Developer: allenai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:allenai:allenai/molmo-2-8b:free</id>
+    <title>openrouter - allenai - allenai/molmo-2-8b:free</title>
+    <updated>2026-01-10T04:42:04.557805+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: allenai/molmo-2-8b:free&lt;br/&gt;Release Date: 2026-01-09&lt;br/&gt;Developer: allenai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="allenai" label="developer"/>
-    <category term="allenai/molmo-2-8b" label="model_id"/>
+    <category term="allenai/molmo-2-8b:free" label="model_id"/>
     <category term="2026-01-09" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-01-09T00:00:00+00:00</published>
