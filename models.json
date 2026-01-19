@@ -4461,6 +4461,20 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-audio",
+    "release_date": "2026-01-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-audio-mini",
+    "release_date": "2026-01-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-oss-120b",
     "release_date": "2025-08-05",
     "status": "active"

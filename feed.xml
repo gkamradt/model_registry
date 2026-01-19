@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-19T16:05:01.696917+00:00</updated>
+  <updated>2026-01-19T23:03:26.683561+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-4.7-flash</id>
-    <title>openrouter - z-ai - z-ai/glm-4.7-flash</title>
-    <updated>2026-01-19T16:05:01.696966+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-4.7-flash&lt;br/&gt;Release Date: 2026-01-19&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-audio-mini</id>
+    <title>openrouter - openai - openai/gpt-audio-mini</title>
+    <updated>2026-01-19T23:03:26.683887+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-audio-mini&lt;br/&gt;Release Date: 2026-01-19&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="z-ai" label="developer"/>
-    <category term="z-ai/glm-4.7-flash" label="model_id"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-audio-mini" label="model_id"/>
+    <category term="2026-01-19" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-01-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-audio</id>
+    <title>openrouter - openai - openai/gpt-audio</title>
+    <updated>2026-01-19T23:03:26.683607+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-audio&lt;br/&gt;Release Date: 2026-01-19&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-audio" label="model_id"/>
     <category term="2026-01-19" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-01-19T00:00:00+00:00</published>
