@@ -2263,6 +2263,20 @@
   {
     "provider": "openrouter",
     "developer": "liquid",
+    "model_id": "liquid/lfm-2.5-1.2b-instruct:free",
+    "release_date": "2026-01-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "liquid",
+    "model_id": "liquid/lfm-2.5-1.2b-thinking:free",
+    "release_date": "2026-01-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "liquid",
     "model_id": "liquid/lfm-3b",
     "release_date": "2025-01-25",
     "status": "active"
