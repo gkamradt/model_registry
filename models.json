@@ -5650,6 +5650,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "writer",
+    "model_id": "writer/palmyra-x5",
+    "release_date": "2026-01-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "x-ai",
     "model_id": "x-ai/grok-2-1212",
     "release_date": "2024-12-15",

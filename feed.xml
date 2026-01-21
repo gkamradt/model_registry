@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-20T17:41:41.725969+00:00</updated>
+  <updated>2026-01-21T18:13:32.246616+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2.5-1.2b-thinking:free</id>
-    <title>openrouter - liquid - liquid/lfm-2.5-1.2b-thinking:free</title>
-    <updated>2026-01-20T17:41:41.726298+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2.5-1.2b-thinking:free&lt;br/&gt;Release Date: 2026-01-20&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:writer:writer/palmyra-x5</id>
+    <title>openrouter - writer - writer/palmyra-x5</title>
+    <updated>2026-01-21T18:13:32.246663+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: writer/palmyra-x5&lt;br/&gt;Release Date: 2026-01-21&lt;br/&gt;Developer: writer&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm-2.5-1.2b-thinking:free" label="model_id"/>
-    <category term="2026-01-20" label="release_date"/>
+    <category term="writer" label="developer"/>
+    <category term="writer/palmyra-x5" label="model_id"/>
+    <category term="2026-01-21" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-01-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2.5-1.2b-instruct:free</id>
-    <title>openrouter - liquid - liquid/lfm-2.5-1.2b-instruct:free</title>
-    <updated>2026-01-20T17:41:41.726011+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2.5-1.2b-instruct:free&lt;br/&gt;Release Date: 2026-01-20&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm-2.5-1.2b-instruct:free" label="model_id"/>
-    <category term="2026-01-20" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-01-20T00:00:00+00:00</published>
+    <published>2026-01-21T00:00:00+00:00</published>
   </entry>
 </feed>
