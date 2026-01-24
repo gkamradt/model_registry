@@ -2641,6 +2641,13 @@
   {
     "provider": "openrouter",
     "developer": "minimax",
+    "model_id": "minimax/minimax-m2-her",
+    "release_date": "2026-01-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "minimax",
     "model_id": "minimax/minimax-m2.1",
     "release_date": "2025-12-23",
     "status": "active"
