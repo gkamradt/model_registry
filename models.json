@@ -5657,6 +5657,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "upstage",
+    "model_id": "upstage/solar-pro-3:free",
+    "release_date": "2026-01-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "venice",
     "model_id": "venice/uncensored:free",
     "release_date": "2025-07-09",

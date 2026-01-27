@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-24T15:03:31.041133+00:00</updated>
+  <updated>2026-01-27T03:33:14.323596+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m2-her</id>
-    <title>openrouter - minimax - minimax/minimax-m2-her</title>
-    <updated>2026-01-24T15:03:31.041180+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m2-her&lt;br/&gt;Release Date: 2026-01-23&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:upstage:upstage/solar-pro-3:free</id>
+    <title>openrouter - upstage - upstage/solar-pro-3:free</title>
+    <updated>2026-01-27T03:33:14.323647+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: upstage/solar-pro-3:free&lt;br/&gt;Release Date: 2026-01-27&lt;br/&gt;Developer: upstage&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="minimax" label="developer"/>
-    <category term="minimax/minimax-m2-her" label="model_id"/>
-    <category term="2026-01-23" label="release_date"/>
+    <category term="upstage" label="developer"/>
+    <category term="upstage/solar-pro-3:free" label="model_id"/>
+    <category term="2026-01-27" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-01-23T00:00:00+00:00</published>
+    <published>2026-01-27T00:00:00+00:00</published>
   </entry>
 </feed>
