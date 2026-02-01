@@ -4811,6 +4811,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/free",
+    "release_date": "2026-02-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/horizon-alpha",
     "release_date": "2025-07-30",
     "status": "active"

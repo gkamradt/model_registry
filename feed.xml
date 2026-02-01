@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-01-27T22:37:42.119115+00:00</updated>
+  <updated>2026-02-01T18:44:18.090232+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:arcee-ai:arcee-ai/trinity-large-preview:free</id>
-    <title>openrouter - arcee-ai - arcee-ai/trinity-large-preview:free</title>
-    <updated>2026-01-27T22:37:42.119155+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: arcee-ai/trinity-large-preview:free&lt;br/&gt;Release Date: 2026-01-27&lt;br/&gt;Developer: arcee-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/free</id>
+    <title>openrouter - openrouter - openrouter/free</title>
+    <updated>2026-02-01T18:44:18.090286+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/free&lt;br/&gt;Release Date: 2026-02-01&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="arcee-ai" label="developer"/>
-    <category term="arcee-ai/trinity-large-preview:free" label="model_id"/>
-    <category term="2026-01-27" label="release_date"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/free" label="model_id"/>
+    <category term="2026-02-01" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-01-27T00:00:00+00:00</published>
+    <published>2026-02-01T00:00:00+00:00</published>
   </entry>
 </feed>
