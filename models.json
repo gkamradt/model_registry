@@ -5252,6 +5252,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-coder-next",
+    "release_date": "2026-02-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3-coder-plus",
     "release_date": "2025-09-17",
     "status": "active"

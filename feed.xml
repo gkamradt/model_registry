@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-02T03:01:11.455573+00:00</updated>
+  <updated>2026-02-04T00:49:59.009060+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:stepfun:stepfun/step-3.5-flash:free</id>
-    <title>openrouter - stepfun - stepfun/step-3.5-flash:free</title>
-    <updated>2026-02-02T03:01:11.455623+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stepfun/step-3.5-flash:free&lt;br/&gt;Release Date: 2026-01-29&lt;br/&gt;Developer: stepfun&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-coder-next</id>
+    <title>openrouter - qwen - qwen/qwen3-coder-next</title>
+    <updated>2026-02-04T00:49:59.009104+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-coder-next&lt;br/&gt;Release Date: 2026-02-04&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="stepfun" label="developer"/>
-    <category term="stepfun/step-3.5-flash:free" label="model_id"/>
-    <category term="2026-01-29" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3-coder-next" label="model_id"/>
+    <category term="2026-02-04" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-01-29T00:00:00+00:00</published>
+    <published>2026-02-04T00:00:00+00:00</published>
   </entry>
 </feed>
