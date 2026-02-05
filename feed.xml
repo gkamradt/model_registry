@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-05T17:46:22.836719+00:00</updated>
+  <updated>2026-02-05T18:16:06.765409+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:anthropic:anthropic:claude-opus-4-6</id>
-    <title>anthropic - anthropic - claude-opus-4-6</title>
-    <updated>2026-02-05T17:46:22.836774+00:00</updated>
-    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-opus-4-6&lt;br/&gt;Release Date: 2026-02-04&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="anthropic" label="provider"/>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.6</id>
+    <title>openrouter - anthropic - anthropic/claude-opus-4.6</title>
+    <updated>2026-02-05T18:16:06.765455+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.6&lt;br/&gt;Release Date: 2026-02-04&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
     <category term="anthropic" label="developer"/>
-    <category term="claude-opus-4-6" label="model_id"/>
+    <category term="anthropic/claude-opus-4.6" label="model_id"/>
     <category term="2026-02-04" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-02-04T00:00:00+00:00</published>
