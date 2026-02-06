@@ -4853,6 +4853,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/pony-alpha",
+    "release_date": "2026-02-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/sherlock-dash-alpha",
     "release_date": "2025-11-15",
     "status": "active"
