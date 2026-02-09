@@ -5315,6 +5315,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-max-thinking",
+    "release_date": "2026-02-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3-next-80b-a3b-instruct",
     "release_date": "2025-09-11",
     "status": "active"
