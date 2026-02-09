@@ -4797,6 +4797,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/aurora-alpha",
+    "release_date": "2026-02-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/auto",
     "release_date": "2023-11-08",
     "status": "active"
