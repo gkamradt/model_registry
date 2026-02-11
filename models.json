@@ -5934,5 +5934,12 @@
     "model_id": "z-ai/glm-4.7-flash",
     "release_date": "2026-01-19",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
+    "model_id": "z-ai/glm-5",
+    "release_date": "2026-02-11",
+    "status": "active"
   }
 ]
