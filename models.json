@@ -5546,6 +5546,13 @@
   {
     "provider": "openrouter",
     "developer": "stepfun",
+    "model_id": "stepfun/step-3.5-flash",
+    "release_date": "2026-01-29",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "stepfun",
     "model_id": "stepfun/step-3.5-flash:free",
     "release_date": "2026-01-29",
     "status": "active"
