@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-11T17:22:10.111234+00:00</updated>
+  <updated>2026-02-12T15:17:07.357692+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5</id>
-    <title>openrouter - z-ai - z-ai/glm-5</title>
-    <updated>2026-02-11T17:22:10.111278+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5&lt;br/&gt;Release Date: 2026-02-11&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m2.5</id>
+    <title>openrouter - minimax - minimax/minimax-m2.5</title>
+    <updated>2026-02-12T15:17:07.357743+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m2.5&lt;br/&gt;Release Date: 2026-02-12&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="z-ai" label="developer"/>
-    <category term="z-ai/glm-5" label="model_id"/>
-    <category term="2026-02-11" label="release_date"/>
+    <category term="minimax" label="developer"/>
+    <category term="minimax/minimax-m2.5" label="model_id"/>
+    <category term="2026-02-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-02-11T00:00:00+00:00</published>
+    <published>2026-02-12T00:00:00+00:00</published>
   </entry>
 </feed>
