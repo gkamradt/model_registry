@@ -5245,6 +5245,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3-4b",
+    "release_date": "2025-04-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3-4b:free",
     "release_date": "2025-04-30",
     "status": "active"
