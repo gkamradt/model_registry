@@ -5406,6 +5406,20 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3.5-397b-a17b",
+    "release_date": "2026-02-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3.5-plus-02-15",
+    "release_date": "2026-02-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwq-32b",
     "release_date": "2025-03-05",
     "status": "active"

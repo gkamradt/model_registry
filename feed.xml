@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-13T17:16:55.410767+00:00</updated>
+  <updated>2026-02-16T08:45:48.985972+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3-4b</id>
-    <title>openrouter - qwen - qwen/qwen3-4b</title>
-    <updated>2026-02-13T17:16:55.410809+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3-4b&lt;br/&gt;Release Date: 2025-04-30&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-plus-02-15</id>
+    <title>openrouter - qwen - qwen/qwen3.5-plus-02-15</title>
+    <updated>2026-02-16T08:45:48.986326+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-plus-02-15&lt;br/&gt;Release Date: 2026-02-16&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3-4b" label="model_id"/>
-    <category term="2025-04-30" label="release_date"/>
+    <category term="qwen/qwen3.5-plus-02-15" label="model_id"/>
+    <category term="2026-02-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-04-30T00:00:00+00:00</published>
+    <published>2026-02-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-397b-a17b</id>
+    <title>openrouter - qwen - qwen/qwen3.5-397b-a17b</title>
+    <updated>2026-02-16T08:45:48.986014+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-397b-a17b&lt;br/&gt;Release Date: 2026-02-16&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.5-397b-a17b" label="model_id"/>
+    <category term="2026-02-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-16T00:00:00+00:00</published>
   </entry>
 </feed>
