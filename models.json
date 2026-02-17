@@ -4755,6 +4755,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "us-40-51r-vm-ev3",
+    "release_date": "2026-02-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "whisper-1",
     "release_date": "2023-02-27",
     "status": "active"
