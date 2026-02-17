@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-17T07:21:10.701730+00:00</updated>
+  <updated>2026-02-17T17:47:08.061377+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:us-40-51r-vm-ev3</id>
-    <title>openai - openai - us-40-51r-vm-ev3</title>
-    <updated>2026-02-17T07:21:10.701807+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: us-40-51r-vm-ev3&lt;br/&gt;Release Date: 2026-02-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="us-40-51r-vm-ev3" label="model_id"/>
-    <category term="2026-02-14" label="release_date"/>
+    <id>urn:model-registry:anthropic:anthropic:claude-sonnet-4-6</id>
+    <title>anthropic - anthropic - claude-sonnet-4-6</title>
+    <updated>2026-02-17T17:47:08.061422+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-sonnet-4-6&lt;br/&gt;Release Date: 2026-02-17&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-sonnet-4-6" label="model_id"/>
+    <category term="2026-02-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-02-14T00:00:00+00:00</published>
+    <published>2026-02-17T00:00:00+00:00</published>
   </entry>
 </feed>

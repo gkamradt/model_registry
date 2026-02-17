@@ -588,6 +588,13 @@
     "status": "active"
   },
   {
+    "provider": "anthropic",
+    "developer": "anthropic",
+    "model_id": "claude-sonnet-4-6",
+    "release_date": "2026-02-17",
+    "status": "active"
+  },
+  {
     "provider": "openrouter",
     "developer": "arcee-ai",
     "model_id": "arcee-ai/afm-4.5b",
