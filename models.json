@@ -1976,6 +1976,27 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3.1-pro-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.1-pro-preview-ais-applets",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.1-pro-preview-customtools",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-embedding-001",
     "release_date": "9999-12-31",
     "status": "active"
@@ -2145,6 +2166,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/nano-banana-pro-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/snowball-computer-use-no-safety",
     "release_date": "9999-12-31",
     "status": "active"
   },
