@@ -1465,6 +1465,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/anon-bob-2",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/aqa",
     "release_date": "9999-12-31",
     "status": "active"
