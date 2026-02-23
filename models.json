@@ -4013,6 +4013,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-audio-1.5",
+    "release_date": "2026-02-20",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio-2025-08-28",
     "release_date": "2025-08-28",
     "status": "active"
@@ -4064,6 +4071,13 @@
     "developer": "openai",
     "model_id": "gpt-realtime",
     "release_date": "2025-08-27",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-realtime-1.5",
+    "release_date": "2026-02-19",
     "status": "active"
   },
   {
