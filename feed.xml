@@ -2,32 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-23T18:20:18.259283+00:00</updated>
+  <updated>2026-02-24T19:46:15.401635+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-1.5</id>
-    <title>openai - openai - gpt-realtime-1.5</title>
-    <updated>2026-02-23T18:20:18.259712+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-1.5&lt;br/&gt;Release Date: 2026-02-19&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openai:openai:gpt-5.3-codex</id>
+    <title>openai - openai - gpt-5.3-codex</title>
+    <updated>2026-02-24T19:46:15.402085+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.3-codex&lt;br/&gt;Release Date: 2026-02-08&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openai" label="provider"/>
     <category term="openai" label="developer"/>
-    <category term="gpt-realtime-1.5" label="model_id"/>
-    <category term="2026-02-19" label="release_date"/>
+    <category term="gpt-5.3-codex" label="model_id"/>
+    <category term="2026-02-08" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-02-19T00:00:00+00:00</published>
+    <published>2026-02-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-audio-1.5</id>
-    <title>openai - openai - gpt-audio-1.5</title>
-    <updated>2026-02-23T18:20:18.259353+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-audio-1.5&lt;br/&gt;Release Date: 2026-02-20&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-audio-1.5" label="model_id"/>
-    <category term="2026-02-20" label="release_date"/>
+    <id>urn:model-registry:openrouter:aion-labs:aion-labs/aion-2.0</id>
+    <title>openrouter - aion-labs - aion-labs/aion-2.0</title>
+    <updated>2026-02-24T19:46:15.401973+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: aion-labs/aion-2.0&lt;br/&gt;Release Date: 2026-02-23&lt;br/&gt;Developer: aion-labs&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="aion-labs" label="developer"/>
+    <category term="aion-labs/aion-2.0" label="model_id"/>
+    <category term="2026-02-23" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-02-20T00:00:00+00:00</published>
+    <published>2026-02-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.3-codex</id>
+    <title>openrouter - openai - openai/gpt-5.3-codex</title>
+    <updated>2026-02-24T19:46:15.401682+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.3-codex&lt;br/&gt;Release Date: 2026-02-24&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.3-codex" label="model_id"/>
+    <category term="2026-02-24" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-24T00:00:00+00:00</published>
   </entry>
 </feed>
