@@ -2,18 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-25T20:44:00.865231+00:00</updated>
+  <updated>2026-02-25T21:43:20.139552+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2-24b-a2b</id>
-    <title>openrouter - liquid - liquid/lfm-2-24b-a2b</title>
-    <updated>2026-02-25T20:44:00.865266+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2-24b-a2b&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-flash-02-23</id>
+    <title>openrouter - qwen - qwen/qwen3.5-flash-02-23</title>
+    <updated>2026-02-25T21:43:20.140191+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-flash-02-23&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm-2-24b-a2b" label="model_id"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.5-flash-02-23" label="model_id"/>
+    <category term="2026-02-25" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-35b-a3b</id>
+    <title>openrouter - qwen - qwen/qwen3.5-35b-a3b</title>
+    <updated>2026-02-25T21:43:20.140053+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-35b-a3b&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.5-35b-a3b" label="model_id"/>
+    <category term="2026-02-25" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-27b</id>
+    <title>openrouter - qwen - qwen/qwen3.5-27b</title>
+    <updated>2026-02-25T21:43:20.139906+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-27b&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.5-27b" label="model_id"/>
+    <category term="2026-02-25" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-122b-a10b</id>
+    <title>openrouter - qwen - qwen/qwen3.5-122b-a10b</title>
+    <updated>2026-02-25T21:43:20.139593+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-122b-a10b&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.5-122b-a10b" label="model_id"/>
     <category term="2026-02-25" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-02-25T00:00:00+00:00</published>
