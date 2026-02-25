@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-25T19:22:43.265202+00:00</updated>
+  <updated>2026-02-25T20:44:00.865231+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-3.1-pro-preview-customtools</id>
-    <title>openrouter - google - google/gemini-3.1-pro-preview-customtools</title>
-    <updated>2026-02-25T19:22:43.265252+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-pro-preview-customtools&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2-24b-a2b</id>
+    <title>openrouter - liquid - liquid/lfm-2-24b-a2b</title>
+    <updated>2026-02-25T20:44:00.865266+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2-24b-a2b&lt;br/&gt;Release Date: 2026-02-25&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-3.1-pro-preview-customtools" label="model_id"/>
+    <category term="liquid" label="developer"/>
+    <category term="liquid/lfm-2-24b-a2b" label="model_id"/>
     <category term="2026-02-25" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-02-25T00:00:00+00:00</published>
