@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-02-26T16:47:27.506600+00:00</updated>
+  <updated>2026-02-26T19:17:02.070122+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-image-preview</id>
-    <title>openrouter - google - google/gemini-3.1-flash-image-preview</title>
-    <updated>2026-02-26T16:47:27.506642+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-image-preview&lt;br/&gt;Release Date: 2026-02-26&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:bytedance-seed:bytedance-seed/seed-2.0-mini</id>
+    <title>openrouter - bytedance-seed - bytedance-seed/seed-2.0-mini</title>
+    <updated>2026-02-26T19:17:02.070180+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: bytedance-seed/seed-2.0-mini&lt;br/&gt;Release Date: 2026-02-26&lt;br/&gt;Developer: bytedance-seed&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-3.1-flash-image-preview" label="model_id"/>
+    <category term="bytedance-seed" label="developer"/>
+    <category term="bytedance-seed/seed-2.0-mini" label="model_id"/>
     <category term="2026-02-26" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-02-26T00:00:00+00:00</published>

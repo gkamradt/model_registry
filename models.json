@@ -764,6 +764,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "bytedance-seed",
+    "model_id": "bytedance-seed/seed-2.0-mini",
+    "release_date": "2026-02-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "cognitivecomputations",
     "model_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
     "release_date": "2025-07-09",
