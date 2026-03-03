@@ -1360,6 +1360,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-3.1-flash-lite-preview",
+    "release_date": "2026-03-03",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-3.1-pro-preview",
     "release_date": "2026-02-19",
     "status": "active"

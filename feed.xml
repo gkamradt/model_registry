@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-03T15:16:23.088694+00:00</updated>
+  <updated>2026-03-03T16:14:51.298134+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-lite-preview</id>
-    <title>gemini - google - models/gemini-3.1-flash-lite-preview</title>
-    <updated>2026-03-03T15:16:23.088760+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-lite-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-lite-preview</id>
+    <title>openrouter - google - google/gemini-3.1-flash-lite-preview</title>
+    <updated>2026-03-03T16:14:51.298195+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-lite-preview&lt;br/&gt;Release Date: 2026-03-03&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
     <category term="google" label="developer"/>
-    <category term="models/gemini-3.1-flash-lite-preview" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <category term="google/gemini-3.1-flash-lite-preview" label="model_id"/>
+    <category term="2026-03-03" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-03-03T00:00:00+00:00</published>
   </entry>
 </feed>
