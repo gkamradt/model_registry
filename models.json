@@ -5644,6 +5644,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3.5-9b",
+    "release_date": "2026-03-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3.5-flash-02-23",
     "release_date": "2026-02-25",
     "status": "active"
