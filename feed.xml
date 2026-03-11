@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-10T16:20:48.045145+00:00</updated>
+  <updated>2026-03-11T16:16:48.839627+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-embedding-2-preview</id>
-    <title>gemini - google - models/gemini-embedding-2-preview</title>
-    <updated>2026-03-10T16:20:48.045198+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-embedding-2-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-embedding-2-preview" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3-super-120b-a12b:free</id>
+    <title>openrouter - nvidia - nvidia/nemotron-3-super-120b-a12b:free</title>
+    <updated>2026-03-11T16:16:48.839663+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3-super-120b-a12b:free&lt;br/&gt;Release Date: 2026-03-11&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="nvidia" label="developer"/>
+    <category term="nvidia/nemotron-3-super-120b-a12b:free" label="model_id"/>
+    <category term="2026-03-11" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-03-11T00:00:00+00:00</published>
   </entry>
 </feed>
