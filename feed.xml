@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-11T16:16:48.839627+00:00</updated>
+  <updated>2026-03-11T20:43:01.525777+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3-super-120b-a12b:free</id>
-    <title>openrouter - nvidia - nvidia/nemotron-3-super-120b-a12b:free</title>
-    <updated>2026-03-11T16:16:48.839663+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3-super-120b-a12b:free&lt;br/&gt;Release Date: 2026-03-11&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/hunter-alpha</id>
+    <title>openrouter - openrouter - openrouter/hunter-alpha</title>
+    <updated>2026-03-11T20:43:01.526176+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/hunter-alpha&lt;br/&gt;Release Date: 2026-03-11&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="nvidia" label="developer"/>
-    <category term="nvidia/nemotron-3-super-120b-a12b:free" label="model_id"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/hunter-alpha" label="model_id"/>
+    <category term="2026-03-11" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/healer-alpha</id>
+    <title>openrouter - openrouter - openrouter/healer-alpha</title>
+    <updated>2026-03-11T20:43:01.525831+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/healer-alpha&lt;br/&gt;Release Date: 2026-03-11&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/healer-alpha" label="model_id"/>
     <category term="2026-03-11" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-03-11T00:00:00+00:00</published>
