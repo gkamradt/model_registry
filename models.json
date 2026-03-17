@@ -3082,6 +3082,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-small-2603",
+    "release_date": "2026-03-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-small-3.1-24b-instruct",
     "release_date": "2025-03-17",
     "status": "active"
