@@ -2,20 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-17T12:14:34.479613+00:00</updated>
+  <updated>2026-03-17T17:22:35.284993+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-small-2603</id>
-    <title>openrouter - mistralai - mistralai/mistral-small-2603</title>
-    <updated>2026-03-17T12:14:34.479660+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-small-2603&lt;br/&gt;Release Date: 2026-03-16&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/mistral-small-2603" label="model_id"/>
-    <category term="2026-03-16" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-5.4-nano</id>
+    <title>openai - openai - gpt-5.4-nano</title>
+    <updated>2026-03-17T17:22:35.286019+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.4-nano&lt;br/&gt;Release Date: 2026-03-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.4-nano" label="model_id"/>
+    <category term="2026-03-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-16T00:00:00+00:00</published>
+    <published>2026-03-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.4-mini</id>
+    <title>openai - openai - gpt-5.4-mini</title>
+    <updated>2026-03-17T17:22:35.285893+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.4-mini&lt;br/&gt;Release Date: 2026-03-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.4-mini" label="model_id"/>
+    <category term="2026-03-14" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4-nano</id>
+    <title>openrouter - openai - openai/gpt-5.4-nano</title>
+    <updated>2026-03-17T17:22:35.285751+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4-nano&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4-nano" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4-mini</id>
+    <title>openrouter - openai - openai/gpt-5.4-mini</title>
+    <updated>2026-03-17T17:22:35.285612+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4-mini&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4-mini" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.4-nano-2026-03-17</id>
+    <title>openai - openai - gpt-5.4-nano-2026-03-17</title>
+    <updated>2026-03-17T17:22:35.285461+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.4-nano-2026-03-17&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.4-nano-2026-03-17" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-5.4-mini-2026-03-17</id>
+    <title>openai - openai - gpt-5.4-mini-2026-03-17</title>
+    <updated>2026-03-17T17:22:35.285064+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.4-mini-2026-03-17&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.4-mini-2026-03-17" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
   </entry>
 </feed>

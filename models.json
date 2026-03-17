@@ -4132,6 +4132,34 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.4-mini",
+    "release_date": "2026-03-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.4-mini-2026-03-17",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.4-nano",
+    "release_date": "2026-03-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.4-nano-2026-03-17",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-5.4-pro",
     "release_date": "2026-03-04",
     "status": "active"
@@ -4743,6 +4771,20 @@
     "developer": "openai",
     "model_id": "openai/gpt-5.4",
     "release_date": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.4-mini",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.4-nano",
+    "release_date": "2026-03-17",
     "status": "active"
   },
   {
