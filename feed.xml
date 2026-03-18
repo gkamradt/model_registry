@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-17T17:48:07.680332+00:00</updated>
+  <updated>2026-03-18T13:31:05.228365+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:wang-test-hackathon-20260317</id>
-    <title>openai - openai - wang-test-hackathon-20260317</title>
-    <updated>2026-03-17T17:48:07.680379+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: wang-test-hackathon-20260317&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="wang-test-hackathon-20260317" label="model_id"/>
-    <category term="2026-03-17" label="release_date"/>
+    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m2.7</id>
+    <title>openrouter - minimax - minimax/minimax-m2.7</title>
+    <updated>2026-03-18T13:31:05.228434+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m2.7&lt;br/&gt;Release Date: 2026-03-18&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="minimax" label="developer"/>
+    <category term="minimax/minimax-m2.7" label="model_id"/>
+    <category term="2026-03-18" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-17T00:00:00+00:00</published>
+    <published>2026-03-18T00:00:00+00:00</published>
   </entry>
 </feed>
