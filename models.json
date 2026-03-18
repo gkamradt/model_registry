@@ -3474,6 +3474,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/nemotron-3-super-120b-a12b",
+    "release_date": "2026-03-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/nemotron-3-super-120b-a12b:free",
     "release_date": "2026-03-11",
     "status": "active"
