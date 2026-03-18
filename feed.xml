@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-18T19:45:50.148396+00:00</updated>
+  <updated>2026-03-18T23:40:07.571665+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3-super-120b-a12b</id>
-    <title>openrouter - nvidia - nvidia/nemotron-3-super-120b-a12b</title>
-    <updated>2026-03-18T19:45:50.148443+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3-super-120b-a12b&lt;br/&gt;Release Date: 2026-03-11&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="nvidia" label="developer"/>
-    <category term="nvidia/nemotron-3-super-120b-a12b" label="model_id"/>
-    <category term="2026-03-11" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-5.4-mini-2026-03-17-batch</id>
+    <title>openai - openai - gpt-5.4-mini-2026-03-17-batch</title>
+    <updated>2026-03-18T23:40:07.571735+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.4-mini-2026-03-17-batch&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-5.4-mini-2026-03-17-batch" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-11T00:00:00+00:00</published>
+    <published>2026-03-17T00:00:00+00:00</published>
   </entry>
 </feed>

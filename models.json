@@ -4160,6 +4160,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.4-mini-2026-03-17-batch",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-5.4-nano",
     "release_date": "2026-03-14",
     "status": "active"
