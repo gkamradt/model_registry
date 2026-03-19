@@ -6280,6 +6280,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2-omni",
+    "release_date": "2026-03-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2-pro",
+    "release_date": "2026-03-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "z-ai",
     "model_id": "z-ai/glm-4-32b",
     "release_date": "2025-07-24",
