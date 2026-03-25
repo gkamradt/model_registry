@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-03-19T00:19:31.292945+00:00</updated>
+  <updated>2026-03-25T14:25:56.967158+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2-pro</id>
-    <title>openrouter - xiaomi - xiaomi/mimo-v2-pro</title>
-    <updated>2026-03-19T00:19:31.293353+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2-pro&lt;br/&gt;Release Date: 2026-03-18&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="xiaomi" label="developer"/>
-    <category term="xiaomi/mimo-v2-pro" label="model_id"/>
-    <category term="2026-03-18" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/lyria-3-pro-preview</id>
+    <title>gemini - google - models/lyria-3-pro-preview</title>
+    <updated>2026-03-25T14:25:56.967544+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/lyria-3-pro-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/lyria-3-pro-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-18T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2-omni</id>
-    <title>openrouter - xiaomi - xiaomi/mimo-v2-omni</title>
-    <updated>2026-03-19T00:19:31.292990+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2-omni&lt;br/&gt;Release Date: 2026-03-18&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="xiaomi" label="developer"/>
-    <category term="xiaomi/mimo-v2-omni" label="model_id"/>
-    <category term="2026-03-18" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/lyria-3-clip-preview</id>
+    <title>gemini - google - models/lyria-3-clip-preview</title>
+    <updated>2026-03-25T14:25:56.967216+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/lyria-3-clip-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/lyria-3-clip-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-18T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
