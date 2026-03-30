@@ -1505,6 +1505,13 @@
     "status": "active"
   },
   {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/lyria-3-pro-preview",
+    "release_date": "2026-03-30",
+    "status": "active"
+  },
+  {
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/anon-bob-2",
