@@ -6295,8 +6295,22 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-4.20",
+    "release_date": "2026-03-31",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-4.20-beta",
     "release_date": "2026-03-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
+    "model_id": "x-ai/grok-4.20-multi-agent",
+    "release_date": "2026-03-31",
     "status": "active"
   },
   {
