@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-01T14:31:44.287069+00:00</updated>
+  <updated>2026-04-01T15:56:50.310038+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:rekaai:rekaai/reka-edge</id>
-    <title>openrouter - rekaai - rekaai/reka-edge</title>
-    <updated>2026-04-01T14:31:44.287127+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: rekaai/reka-edge&lt;br/&gt;Release Date: 2026-03-20&lt;br/&gt;Developer: rekaai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:arcee-ai:arcee-ai/trinity-large-thinking</id>
+    <title>openrouter - arcee-ai - arcee-ai/trinity-large-thinking</title>
+    <updated>2026-04-01T15:56:50.310076+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: arcee-ai/trinity-large-thinking&lt;br/&gt;Release Date: 2026-04-01&lt;br/&gt;Developer: arcee-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="rekaai" label="developer"/>
-    <category term="rekaai/reka-edge" label="model_id"/>
-    <category term="2026-03-20" label="release_date"/>
+    <category term="arcee-ai" label="developer"/>
+    <category term="arcee-ai/trinity-large-thinking" label="model_id"/>
+    <category term="2026-04-01" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-03-20T00:00:00+00:00</published>
+    <published>2026-04-01T00:00:00+00:00</published>
   </entry>
 </feed>
