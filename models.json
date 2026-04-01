@@ -6466,5 +6466,12 @@
     "model_id": "z-ai/glm-5-turbo",
     "release_date": "2026-03-15",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
+    "model_id": "z-ai/glm-5v-turbo",
+    "release_date": "2026-04-01",
+    "status": "active"
   }
 ]
