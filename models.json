@@ -2221,6 +2221,20 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemma-4-26b-a4b-it",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemma-4-31b-it",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/imagen-3.0-generate-002",
     "release_date": "9999-12-31",
     "status": "active"

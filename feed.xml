@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-02T13:31:04.237563+00:00</updated>
+  <updated>2026-04-02T16:19:50.216605+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.6-plus:free</id>
-    <title>openrouter - qwen - qwen/qwen3.6-plus:free</title>
-    <updated>2026-04-02T13:31:04.237632+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.6-plus:free&lt;br/&gt;Release Date: 2026-04-02&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.6-plus:free" label="model_id"/>
-    <category term="2026-04-02" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemma-4-31b-it</id>
+    <title>gemini - google - models/gemma-4-31b-it</title>
+    <updated>2026-04-02T16:19:50.216953+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemma-4-31b-it&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemma-4-31b-it" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-02T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemma-4-26b-a4b-it</id>
+    <title>gemini - google - models/gemma-4-26b-a4b-it</title>
+    <updated>2026-04-02T16:19:50.216675+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemma-4-26b-a4b-it&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemma-4-26b-a4b-it" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
