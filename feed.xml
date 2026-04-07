@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-07T16:30:31.143441+00:00</updated>
+  <updated>2026-04-07T19:48:04.963439+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.1</id>
-    <title>openrouter - z-ai - z-ai/glm-5.1</title>
-    <updated>2026-04-07T16:30:31.143507+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.1&lt;br/&gt;Release Date: 2026-04-07&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemma-4-31b-it:free</id>
+    <title>openrouter - google - google/gemma-4-31b-it:free</title>
+    <updated>2026-04-07T19:48:04.963779+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemma-4-31b-it:free&lt;br/&gt;Release Date: 2026-04-02&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="z-ai" label="developer"/>
-    <category term="z-ai/glm-5.1" label="model_id"/>
-    <category term="2026-04-07" label="release_date"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemma-4-31b-it:free" label="model_id"/>
+    <category term="2026-04-02" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-07T00:00:00+00:00</published>
+    <published>2026-04-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemma-4-26b-a4b-it:free</id>
+    <title>openrouter - google - google/gemma-4-26b-a4b-it:free</title>
+    <updated>2026-04-07T19:48:04.963493+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemma-4-26b-a4b-it:free&lt;br/&gt;Release Date: 2026-04-03&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemma-4-26b-a4b-it:free" label="model_id"/>
+    <category term="2026-04-03" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-03T00:00:00+00:00</published>
   </entry>
 </feed>

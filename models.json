@@ -1521,7 +1521,21 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemma-4-26b-a4b-it:free",
+    "release_date": "2026-04-03",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemma-4-31b-it",
+    "release_date": "2026-04-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/gemma-4-31b-it:free",
     "release_date": "2026-04-02",
     "status": "active"
   },
