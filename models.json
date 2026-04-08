@@ -5896,6 +5896,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3.6-plus",
+    "release_date": "2026-04-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3.6-plus-preview:free",
     "release_date": "2026-03-30",
     "status": "active"
