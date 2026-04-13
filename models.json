@@ -5266,6 +5266,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/elephant-alpha",
+    "release_date": "2026-04-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/free",
     "release_date": "2026-02-01",
     "status": "active"
