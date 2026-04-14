@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-13T15:28:58.536772+00:00</updated>
+  <updated>2026-04-14T15:25:56.211974+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/elephant-alpha</id>
-    <title>openrouter - openrouter - openrouter/elephant-alpha</title>
-    <updated>2026-04-13T15:28:58.536833+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/elephant-alpha&lt;br/&gt;Release Date: 2026-04-13&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/elephant-alpha" label="model_id"/>
-    <category term="2026-04-13" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-robotics-er-1.6-preview</id>
+    <title>gemini - google - models/gemini-robotics-er-1.6-preview</title>
+    <updated>2026-04-14T15:25:56.212050+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-robotics-er-1.6-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-robotics-er-1.6-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-13T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
