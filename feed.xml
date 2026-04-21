@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-20T17:22:39.706883+00:00</updated>
+  <updated>2026-04-21T16:31:32.924644+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2.6</id>
-    <title>openrouter - moonshotai - moonshotai/kimi-k2.6</title>
-    <updated>2026-04-20T17:22:39.706927+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2.6&lt;br/&gt;Release Date: 2026-04-20&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="moonshotai" label="developer"/>
-    <category term="moonshotai/kimi-k2.6" label="model_id"/>
-    <category term="2026-04-20" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/deep-research-preview-04-2026</id>
+    <title>gemini - google - models/deep-research-preview-04-2026</title>
+    <updated>2026-04-21T16:31:32.925038+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/deep-research-preview-04-2026&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/deep-research-preview-04-2026" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-20T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/deep-research-max-preview-04-2026</id>
+    <title>gemini - google - models/deep-research-max-preview-04-2026</title>
+    <updated>2026-04-21T16:31:32.924698+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/deep-research-max-preview-04-2026&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/deep-research-max-preview-04-2026" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
