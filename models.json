@@ -4426,6 +4426,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-image-2",
+    "release_date": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-2-2026-04-21",
+    "release_date": "2026-04-21",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-realtime",
     "release_date": "2025-08-27",
     "status": "active"
