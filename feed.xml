@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-21T18:21:46.889274+00:00</updated>
+  <updated>2026-04-21T18:49:13.182621+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/pareto-code</id>
-    <title>openrouter - openrouter - openrouter/pareto-code</title>
-    <updated>2026-04-21T18:21:46.889339+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/pareto-code&lt;br/&gt;Release Date: 2026-04-21&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-2.6-flash:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-2.6-flash:free</title>
+    <updated>2026-04-21T18:49:13.182683+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-2.6-flash:free&lt;br/&gt;Release Date: 2026-04-21&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/pareto-code" label="model_id"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-2.6-flash:free" label="model_id"/>
     <category term="2026-04-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-04-21T00:00:00+00:00</published>
