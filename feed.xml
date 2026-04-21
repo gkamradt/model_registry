@@ -2,30 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-21T19:27:28.141158+00:00</updated>
+  <updated>2026-04-21T22:44:19.909991+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-image-2</id>
-    <title>openai - openai - gpt-image-2</title>
-    <updated>2026-04-21T19:27:28.141444+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2&lt;br/&gt;Release Date: 2026-04-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-image-2" label="model_id"/>
-    <category term="2026-04-17" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-image-2-2026-04-21</id>
-    <title>openai - openai - gpt-image-2-2026-04-21</title>
-    <updated>2026-04-21T19:27:28.141207+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2-2026-04-21&lt;br/&gt;Release Date: 2026-04-21&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-image-2-2026-04-21" label="model_id"/>
+    <id>urn:model-registry:openrouter:~anthropic:~anthropic/claude-opus-latest</id>
+    <title>openrouter - ~anthropic - ~anthropic/claude-opus-latest</title>
+    <updated>2026-04-21T22:44:19.910046+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~anthropic/claude-opus-latest&lt;br/&gt;Release Date: 2026-04-21&lt;br/&gt;Developer: ~anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="~anthropic" label="developer"/>
+    <category term="~anthropic/claude-opus-latest" label="model_id"/>
     <category term="2026-04-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-04-21T00:00:00+00:00</published>

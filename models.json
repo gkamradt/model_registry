@@ -6634,5 +6634,12 @@
     "model_id": "z-ai/glm-5v-turbo",
     "release_date": "2026-04-01",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~anthropic",
+    "model_id": "~anthropic/claude-opus-latest",
+    "release_date": "2026-04-21",
+    "status": "active"
   }
 ]
