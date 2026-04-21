@@ -5357,6 +5357,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/pareto-code",
+    "release_date": "2026-04-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/polaris-alpha",
     "release_date": "2025-11-06",
     "status": "active"
