@@ -674,6 +674,13 @@
   {
     "provider": "openrouter",
     "developer": "arcee-ai",
+    "model_id": "arcee-ai/trinity-large-preview",
+    "release_date": "2026-01-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "arcee-ai",
     "model_id": "arcee-ai/trinity-large-preview:free",
     "release_date": "2026-01-27",
     "status": "active"
@@ -2173,6 +2180,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-embedding-001",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-embedding-2",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -6542,6 +6556,20 @@
     "developer": "xiaomi",
     "model_id": "xiaomi/mimo-v2-pro",
     "release_date": "2026-03-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.5",
+    "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.5-pro",
+    "release_date": "2026-04-22",
     "status": "active"
   },
   {
