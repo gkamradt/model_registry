@@ -2,56 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-22T16:25:34.900421+00:00</updated>
+  <updated>2026-04-23T02:16:59.278555+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:arcee-ai:arcee-ai/trinity-large-preview</id>
-    <title>openrouter - arcee-ai - arcee-ai/trinity-large-preview</title>
-    <updated>2026-04-22T16:25:34.901041+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: arcee-ai/trinity-large-preview&lt;br/&gt;Release Date: 2026-01-27&lt;br/&gt;Developer: arcee-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:baidu:baidu/qianfan-ocr-fast:free</id>
+    <title>openrouter - baidu - baidu/qianfan-ocr-fast:free</title>
+    <updated>2026-04-23T02:16:59.278619+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/qianfan-ocr-fast:free&lt;br/&gt;Release Date: 2026-04-20&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="arcee-ai" label="developer"/>
-    <category term="arcee-ai/trinity-large-preview" label="model_id"/>
-    <category term="2026-01-27" label="release_date"/>
+    <category term="baidu" label="developer"/>
+    <category term="baidu/qianfan-ocr-fast:free" label="model_id"/>
+    <category term="2026-04-20" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-01-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.5-pro</id>
-    <title>openrouter - xiaomi - xiaomi/mimo-v2.5-pro</title>
-    <updated>2026-04-22T16:25:34.900904+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.5-pro&lt;br/&gt;Release Date: 2026-04-22&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="xiaomi" label="developer"/>
-    <category term="xiaomi/mimo-v2.5-pro" label="model_id"/>
-    <category term="2026-04-22" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.5</id>
-    <title>openrouter - xiaomi - xiaomi/mimo-v2.5</title>
-    <updated>2026-04-22T16:25:34.900758+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.5&lt;br/&gt;Release Date: 2026-04-22&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="xiaomi" label="developer"/>
-    <category term="xiaomi/mimo-v2.5" label="model_id"/>
-    <category term="2026-04-22" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-embedding-2</id>
-    <title>gemini - google - models/gemini-embedding-2</title>
-    <updated>2026-04-22T16:25:34.900469+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-embedding-2&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-embedding-2" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-04-20T00:00:00+00:00</published>
   </entry>
 </feed>
