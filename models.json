@@ -6238,6 +6238,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "tencent",
+    "model_id": "tencent/hy3-preview:free",
+    "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "thedrummer",
     "model_id": "thedrummer/anubis-70b-v1.1",
     "release_date": "2025-06-29",
