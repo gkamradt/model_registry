@@ -4405,6 +4405,34 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-5.5",
+    "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.5-2026-04-23",
+    "release_date": "2026-04-23",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.5-pro",
+    "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-5.5-pro-2026-04-23",
+    "release_date": "2026-04-23",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
