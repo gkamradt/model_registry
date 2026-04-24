@@ -1205,6 +1205,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4-flash",
+    "release_date": "2026-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4-pro",
+    "release_date": "2026-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "eleutherai",
     "model_id": "eleutherai/llemma_7b",
     "release_date": "2025-04-14",
