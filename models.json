@@ -6785,8 +6785,57 @@
   {
     "provider": "openrouter",
     "developer": "~anthropic",
+    "model_id": "~anthropic/claude-haiku-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~anthropic",
     "model_id": "~anthropic/claude-opus-latest",
     "release_date": "2026-04-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~anthropic",
+    "model_id": "~anthropic/claude-sonnet-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~google",
+    "model_id": "~google/gemini-flash-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~google",
+    "model_id": "~google/gemini-pro-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~moonshotai",
+    "model_id": "~moonshotai/kimi-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
+    "model_id": "~openai/gpt-latest",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
+    "model_id": "~openai/gpt-mini-latest",
+    "release_date": "2026-04-27",
     "status": "active"
   }
 ]

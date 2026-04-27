@@ -2,42 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-27T05:04:24.171256+00:00</updated>
+  <updated>2026-04-27T20:23:12.004720+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.6-max-preview</id>
-    <title>openrouter - qwen - qwen/qwen3.6-max-preview</title>
-    <updated>2026-04-27T05:04:24.171713+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.6-max-preview&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:~openai:~openai/gpt-mini-latest</id>
+    <title>openrouter - ~openai - ~openai/gpt-mini-latest</title>
+    <updated>2026-04-27T20:23:12.005776+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-mini-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.6-max-preview" label="model_id"/>
+    <category term="~openai" label="developer"/>
+    <category term="~openai/gpt-mini-latest" label="model_id"/>
     <category term="2026-04-27" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-04-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.6-flash</id>
-    <title>openrouter - qwen - qwen/qwen3.6-flash</title>
-    <updated>2026-04-27T05:04:24.171565+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.6-flash&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:~openai:~openai/gpt-latest</id>
+    <title>openrouter - ~openai - ~openai/gpt-latest</title>
+    <updated>2026-04-27T20:23:12.005642+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.6-flash" label="model_id"/>
+    <category term="~openai" label="developer"/>
+    <category term="~openai/gpt-latest" label="model_id"/>
     <category term="2026-04-27" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-04-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.5-plus-20260420</id>
-    <title>openrouter - qwen - qwen/qwen3.5-plus-20260420</title>
-    <updated>2026-04-27T05:04:24.171311+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.5-plus-20260420&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:~moonshotai:~moonshotai/kimi-latest</id>
+    <title>openrouter - ~moonshotai - ~moonshotai/kimi-latest</title>
+    <updated>2026-04-27T20:23:12.005513+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~moonshotai/kimi-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~moonshotai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.5-plus-20260420" label="model_id"/>
+    <category term="~moonshotai" label="developer"/>
+    <category term="~moonshotai/kimi-latest" label="model_id"/>
+    <category term="2026-04-27" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:~google:~google/gemini-pro-latest</id>
+    <title>openrouter - ~google - ~google/gemini-pro-latest</title>
+    <updated>2026-04-27T20:23:12.005369+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~google/gemini-pro-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="~google" label="developer"/>
+    <category term="~google/gemini-pro-latest" label="model_id"/>
+    <category term="2026-04-27" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:~google:~google/gemini-flash-latest</id>
+    <title>openrouter - ~google - ~google/gemini-flash-latest</title>
+    <updated>2026-04-27T20:23:12.005230+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~google/gemini-flash-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="~google" label="developer"/>
+    <category term="~google/gemini-flash-latest" label="model_id"/>
+    <category term="2026-04-27" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:~anthropic:~anthropic/claude-sonnet-latest</id>
+    <title>openrouter - ~anthropic - ~anthropic/claude-sonnet-latest</title>
+    <updated>2026-04-27T20:23:12.005081+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~anthropic/claude-sonnet-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="~anthropic" label="developer"/>
+    <category term="~anthropic/claude-sonnet-latest" label="model_id"/>
+    <category term="2026-04-27" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:~anthropic:~anthropic/claude-haiku-latest</id>
+    <title>openrouter - ~anthropic - ~anthropic/claude-haiku-latest</title>
+    <updated>2026-04-27T20:23:12.004770+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~anthropic/claude-haiku-latest&lt;br/&gt;Release Date: 2026-04-27&lt;br/&gt;Developer: ~anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="~anthropic" label="developer"/>
+    <category term="~anthropic/claude-haiku-latest" label="model_id"/>
     <category term="2026-04-27" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-04-27T00:00:00+00:00</published>
