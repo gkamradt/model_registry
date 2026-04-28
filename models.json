@@ -5587,6 +5587,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "poolside",
+    "model_id": "poolside/laguna-m.1:free",
+    "release_date": "2026-04-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "poolside",
+    "model_id": "poolside/laguna-xs.2:free",
+    "release_date": "2026-04-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "prime-intellect",
     "model_id": "prime-intellect/intellect-3",
     "release_date": "2025-11-27",
