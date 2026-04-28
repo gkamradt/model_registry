@@ -5250,6 +5250,13 @@
     "status": "active"
   },
   {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/whisper-1",
+    "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
     "provider": "openai",
     "developer": "openai",
     "model_id": "osb-120b",
