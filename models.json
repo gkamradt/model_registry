@@ -5497,6 +5497,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/owl-alpha",
+    "release_date": "2026-04-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/pareto-code",
     "release_date": "2026-04-21",
     "status": "active"
