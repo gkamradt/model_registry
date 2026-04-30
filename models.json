@@ -2514,6 +2514,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "ibm-granite",
+    "model_id": "ibm-granite/granite-4.1-8b",
+    "release_date": "2026-04-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "inception",
     "model_id": "inception/mercury",
     "release_date": "2025-06-19",

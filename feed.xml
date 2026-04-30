@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-04-30T14:41:51.435125+00:00</updated>
+  <updated>2026-04-30T19:30:55.965483+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/owl-alpha</id>
-    <title>openrouter - openrouter - openrouter/owl-alpha</title>
-    <updated>2026-04-30T14:41:51.435179+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/owl-alpha&lt;br/&gt;Release Date: 2026-04-28&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:ibm-granite:ibm-granite/granite-4.1-8b</id>
+    <title>openrouter - ibm-granite - ibm-granite/granite-4.1-8b</title>
+    <updated>2026-04-30T19:30:55.965564+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ibm-granite/granite-4.1-8b&lt;br/&gt;Release Date: 2026-04-30&lt;br/&gt;Developer: ibm-granite&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/owl-alpha" label="model_id"/>
-    <category term="2026-04-28" label="release_date"/>
+    <category term="ibm-granite" label="developer"/>
+    <category term="ibm-granite/granite-4.1-8b" label="model_id"/>
+    <category term="2026-04-30" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-28T00:00:00+00:00</published>
+    <published>2026-04-30T00:00:00+00:00</published>
   </entry>
 </feed>
