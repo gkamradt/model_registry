@@ -6680,6 +6680,13 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-4.3",
+    "release_date": "2026-04-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-beta",
     "release_date": "2024-10-20",
     "status": "active"
