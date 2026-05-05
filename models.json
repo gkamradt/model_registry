@@ -3782,6 +3782,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "chat-latest",
+    "release_date": "2026-05-02",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "chatgpt-4o-latest",
     "release_date": "2024-08-13",
     "status": "active"
@@ -5142,6 +5149,13 @@
     "developer": "openai",
     "model_id": "openai/gpt-audio-mini",
     "release_date": "2026-01-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-chat-latest",
+    "release_date": "2026-05-05",
     "status": "active"
   },
   {
