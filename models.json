@@ -2942,6 +2942,13 @@
   {
     "provider": "openrouter",
     "developer": "microsoft",
+    "model_id": "microsoft/phi-4-mini-instruct",
+    "release_date": "2025-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "microsoft",
     "model_id": "microsoft/phi-4-multimodal-instruct",
     "release_date": "2025-03-08",
     "status": "active"
