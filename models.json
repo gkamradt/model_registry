@@ -737,6 +737,13 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/cobuddy:free",
+    "release_date": "2026-05-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/ernie-4.5-21b-a3b",
     "release_date": "2025-08-12",
     "status": "active"
