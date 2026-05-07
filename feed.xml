@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-07T15:19:18.754208+00:00</updated>
+  <updated>2026-05-07T16:12:37.609172+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-2.6-1t</id>
-    <title>openrouter - inclusionai - inclusionai/ling-2.6-1t</title>
-    <updated>2026-05-07T15:19:18.754253+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-2.6-1t&lt;br/&gt;Release Date: 2026-04-23&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-lite</id>
+    <title>openrouter - google - google/gemini-3.1-flash-lite</title>
+    <updated>2026-05-07T16:12:37.609227+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-lite&lt;br/&gt;Release Date: 2026-05-07&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ling-2.6-1t" label="model_id"/>
-    <category term="2026-04-23" label="release_date"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.1-flash-lite" label="model_id"/>
+    <category term="2026-05-07" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-23T00:00:00+00:00</published>
+    <published>2026-05-07T00:00:00+00:00</published>
   </entry>
 </feed>
