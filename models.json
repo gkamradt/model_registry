@@ -2571,6 +2571,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-2.6-1t",
+    "release_date": "2026-04-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ling-2.6-1t:free",
     "release_date": "2026-04-23",
     "status": "active"
