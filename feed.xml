@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-08T16:29:52.095018+00:00</updated>
+  <updated>2026-05-08T23:19:00.884721+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ring-2.6-1t:free</id>
-    <title>openrouter - inclusionai - inclusionai/ring-2.6-1t:free</title>
-    <updated>2026-05-08T16:29:52.095073+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ring-2.6-1t:free&lt;br/&gt;Release Date: 2026-05-08&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:tencent:tencent/hy3-preview</id>
+    <title>openrouter - tencent - tencent/hy3-preview</title>
+    <updated>2026-05-08T23:19:00.884781+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tencent/hy3-preview&lt;br/&gt;Release Date: 2026-04-22&lt;br/&gt;Developer: tencent&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ring-2.6-1t:free" label="model_id"/>
-    <category term="2026-05-08" label="release_date"/>
+    <category term="tencent" label="developer"/>
+    <category term="tencent/hy3-preview" label="model_id"/>
+    <category term="2026-04-22" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-05-08T00:00:00+00:00</published>
+    <published>2026-04-22T00:00:00+00:00</published>
   </entry>
 </feed>
