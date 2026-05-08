@@ -2,44 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-07T18:02:04.114882+00:00</updated>
+  <updated>2026-05-08T16:29:52.095018+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-whisper</id>
-    <title>openai - openai - gpt-realtime-whisper</title>
-    <updated>2026-05-07T18:02:04.115369+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-whisper&lt;br/&gt;Release Date: 2026-05-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-realtime-whisper" label="model_id"/>
-    <category term="2026-05-05" label="release_date"/>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ring-2.6-1t:free</id>
+    <title>openrouter - inclusionai - inclusionai/ring-2.6-1t:free</title>
+    <updated>2026-05-08T16:29:52.095073+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ring-2.6-1t:free&lt;br/&gt;Release Date: 2026-05-08&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ring-2.6-1t:free" label="model_id"/>
+    <category term="2026-05-08" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-05-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-translate</id>
-    <title>openai - openai - gpt-realtime-translate</title>
-    <updated>2026-05-07T18:02:04.115218+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-translate&lt;br/&gt;Release Date: 2026-05-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-realtime-translate" label="model_id"/>
-    <category term="2026-05-05" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-05-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-2</id>
-    <title>openai - openai - gpt-realtime-2</title>
-    <updated>2026-05-07T18:02:04.114931+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-2&lt;br/&gt;Release Date: 2026-05-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-realtime-2" label="model_id"/>
-    <category term="2026-05-05" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-05-05T00:00:00+00:00</published>
+    <published>2026-05-08T00:00:00+00:00</published>
   </entry>
 </feed>
