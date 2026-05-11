@@ -2,20 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-11T15:36:50.873921+00:00</updated>
+  <updated>2026-05-11T19:32:27.624860+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:arcee-ai:arcee-ai/trinity-large-thinking:free</id>
-    <title>openrouter - arcee-ai - arcee-ai/trinity-large-thinking:free</title>
-    <updated>2026-05-11T15:36:50.873974+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: arcee-ai/trinity-large-thinking:free&lt;br/&gt;Release Date: 2026-04-01&lt;br/&gt;Developer: arcee-ai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="arcee-ai" label="developer"/>
-    <category term="arcee-ai/trinity-large-thinking:free" label="model_id"/>
-    <category term="2026-04-01" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/omni-bag-staging-iapi-agent</id>
+    <title>gemini - google - models/omni-bag-staging-iapi-agent</title>
+    <updated>2026-05-11T19:32:27.626444+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/omni-bag-staging-iapi-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/omni-bag-staging-iapi-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-01T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/omni-bag-prod-iapi-agent</id>
+    <title>gemini - google - models/omni-bag-prod-iapi-agent</title>
+    <updated>2026-05-11T19:32:27.626334+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/omni-bag-prod-iapi-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/omni-bag-prod-iapi-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/omni-bag-autopush-iapi-agent</id>
+    <title>gemini - google - models/omni-bag-autopush-iapi-agent</title>
+    <updated>2026-05-11T19:32:27.626219+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/omni-bag-autopush-iapi-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/omni-bag-autopush-iapi-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/lyria-3-pro-preview-agent</id>
+    <title>gemini - google - models/lyria-3-pro-preview-agent</title>
+    <updated>2026-05-11T19:32:27.626061+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/lyria-3-pro-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/lyria-3-pro-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/lyria-3-clip-preview-agent</id>
+    <title>gemini - google - models/lyria-3-clip-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625926+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/lyria-3-clip-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/lyria-3-clip-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.1-pro-preview-agent</id>
+    <title>gemini - google - models/gemini-3.1-pro-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625772+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-pro-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.1-pro-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-tts-preview-agent</id>
+    <title>gemini - google - models/gemini-3.1-flash-tts-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625645+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-tts-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.1-flash-tts-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-lite-preview-agent</id>
+    <title>gemini - google - models/gemini-3.1-flash-lite-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625503+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-lite-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.1-flash-lite-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-image-preview-agent</id>
+    <title>gemini - google - models/gemini-3.1-flash-image-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625365+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-image-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.1-flash-image-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3-pro-image-preview-agent</id>
+    <title>gemini - google - models/gemini-3-pro-image-preview-agent</title>
+    <updated>2026-05-11T19:32:27.625218+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3-pro-image-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3-pro-image-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3-flash-preview-agent</id>
+    <title>gemini - google - models/gemini-3-flash-preview-agent</title>
+    <updated>2026-05-11T19:32:27.624937+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3-flash-preview-agent&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3-flash-preview-agent" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

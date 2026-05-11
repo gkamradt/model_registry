@@ -2137,6 +2137,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3-flash-preview-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-3-flash-preview-ais-applets",
     "release_date": "9999-12-31",
     "status": "active"
@@ -2145,6 +2152,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-3-pro-image-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3-pro-image-preview-agent",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -2172,6 +2186,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3.1-flash-image-preview-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-3.1-flash-lite",
     "release_date": "9999-12-31",
     "status": "active"
@@ -2180,6 +2201,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-3.1-flash-lite-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.1-flash-lite-preview-agent",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -2207,7 +2235,21 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3.1-flash-tts-preview-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-3.1-pro-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.1-pro-preview-agent",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -2431,7 +2473,21 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/lyria-3-clip-preview-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/lyria-3-pro-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/lyria-3-pro-preview-agent",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -2446,6 +2502,27 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/nano-banana-pro-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/omni-bag-autopush-iapi-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/omni-bag-prod-iapi-agent",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/omni-bag-staging-iapi-agent",
     "release_date": "9999-12-31",
     "status": "active"
   },
