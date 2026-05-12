@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-12T15:27:18.356628+00:00</updated>
+  <updated>2026-05-12T20:07:51.080770+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:perceptron:perceptron/perceptron-mk1</id>
-    <title>openrouter - perceptron - perceptron/perceptron-mk1</title>
-    <updated>2026-05-12T15:27:18.356675+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: perceptron/perceptron-mk1&lt;br/&gt;Release Date: 2026-05-12&lt;br/&gt;Developer: perceptron&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.7-fast</id>
+    <title>openrouter - anthropic - anthropic/claude-opus-4.7-fast</title>
+    <updated>2026-05-12T20:07:51.080822+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.7-fast&lt;br/&gt;Release Date: 2026-05-12&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="perceptron" label="developer"/>
-    <category term="perceptron/perceptron-mk1" label="model_id"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-opus-4.7-fast" label="model_id"/>
     <category term="2026-05-12" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-05-12T00:00:00+00:00</published>
