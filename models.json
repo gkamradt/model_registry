@@ -5727,6 +5727,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "perceptron",
+    "model_id": "perceptron/perceptron-mk1",
+    "release_date": "2026-05-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "perplexity",
     "model_id": "perplexity/llama-3.1-sonar-large-128k-online",
     "release_date": "2024-08-01",
