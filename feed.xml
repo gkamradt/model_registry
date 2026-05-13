@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-13T21:56:23.353588+00:00</updated>
+  <updated>2026-05-13T23:47:24.731956+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/ajax-vertex</id>
-    <title>gemini - google - models/ajax-vertex</title>
-    <updated>2026-05-13T21:56:23.353944+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/ajax-vertex&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/ajax-vertex" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4-flash:free</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v4-flash:free</title>
+    <updated>2026-05-13T23:47:24.732004+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4-flash:free&lt;br/&gt;Release Date: 2026-04-24&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v4-flash:free" label="model_id"/>
+    <category term="2026-04-24" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/ajax</id>
-    <title>gemini - google - models/ajax</title>
-    <updated>2026-05-13T21:56:23.353643+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/ajax&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/ajax" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-04-24T00:00:00+00:00</published>
   </entry>
 </feed>
