@@ -793,6 +793,13 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/qianfan-ocr-fast",
+    "release_date": "2026-04-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/qianfan-ocr-fast:free",
     "release_date": "2026-04-20",
     "status": "active"
