@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-14T14:15:19.541676+00:00</updated>
+  <updated>2026-05-15T15:15:01.841589+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:baidu:baidu/qianfan-ocr-fast</id>
-    <title>openrouter - baidu - baidu/qianfan-ocr-fast</title>
-    <updated>2026-05-14T14:15:19.541717+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/qianfan-ocr-fast&lt;br/&gt;Release Date: 2026-04-20&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ring-2.6-1t</id>
+    <title>openrouter - inclusionai - inclusionai/ring-2.6-1t</title>
+    <updated>2026-05-15T15:15:01.841649+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ring-2.6-1t&lt;br/&gt;Release Date: 2026-05-08&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="baidu" label="developer"/>
-    <category term="baidu/qianfan-ocr-fast" label="model_id"/>
-    <category term="2026-04-20" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ring-2.6-1t" label="model_id"/>
+    <category term="2026-05-08" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-20T00:00:00+00:00</published>
+    <published>2026-05-08T00:00:00+00:00</published>
   </entry>
 </feed>
