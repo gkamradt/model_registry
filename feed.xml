@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-15T17:03:22.476546+00:00</updated>
+  <updated>2026-05-19T17:46:06.806837+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/ajax-with-tool-retrieval</id>
-    <title>gemini - google - models/ajax-with-tool-retrieval</title>
-    <updated>2026-05-15T17:03:22.476611+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/ajax-with-tool-retrieval&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:gemini:google:models/gemini-3.5-flash</id>
+    <title>gemini - google - models/gemini-3.5-flash</title>
+    <updated>2026-05-19T17:46:06.806887+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.5-flash&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="gemini" label="provider"/>
     <category term="google" label="developer"/>
-    <category term="models/ajax-with-tool-retrieval" label="model_id"/>
+    <category term="models/gemini-3.5-flash" label="model_id"/>
     <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
     <published>9999-12-31T00:00:00+00:00</published>
