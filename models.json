@@ -6946,6 +6946,13 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-build-0.1",
+    "release_date": "2026-05-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-code-fast-1",
     "release_date": "2025-08-26",
     "status": "active"
