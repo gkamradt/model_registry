@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-05-28T15:05:42.924767+00:00</updated>
+  <updated>2026-05-28T16:46:59.692733+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-image</id>
-    <title>gemini - google - models/gemini-3.1-flash-image</title>
-    <updated>2026-05-28T15:05:42.925190+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-image&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3.1-flash-image" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:anthropic:anthropic:claude-opus-4-8</id>
+    <title>anthropic - anthropic - claude-opus-4-8</title>
+    <updated>2026-05-28T16:46:59.692769+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-opus-4-8&lt;br/&gt;Release Date: 2026-05-28&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-opus-4-8" label="model_id"/>
+    <category term="2026-05-28" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3-pro-image</id>
-    <title>gemini - google - models/gemini-3-pro-image</title>
-    <updated>2026-05-28T15:05:42.924833+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3-pro-image&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3-pro-image" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-05-28T00:00:00+00:00</published>
   </entry>
 </feed>
