@@ -492,6 +492,20 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.8",
+    "release_date": "2026-05-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.8-fast",
+    "release_date": "2026-05-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-sonnet-4",
     "release_date": "2025-05-22",
     "status": "active"
