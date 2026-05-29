@@ -6658,6 +6658,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "stepfun",
+    "model_id": "stepfun/step-3.7-flash",
+    "release_date": "2026-05-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "stepfun-ai",
     "model_id": "stepfun-ai/step3",
     "release_date": "2025-08-28",
