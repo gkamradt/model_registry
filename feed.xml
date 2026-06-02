@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-01T01:46:06.885054+00:00</updated>
+  <updated>2026-06-02T20:01:32.382321+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m3</id>
-    <title>openrouter - minimax - minimax/minimax-m3</title>
-    <updated>2026-06-01T01:46:06.885103+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m3&lt;br/&gt;Release Date: 2026-05-31&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openrouter:openrouter/fusion</id>
+    <title>openrouter - openrouter - openrouter/fusion</title>
+    <updated>2026-06-02T20:01:32.382364+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/fusion&lt;br/&gt;Release Date: 2026-05-12&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="minimax" label="developer"/>
-    <category term="minimax/minimax-m3" label="model_id"/>
-    <category term="2026-05-31" label="release_date"/>
+    <category term="openrouter" label="developer"/>
+    <category term="openrouter/fusion" label="model_id"/>
+    <category term="2026-05-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-05-31T00:00:00+00:00</published>
+    <published>2026-05-12T00:00:00+00:00</published>
   </entry>
 </feed>

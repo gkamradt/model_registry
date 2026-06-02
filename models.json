@@ -5763,6 +5763,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/fusion",
+    "release_date": "2026-05-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/healer-alpha",
     "release_date": "2026-03-11",
     "status": "active"
