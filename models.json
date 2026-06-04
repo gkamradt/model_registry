@@ -3978,6 +3978,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/nemotron-3-ultra-550b-a55b",
+    "release_date": "2026-06-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "release_date": "2026-06-04",
     "status": "active"
