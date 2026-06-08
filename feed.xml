@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-08T17:05:32.513754+00:00</updated>
+  <updated>2026-06-08T18:17:08.137869+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/Nex-N2-Pro:free</id>
-    <title>openrouter - nex-agi - nex-agi/Nex-N2-Pro:free</title>
-    <updated>2026-06-08T17:05:32.513839+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/Nex-N2-Pro:free&lt;br/&gt;Release Date: 2026-06-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2-pro:free</id>
+    <title>openrouter - nex-agi - nex-agi/nex-n2-pro:free</title>
+    <updated>2026-06-08T18:17:08.137940+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2-pro:free&lt;br/&gt;Release Date: 2026-06-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/Nex-N2-Pro:free" label="model_id"/>
+    <category term="nex-agi/nex-n2-pro:free" label="model_id"/>
     <category term="2026-06-08" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-06-08T00:00:00+00:00</published>

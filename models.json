@@ -3830,6 +3830,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "nex-agi",
+    "model_id": "nex-agi/nex-n2-pro:free",
+    "release_date": "2026-06-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "nothingiisreal",
     "model_id": "nothingiisreal/mn-celeste-12b",
     "release_date": "2024-08-02",
