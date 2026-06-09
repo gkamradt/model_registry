@@ -7254,6 +7254,13 @@
   {
     "provider": "openrouter",
     "developer": "~anthropic",
+    "model_id": "~anthropic/claude-fable-latest",
+    "release_date": "2026-06-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~anthropic",
     "model_id": "~anthropic/claude-haiku-latest",
     "release_date": "2026-04-27",
     "status": "active"
