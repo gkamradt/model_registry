@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-09T16:53:07.861232+00:00</updated>
+  <updated>2026-06-09T17:40:13.303918+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:anthropic:anthropic:claude-fable-5</id>
-    <title>anthropic - anthropic - claude-fable-5</title>
-    <updated>2026-06-09T16:53:07.861297+00:00</updated>
-    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-fable-5&lt;br/&gt;Release Date: 2026-06-07&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="anthropic" label="provider"/>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-fable-5</id>
+    <title>openrouter - anthropic - anthropic/claude-fable-5</title>
+    <updated>2026-06-09T17:40:13.303979+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-fable-5&lt;br/&gt;Release Date: 2026-06-09&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
     <category term="anthropic" label="developer"/>
-    <category term="claude-fable-5" label="model_id"/>
-    <category term="2026-06-07" label="release_date"/>
+    <category term="anthropic/claude-fable-5" label="model_id"/>
+    <category term="2026-06-09" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-07T00:00:00+00:00</published>
+    <published>2026-06-09T00:00:00+00:00</published>
   </entry>
 </feed>
