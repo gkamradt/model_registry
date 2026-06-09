@@ -590,6 +590,13 @@
   {
     "provider": "anthropic",
     "developer": "anthropic",
+    "model_id": "claude-fable-5",
+    "release_date": "2026-06-07",
+    "status": "active"
+  },
+  {
+    "provider": "anthropic",
+    "developer": "anthropic",
     "model_id": "claude-haiku-4-5-20251001",
     "release_date": "2025-10-15",
     "status": "active"
