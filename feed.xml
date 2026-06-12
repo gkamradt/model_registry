@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-09T18:42:46.453245+00:00</updated>
+  <updated>2026-06-12T13:06:28.898040+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:~anthropic:~anthropic/claude-fable-latest</id>
-    <title>openrouter - ~anthropic - ~anthropic/claude-fable-latest</title>
-    <updated>2026-06-09T18:42:46.453306+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~anthropic/claude-fable-latest&lt;br/&gt;Release Date: 2026-06-09&lt;br/&gt;Developer: ~anthropic&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2.7-code</id>
+    <title>openrouter - moonshotai - moonshotai/kimi-k2.7-code</title>
+    <updated>2026-06-12T13:06:28.898084+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2.7-code&lt;br/&gt;Release Date: 2026-06-12&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="~anthropic" label="developer"/>
-    <category term="~anthropic/claude-fable-latest" label="model_id"/>
-    <category term="2026-06-09" label="release_date"/>
+    <category term="moonshotai" label="developer"/>
+    <category term="moonshotai/kimi-k2.7-code" label="model_id"/>
+    <category term="2026-06-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-09T00:00:00+00:00</published>
+    <published>2026-06-12T00:00:00+00:00</published>
   </entry>
 </feed>
