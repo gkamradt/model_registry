@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-16T18:48:05.748367+00:00</updated>
+  <updated>2026-06-17T22:10:17.868766+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.2</id>
-    <title>openrouter - z-ai - z-ai/glm-5.2</title>
-    <updated>2026-06-16T18:48:05.748432+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.2&lt;br/&gt;Release Date: 2026-06-16&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:cohere:cohere/north-mini-code:free</id>
+    <title>openrouter - cohere - cohere/north-mini-code:free</title>
+    <updated>2026-06-17T22:10:17.868819+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: cohere/north-mini-code:free&lt;br/&gt;Release Date: 2026-06-17&lt;br/&gt;Developer: cohere&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="z-ai" label="developer"/>
-    <category term="z-ai/glm-5.2" label="model_id"/>
-    <category term="2026-06-16" label="release_date"/>
+    <category term="cohere" label="developer"/>
+    <category term="cohere/north-mini-code:free" label="model_id"/>
+    <category term="2026-06-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-16T00:00:00+00:00</published>
+    <published>2026-06-17T00:00:00+00:00</published>
   </entry>
 </feed>
