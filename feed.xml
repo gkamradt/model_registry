@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-17T22:10:17.868766+00:00</updated>
+  <updated>2026-06-18T05:05:43.470104+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:cohere:cohere/north-mini-code:free</id>
-    <title>openrouter - cohere - cohere/north-mini-code:free</title>
-    <updated>2026-06-17T22:10:17.868819+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: cohere/north-mini-code:free&lt;br/&gt;Release Date: 2026-06-17&lt;br/&gt;Developer: cohere&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-image</id>
+    <title>openrouter - google - google/gemini-3.1-flash-image</title>
+    <updated>2026-06-18T05:05:43.470444+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-image&lt;br/&gt;Release Date: 2026-06-18&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="cohere" label="developer"/>
-    <category term="cohere/north-mini-code:free" label="model_id"/>
-    <category term="2026-06-17" label="release_date"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.1-flash-image" label="model_id"/>
+    <category term="2026-06-18" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-17T00:00:00+00:00</published>
+    <published>2026-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3-pro-image</id>
+    <title>openrouter - google - google/gemini-3-pro-image</title>
+    <updated>2026-06-18T05:05:43.470172+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3-pro-image&lt;br/&gt;Release Date: 2026-06-18&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3-pro-image" label="model_id"/>
+    <category term="2026-06-18" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-18T00:00:00+00:00</published>
   </entry>
 </feed>
