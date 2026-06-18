@@ -6029,7 +6029,21 @@
   {
     "provider": "openrouter",
     "developer": "poolside",
+    "model_id": "poolside/laguna-m.1",
+    "release_date": "2026-04-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "poolside",
     "model_id": "poolside/laguna-m.1:free",
+    "release_date": "2026-04-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "poolside",
+    "model_id": "poolside/laguna-xs.2",
     "release_date": "2026-04-28",
     "status": "active"
   },
