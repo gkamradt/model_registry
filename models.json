@@ -6693,6 +6693,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "sakana",
+    "model_id": "sakana/fugu-ultra",
+    "release_date": "2026-06-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "sao10k",
     "model_id": "sao10k/fimbulvetr-11b-v2",
     "release_date": "2024-04-21",
