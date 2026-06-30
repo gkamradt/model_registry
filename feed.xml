@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-30T17:34:50.654212+00:00</updated>
+  <updated>2026-06-30T18:35:50.659921+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-lite-image</id>
-    <title>openrouter - google - google/gemini-3.1-flash-lite-image</title>
-    <updated>2026-06-30T17:34:50.654250+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-lite-image&lt;br/&gt;Release Date: 2026-06-30&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:anthropic:anthropic:claude-sonnet-5</id>
+    <title>anthropic - anthropic - claude-sonnet-5</title>
+    <updated>2026-06-30T18:35:50.660227+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-sonnet-5&lt;br/&gt;Release Date: 2026-06-29&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-sonnet-5" label="model_id"/>
+    <category term="2026-06-29" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-sonnet-5</id>
+    <title>openrouter - anthropic - anthropic/claude-sonnet-5</title>
+    <updated>2026-06-30T18:35:50.659992+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-sonnet-5&lt;br/&gt;Release Date: 2026-06-30&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-3.1-flash-lite-image" label="model_id"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-sonnet-5" label="model_id"/>
     <category term="2026-06-30" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-06-30T00:00:00+00:00</published>
