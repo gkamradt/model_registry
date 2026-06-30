@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-06-24T04:51:49.444757+00:00</updated>
+  <updated>2026-06-30T14:51:39.130706+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:sakana:sakana/fugu-ultra</id>
-    <title>openrouter - sakana - sakana/fugu-ultra</title>
-    <updated>2026-06-24T04:51:49.444800+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: sakana/fugu-ultra&lt;br/&gt;Release Date: 2026-06-24&lt;br/&gt;Developer: sakana&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="sakana" label="developer"/>
-    <category term="sakana/fugu-ultra" label="model_id"/>
-    <category term="2026-06-24" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-omni-flash-preview</id>
+    <title>gemini - google - models/gemini-omni-flash-preview</title>
+    <updated>2026-06-30T14:51:39.131117+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-omni-flash-preview&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-omni-flash-preview" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-24T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.1-flash-lite-image</id>
+    <title>gemini - google - models/gemini-3.1-flash-lite-image</title>
+    <updated>2026-06-30T14:51:39.130776+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.1-flash-lite-image&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.1-flash-lite-image" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2333,6 +2333,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3.1-flash-lite-image",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-3.1-flash-lite-preview",
     "release_date": "9999-12-31",
     "status": "active"
@@ -2474,6 +2481,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-live-2.5-flash-preview",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-omni-flash-preview",
     "release_date": "9999-12-31",
     "status": "active"
   },
