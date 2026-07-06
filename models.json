@@ -3915,6 +3915,13 @@
   {
     "provider": "openrouter",
     "developer": "nex-agi",
+    "model_id": "nex-agi/nex-n2-mini",
+    "release_date": "2026-06-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nex-agi",
     "model_id": "nex-agi/nex-n2-pro",
     "release_date": "2026-06-08",
     "status": "active"

@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-06T16:14:20.727600+00:00</updated>
+  <updated>2026-07-06T20:20:28.207813+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:tencent:tencent/hy3:free</id>
-    <title>openrouter - tencent - tencent/hy3:free</title>
-    <updated>2026-07-06T16:14:20.727897+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tencent/hy3:free&lt;br/&gt;Release Date: 2026-07-06&lt;br/&gt;Developer: tencent&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2-mini</id>
+    <title>openrouter - nex-agi - nex-agi/nex-n2-mini</title>
+    <updated>2026-07-06T20:20:28.207861+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2-mini&lt;br/&gt;Release Date: 2026-06-24&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="tencent" label="developer"/>
-    <category term="tencent/hy3:free" label="model_id"/>
-    <category term="2026-07-06" label="release_date"/>
+    <category term="nex-agi" label="developer"/>
+    <category term="nex-agi/nex-n2-mini" label="model_id"/>
+    <category term="2026-06-24" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:tencent:tencent/hy3</id>
-    <title>openrouter - tencent - tencent/hy3</title>
-    <updated>2026-07-06T16:14:20.727651+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tencent/hy3&lt;br/&gt;Release Date: 2026-07-06&lt;br/&gt;Developer: tencent&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="tencent" label="developer"/>
-    <category term="tencent/hy3" label="model_id"/>
-    <category term="2026-07-06" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-06T00:00:00+00:00</published>
+    <published>2026-06-24T00:00:00+00:00</published>
   </entry>
 </feed>
