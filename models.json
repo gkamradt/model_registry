@@ -6897,6 +6897,13 @@
   {
     "provider": "openrouter",
     "developer": "tencent",
+    "model_id": "tencent/hy3",
+    "release_date": "2026-07-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "tencent",
     "model_id": "tencent/hy3-preview",
     "release_date": "2026-04-22",
     "status": "active"
@@ -6906,6 +6913,13 @@
     "developer": "tencent",
     "model_id": "tencent/hy3-preview:free",
     "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "tencent",
+    "model_id": "tencent/hy3:free",
+    "release_date": "2026-07-06",
     "status": "active"
   },
   {
