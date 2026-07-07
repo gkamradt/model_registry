@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-06T23:00:26.841915+00:00</updated>
+  <updated>2026-07-07T20:47:19.843516+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-2.1-mini</id>
-    <title>openai - openai - gpt-realtime-2.1-mini</title>
-    <updated>2026-07-06T23:00:26.842166+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-2.1-mini&lt;br/&gt;Release Date: 2026-06-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-realtime-2.1-mini" label="model_id"/>
-    <category term="2026-06-23" label="release_date"/>
+    <id>urn:model-registry:openrouter:aion-labs:aion-labs/aion-3.0-mini</id>
+    <title>openrouter - aion-labs - aion-labs/aion-3.0-mini</title>
+    <updated>2026-07-07T20:47:19.843782+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: aion-labs/aion-3.0-mini&lt;br/&gt;Release Date: 2026-07-07&lt;br/&gt;Developer: aion-labs&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="aion-labs" label="developer"/>
+    <category term="aion-labs/aion-3.0-mini" label="model_id"/>
+    <category term="2026-07-07" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-23T00:00:00+00:00</published>
+    <published>2026-07-07T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-realtime-2.1</id>
-    <title>openai - openai - gpt-realtime-2.1</title>
-    <updated>2026-07-06T23:00:26.841955+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-realtime-2.1&lt;br/&gt;Release Date: 2026-06-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-realtime-2.1" label="model_id"/>
-    <category term="2026-06-23" label="release_date"/>
+    <id>urn:model-registry:openrouter:aion-labs:aion-labs/aion-3.0</id>
+    <title>openrouter - aion-labs - aion-labs/aion-3.0</title>
+    <updated>2026-07-07T20:47:19.843557+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: aion-labs/aion-3.0&lt;br/&gt;Release Date: 2026-07-07&lt;br/&gt;Developer: aion-labs&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="aion-labs" label="developer"/>
+    <category term="aion-labs/aion-3.0" label="model_id"/>
+    <category term="2026-07-07" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-06-23T00:00:00+00:00</published>
+    <published>2026-07-07T00:00:00+00:00</published>
   </entry>
 </feed>
