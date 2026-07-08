@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-08T15:21:57.149875+00:00</updated>
+  <updated>2026-07-08T18:13:26.278333+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:~x-ai:~x-ai/grok-latest</id>
-    <title>openrouter - ~x-ai - ~x-ai/grok-latest</title>
-    <updated>2026-07-08T15:21:57.149919+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~x-ai/grok-latest&lt;br/&gt;Release Date: 2026-07-08&lt;br/&gt;Developer: ~x-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.5</id>
+    <title>openrouter - x-ai - x-ai/grok-4.5</title>
+    <updated>2026-07-08T18:13:26.278372+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.5&lt;br/&gt;Release Date: 2026-07-08&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="~x-ai" label="developer"/>
-    <category term="~x-ai/grok-latest" label="model_id"/>
+    <category term="x-ai" label="developer"/>
+    <category term="x-ai/grok-4.5" label="model_id"/>
     <category term="2026-07-08" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-07-08T00:00:00+00:00</published>
