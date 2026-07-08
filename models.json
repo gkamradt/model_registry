@@ -7481,5 +7481,12 @@
     "model_id": "~openai/gpt-mini-latest",
     "release_date": "2026-04-27",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~x-ai",
+    "model_id": "~x-ai/grok-latest",
+    "release_date": "2026-07-08",
+    "status": "active"
   }
 ]
