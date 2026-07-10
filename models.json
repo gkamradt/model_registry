@@ -912,6 +912,13 @@
   {
     "provider": "openrouter",
     "developer": "cognitivecomputations",
+    "model_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+    "release_date": "2025-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "cognitivecomputations",
     "model_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
     "release_date": "2025-07-09",
     "status": "active"

@@ -2,116 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-09T18:15:23.460397+00:00</updated>
+  <updated>2026-07-10T01:06:40.925475+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-5.6-terra</id>
-    <title>openai - openai - gpt-5.6-terra</title>
-    <updated>2026-07-09T18:15:23.461774+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.6-terra&lt;br/&gt;Release Date: 2026-06-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-5.6-terra" label="model_id"/>
-    <category term="2026-06-23" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-5.6-sol</id>
-    <title>openai - openai - gpt-5.6-sol</title>
-    <updated>2026-07-09T18:15:23.461618+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.6-sol&lt;br/&gt;Release Date: 2026-06-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-5.6-sol" label="model_id"/>
-    <category term="2026-06-23" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-5.6-luna</id>
-    <title>openai - openai - gpt-5.6-luna</title>
-    <updated>2026-07-09T18:15:23.461459+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-5.6-luna&lt;br/&gt;Release Date: 2026-06-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-5.6-luna" label="model_id"/>
-    <category term="2026-06-23" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-terra-pro</id>
-    <title>openrouter - openai - openai/gpt-5.6-terra-pro</title>
-    <updated>2026-07-09T18:15:23.461333+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-terra-pro&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:cognitivecomputations:cognitivecomputations/dolphin-mistral-24b-venice-edition</id>
+    <title>openrouter - cognitivecomputations - cognitivecomputations/dolphin-mistral-24b-venice-edition</title>
+    <updated>2026-07-10T01:06:40.925519+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: cognitivecomputations/dolphin-mistral-24b-venice-edition&lt;br/&gt;Release Date: 2025-07-09&lt;br/&gt;Developer: cognitivecomputations&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-terra-pro" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
+    <category term="cognitivecomputations" label="developer"/>
+    <category term="cognitivecomputations/dolphin-mistral-24b-venice-edition" label="model_id"/>
+    <category term="2025-07-09" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-terra</id>
-    <title>openrouter - openai - openai/gpt-5.6-terra</title>
-    <updated>2026-07-09T18:15:23.461197+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-terra&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-terra" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-sol-pro</id>
-    <title>openrouter - openai - openai/gpt-5.6-sol-pro</title>
-    <updated>2026-07-09T18:15:23.461053+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-sol-pro&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-sol-pro" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-sol</id>
-    <title>openrouter - openai - openai/gpt-5.6-sol</title>
-    <updated>2026-07-09T18:15:23.460911+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-sol&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-sol" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-luna-pro</id>
-    <title>openrouter - openai - openai/gpt-5.6-luna-pro</title>
-    <updated>2026-07-09T18:15:23.460752+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-luna-pro&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-luna-pro" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-luna</id>
-    <title>openrouter - openai - openai/gpt-5.6-luna</title>
-    <updated>2026-07-09T18:15:23.460449+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-luna&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-5.6-luna" label="model_id"/>
-    <category term="2026-07-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-09T00:00:00+00:00</published>
+    <published>2025-07-09T00:00:00+00:00</published>
   </entry>
 </feed>
