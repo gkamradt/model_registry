@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-10T01:06:40.925475+00:00</updated>
+  <updated>2026-07-14T04:45:31.883977+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:cognitivecomputations:cognitivecomputations/dolphin-mistral-24b-venice-edition</id>
-    <title>openrouter - cognitivecomputations - cognitivecomputations/dolphin-mistral-24b-venice-edition</title>
-    <updated>2026-07-10T01:06:40.925519+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: cognitivecomputations/dolphin-mistral-24b-venice-edition&lt;br/&gt;Release Date: 2025-07-09&lt;br/&gt;Developer: cognitivecomputations&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:kwaipilot:kwaipilot/kat-coder-pro-v2.5</id>
+    <title>openrouter - kwaipilot - kwaipilot/kat-coder-pro-v2.5</title>
+    <updated>2026-07-14T04:45:31.884306+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: kwaipilot/kat-coder-pro-v2.5&lt;br/&gt;Release Date: 2026-07-10&lt;br/&gt;Developer: kwaipilot&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="cognitivecomputations" label="developer"/>
-    <category term="cognitivecomputations/dolphin-mistral-24b-venice-edition" label="model_id"/>
-    <category term="2025-07-09" label="release_date"/>
+    <category term="kwaipilot" label="developer"/>
+    <category term="kwaipilot/kat-coder-pro-v2.5" label="model_id"/>
+    <category term="2026-07-10" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-07-09T00:00:00+00:00</published>
+    <published>2026-07-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:kwaipilot:kwaipilot/kat-coder-air-v2.5</id>
+    <title>openrouter - kwaipilot - kwaipilot/kat-coder-air-v2.5</title>
+    <updated>2026-07-14T04:45:31.884030+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: kwaipilot/kat-coder-air-v2.5&lt;br/&gt;Release Date: 2026-07-10&lt;br/&gt;Developer: kwaipilot&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="kwaipilot" label="developer"/>
+    <category term="kwaipilot/kat-coder-air-v2.5" label="model_id"/>
+    <category term="2026-07-10" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-10T00:00:00+00:00</published>
   </entry>
 </feed>
