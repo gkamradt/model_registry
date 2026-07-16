@@ -3053,6 +3053,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "meta",
+    "model_id": "meta/muse-spark-1.1",
+    "release_date": "2026-07-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "meta-llama",
     "model_id": "meta-llama/llama-2-70b-chat",
     "release_date": "2023-06-20",
@@ -3840,6 +3847,13 @@
     "developer": "moonshotai",
     "model_id": "moonshotai/kimi-k2:free",
     "release_date": "2025-07-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-k3",
+    "release_date": "2026-07-16",
     "status": "active"
   },
   {
