@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-17T18:32:03.642132+00:00</updated>
+  <updated>2026-07-17T23:14:52.152416+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openrouter:openrouter/auto-beta</id>
-    <title>openrouter - openrouter - openrouter/auto-beta</title>
-    <updated>2026-07-17T18:32:03.642168+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openrouter/auto-beta&lt;br/&gt;Release Date: 2026-07-17&lt;br/&gt;Developer: openrouter&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling</title>
+    <updated>2026-07-17T23:14:52.152473+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling&lt;br/&gt;Release Date: 2026-07-17&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openrouter" label="developer"/>
-    <category term="openrouter/auto-beta" label="model_id"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling" label="model_id"/>
     <category term="2026-07-17" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-07-17T00:00:00+00:00</published>
