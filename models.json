@@ -6008,6 +6008,13 @@
   {
     "provider": "openrouter",
     "developer": "openrouter",
+    "model_id": "openrouter/auto-beta",
+    "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
     "model_id": "openrouter/bert-nebulon-alpha",
     "release_date": "2025-11-24",
     "status": "active"
