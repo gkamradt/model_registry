@@ -2949,6 +2949,13 @@
   {
     "provider": "openrouter",
     "developer": "kwaipilot",
+    "model_id": "kwaipilot/kat-coder-air-v2.5:free",
+    "release_date": "2026-07-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "kwaipilot",
     "model_id": "kwaipilot/kat-coder-pro",
     "release_date": "2025-11-10",
     "status": "active"
