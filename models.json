@@ -3040,6 +3040,13 @@
   {
     "provider": "openrouter",
     "developer": "meituan",
+    "model_id": "meituan/longcat-2.0",
+    "release_date": "2026-07-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "meituan",
     "model_id": "meituan/longcat-flash-chat",
     "release_date": "2025-09-09",
     "status": "active"
