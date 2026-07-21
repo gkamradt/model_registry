@@ -6267,6 +6267,20 @@
   {
     "provider": "openrouter",
     "developer": "poolside",
+    "model_id": "poolside/laguna-s-2.1",
+    "release_date": "2026-07-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "poolside",
+    "model_id": "poolside/laguna-s-2.1:free",
+    "release_date": "2026-07-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "poolside",
     "model_id": "poolside/laguna-xs-2.1",
     "release_date": "2026-07-02",
     "status": "active"

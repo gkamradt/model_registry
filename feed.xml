@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-21T16:17:46.212515+00:00</updated>
+  <updated>2026-07-21T17:51:09.169048+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-3.6-flash</id>
-    <title>openrouter - google - google/gemini-3.6-flash</title>
-    <updated>2026-07-21T16:17:46.212898+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.6-flash&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:poolside:poolside/laguna-s-2.1:free</id>
+    <title>openrouter - poolside - poolside/laguna-s-2.1:free</title>
+    <updated>2026-07-21T17:51:09.169335+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: poolside/laguna-s-2.1:free&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: poolside&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-3.6-flash" label="model_id"/>
+    <category term="poolside" label="developer"/>
+    <category term="poolside/laguna-s-2.1:free" label="model_id"/>
     <category term="2026-07-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-07-21T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-3.5-flash-lite</id>
-    <title>openrouter - google - google/gemini-3.5-flash-lite</title>
-    <updated>2026-07-21T16:17:46.212570+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.5-flash-lite&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:poolside:poolside/laguna-s-2.1</id>
+    <title>openrouter - poolside - poolside/laguna-s-2.1</title>
+    <updated>2026-07-21T17:51:09.169098+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: poolside/laguna-s-2.1&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: poolside&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-3.5-flash-lite" label="model_id"/>
+    <category term="poolside" label="developer"/>
+    <category term="poolside/laguna-s-2.1" label="model_id"/>
     <category term="2026-07-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-07-21T00:00:00+00:00</published>
