@@ -457,6 +457,13 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-fable-5:batch",
+    "release_date": "2026-06-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-haiku-4.5",
     "release_date": "2025-10-14",
     "status": "active"
@@ -478,7 +485,21 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.1:batch",
+    "release_date": "2025-08-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-opus-4.5",
+    "release_date": "2025-11-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.5:batch",
     "release_date": "2025-11-24",
     "status": "active"
   },
@@ -499,6 +520,13 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.6:batch",
+    "release_date": "2026-02-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-opus-4.7",
     "release_date": "2026-04-16",
     "status": "active"
@@ -513,6 +541,13 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.7:batch",
+    "release_date": "2026-04-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-opus-4.8",
     "release_date": "2026-05-27",
     "status": "active"
@@ -521,6 +556,13 @@
     "provider": "openrouter",
     "developer": "anthropic",
     "model_id": "anthropic/claude-opus-4.8-fast",
+    "release_date": "2026-05-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-4.8:batch",
     "release_date": "2026-05-27",
     "status": "active"
   },
@@ -5350,6 +5392,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-3.5-turbo:batch",
+    "release_date": "2023-05-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-4",
     "release_date": "2023-05-28",
     "status": "active"
@@ -5394,6 +5443,13 @@
     "developer": "openai",
     "model_id": "openai/gpt-4-turbo-preview",
     "release_date": "2024-01-25",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-4-turbo:batch",
+    "release_date": "2024-04-09",
     "status": "active"
   },
   {
