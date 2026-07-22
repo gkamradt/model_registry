@@ -5413,7 +5413,28 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-4.1-mini:batch",
+    "release_date": "2025-04-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-4.1-nano",
+    "release_date": "2025-04-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-4.1-nano:batch",
+    "release_date": "2025-04-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-4.1:batch",
     "release_date": "2025-04-14",
     "status": "active"
   },
@@ -5483,8 +5504,22 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-4o-mini:batch",
+    "release_date": "2024-07-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-4o-search-preview",
     "release_date": "2025-03-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-4o:batch",
+    "release_date": "2024-05-13",
     "status": "active"
   },
   {
@@ -5539,7 +5574,21 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5-mini:batch",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5-nano",
+    "release_date": "2025-08-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5-nano:batch",
     "release_date": "2025-08-07",
     "status": "active"
   },
@@ -5588,6 +5637,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.1:batch",
+    "release_date": "2025-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5.2",
     "release_date": "2025-12-10",
     "status": "active"
@@ -5610,6 +5666,20 @@
     "provider": "openrouter",
     "developer": "openai",
     "model_id": "openai/gpt-5.2-pro",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.2-pro:batch",
+    "release_date": "2025-12-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.2:batch",
     "release_date": "2025-12-10",
     "status": "active"
   },
@@ -5651,6 +5721,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.4-mini:batch",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5.4-nano",
     "release_date": "2026-03-17",
     "status": "active"
@@ -5658,7 +5735,28 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.4-nano:batch",
+    "release_date": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5.4-pro",
+    "release_date": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.4-pro:batch",
+    "release_date": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.4:batch",
     "release_date": "2026-03-05",
     "status": "active"
   },
@@ -5673,6 +5771,20 @@
     "provider": "openrouter",
     "developer": "openai",
     "model_id": "openai/gpt-5.5-pro",
+    "release_date": "2026-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.5-pro:batch",
+    "release_date": "2026-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.5:batch",
     "release_date": "2026-04-24",
     "status": "active"
   },
@@ -5716,6 +5828,13 @@
     "developer": "openai",
     "model_id": "openai/gpt-5.6-terra-pro",
     "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5:batch",
+    "release_date": "2025-08-07",
     "status": "active"
   },
   {

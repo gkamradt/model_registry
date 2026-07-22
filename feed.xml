@@ -2,32 +2,212 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-21T17:51:09.169048+00:00</updated>
+  <updated>2026-07-22T21:59:37.975916+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:poolside:poolside/laguna-s-2.1:free</id>
-    <title>openrouter - poolside - poolside/laguna-s-2.1:free</title>
-    <updated>2026-07-21T17:51:09.169335+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: poolside/laguna-s-2.1:free&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: poolside&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-4o:batch</id>
+    <title>openrouter - openai - openai/gpt-4o:batch</title>
+    <updated>2026-07-22T21:59:37.977824+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4o:batch&lt;br/&gt;Release Date: 2024-05-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="poolside" label="developer"/>
-    <category term="poolside/laguna-s-2.1:free" label="model_id"/>
-    <category term="2026-07-21" label="release_date"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-4o:batch" label="model_id"/>
+    <category term="2024-05-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-21T00:00:00+00:00</published>
+    <published>2024-05-13T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:poolside:poolside/laguna-s-2.1</id>
-    <title>openrouter - poolside - poolside/laguna-s-2.1</title>
-    <updated>2026-07-21T17:51:09.169098+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: poolside/laguna-s-2.1&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: poolside&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-4o-mini:batch</id>
+    <title>openrouter - openai - openai/gpt-4o-mini:batch</title>
+    <updated>2026-07-22T21:59:37.977746+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4o-mini:batch&lt;br/&gt;Release Date: 2024-07-18&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="poolside" label="developer"/>
-    <category term="poolside/laguna-s-2.1" label="model_id"/>
-    <category term="2026-07-21" label="release_date"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-4o-mini:batch" label="model_id"/>
+    <category term="2024-07-18" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-21T00:00:00+00:00</published>
+    <published>2024-07-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-4.1:batch</id>
+    <title>openrouter - openai - openai/gpt-4.1:batch</title>
+    <updated>2026-07-22T21:59:37.977665+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4.1:batch&lt;br/&gt;Release Date: 2025-04-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-4.1:batch" label="model_id"/>
+    <category term="2025-04-14" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-4.1-nano:batch</id>
+    <title>openrouter - openai - openai/gpt-4.1-nano:batch</title>
+    <updated>2026-07-22T21:59:37.977565+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4.1-nano:batch&lt;br/&gt;Release Date: 2025-04-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-4.1-nano:batch" label="model_id"/>
+    <category term="2025-04-14" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-4.1-mini:batch</id>
+    <title>openrouter - openai - openai/gpt-4.1-mini:batch</title>
+    <updated>2026-07-22T21:59:37.977483+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4.1-mini:batch&lt;br/&gt;Release Date: 2025-04-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-4.1-mini:batch" label="model_id"/>
+    <category term="2025-04-14" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5:batch</id>
+    <title>openrouter - openai - openai/gpt-5:batch</title>
+    <updated>2026-07-22T21:59:37.977397+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5:batch&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5:batch" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-nano:batch</id>
+    <title>openrouter - openai - openai/gpt-5-nano:batch</title>
+    <updated>2026-07-22T21:59:37.977311+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-nano:batch&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-nano:batch" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-mini:batch</id>
+    <title>openrouter - openai - openai/gpt-5-mini:batch</title>
+    <updated>2026-07-22T21:59:37.977222+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-mini:batch&lt;br/&gt;Release Date: 2025-08-07&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-mini:batch" label="model_id"/>
+    <category term="2025-08-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.1:batch</id>
+    <title>openrouter - openai - openai/gpt-5.1:batch</title>
+    <updated>2026-07-22T21:59:37.977128+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.1:batch&lt;br/&gt;Release Date: 2025-11-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.1:batch" label="model_id"/>
+    <category term="2025-11-13" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.2:batch</id>
+    <title>openrouter - openai - openai/gpt-5.2:batch</title>
+    <updated>2026-07-22T21:59:37.976996+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.2:batch&lt;br/&gt;Release Date: 2025-12-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.2:batch" label="model_id"/>
+    <category term="2025-12-10" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.2-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.2-pro:batch</title>
+    <updated>2026-07-22T21:59:37.976891+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.2-pro:batch&lt;br/&gt;Release Date: 2025-12-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.2-pro:batch" label="model_id"/>
+    <category term="2025-12-10" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4:batch</id>
+    <title>openrouter - openai - openai/gpt-5.4:batch</title>
+    <updated>2026-07-22T21:59:37.976791+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4:batch&lt;br/&gt;Release Date: 2026-03-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4:batch" label="model_id"/>
+    <category term="2026-03-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.4-pro:batch</title>
+    <updated>2026-07-22T21:59:37.976685+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4-pro:batch&lt;br/&gt;Release Date: 2026-03-05&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4-pro:batch" label="model_id"/>
+    <category term="2026-03-05" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4-nano:batch</id>
+    <title>openrouter - openai - openai/gpt-5.4-nano:batch</title>
+    <updated>2026-07-22T21:59:37.976543+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4-nano:batch&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4-nano:batch" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.4-mini:batch</id>
+    <title>openrouter - openai - openai/gpt-5.4-mini:batch</title>
+    <updated>2026-07-22T21:59:37.976427+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.4-mini:batch&lt;br/&gt;Release Date: 2026-03-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.4-mini:batch" label="model_id"/>
+    <category term="2026-03-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.5:batch</id>
+    <title>openrouter - openai - openai/gpt-5.5:batch</title>
+    <updated>2026-07-22T21:59:37.976296+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.5:batch&lt;br/&gt;Release Date: 2026-04-24&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.5:batch" label="model_id"/>
+    <category term="2026-04-24" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.5-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.5-pro:batch</title>
+    <updated>2026-07-22T21:59:37.975989+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.5-pro:batch&lt;br/&gt;Release Date: 2026-04-24&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.5-pro:batch" label="model_id"/>
+    <category term="2026-04-24" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-24T00:00:00+00:00</published>
   </entry>
 </feed>
