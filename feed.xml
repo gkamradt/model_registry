@@ -2,104 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-22T23:09:04.223714+00:00</updated>
+  <updated>2026-07-23T18:42:39.799631+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-3.5-turbo:batch</id>
-    <title>openrouter - openai - openai/gpt-3.5-turbo:batch</title>
-    <updated>2026-07-22T23:09:04.224522+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-3.5-turbo:batch&lt;br/&gt;Release Date: 2023-05-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash:free</title>
+    <updated>2026-07-23T18:42:39.799693+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash:free&lt;br/&gt;Release Date: 2026-07-23&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-3.5-turbo:batch" label="model_id"/>
-    <category term="2023-05-28" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.0-flash:free" label="model_id"/>
+    <category term="2026-07-23" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2023-05-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-4-turbo:batch</id>
-    <title>openrouter - openai - openai/gpt-4-turbo:batch</title>
-    <updated>2026-07-22T23:09:04.224449+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-4-turbo:batch&lt;br/&gt;Release Date: 2024-04-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="openai/gpt-4-turbo:batch" label="model_id"/>
-    <category term="2024-04-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2024-04-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.1:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.1:batch</title>
-    <updated>2026-07-22T23:09:04.224376+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.1:batch&lt;br/&gt;Release Date: 2025-08-05&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.1:batch" label="model_id"/>
-    <category term="2025-08-05" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-08-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.5:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.5:batch</title>
-    <updated>2026-07-22T23:09:04.224279+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.5:batch&lt;br/&gt;Release Date: 2025-11-24&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.5:batch" label="model_id"/>
-    <category term="2025-11-24" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-11-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.6:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.6:batch</title>
-    <updated>2026-07-22T23:09:04.224191+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.6:batch&lt;br/&gt;Release Date: 2026-02-04&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.6:batch" label="model_id"/>
-    <category term="2026-02-04" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-02-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.7:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.7:batch</title>
-    <updated>2026-07-22T23:09:04.224107+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.7:batch&lt;br/&gt;Release Date: 2026-04-16&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.7:batch" label="model_id"/>
-    <category term="2026-04-16" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-04-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-4.8:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-4.8:batch</title>
-    <updated>2026-07-22T23:09:04.224006+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-4.8:batch&lt;br/&gt;Release Date: 2026-05-27&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-4.8:batch" label="model_id"/>
-    <category term="2026-05-27" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-05-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-fable-5:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-fable-5:batch</title>
-    <updated>2026-07-22T23:09:04.223761+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-fable-5:batch&lt;br/&gt;Release Date: 2026-06-09&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-fable-5:batch" label="model_id"/>
-    <category term="2026-06-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-06-09T00:00:00+00:00</published>
+    <published>2026-07-23T00:00:00+00:00</published>
   </entry>
 </feed>
