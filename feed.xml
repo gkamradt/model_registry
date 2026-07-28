@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-28T18:11:00.442408+00:00</updated>
+  <updated>2026-07-28T19:58:36.108387+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-transcribe</id>
-    <title>openai - openai - gpt-transcribe</title>
-    <updated>2026-07-28T18:11:00.442739+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-transcribe&lt;br/&gt;Release Date: 2026-07-27&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-transcribe" label="model_id"/>
-    <category term="2026-07-27" label="release_date"/>
+    <id>urn:model-registry:openrouter:minimax:minimax/minimax-m3:batch</id>
+    <title>openrouter - minimax - minimax/minimax-m3:batch</title>
+    <updated>2026-07-28T19:58:36.108455+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: minimax/minimax-m3:batch&lt;br/&gt;Release Date: 2026-05-31&lt;br/&gt;Developer: minimax&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="minimax" label="developer"/>
+    <category term="minimax/minimax-m3:batch" label="model_id"/>
+    <category term="2026-05-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-live-transcribe</id>
-    <title>openai - openai - gpt-live-transcribe</title>
-    <updated>2026-07-28T18:11:00.442458+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-live-transcribe&lt;br/&gt;Release Date: 2026-07-27&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-live-transcribe" label="model_id"/>
-    <category term="2026-07-27" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-07-27T00:00:00+00:00</published>
+    <published>2026-05-31T00:00:00+00:00</published>
   </entry>
 </feed>
