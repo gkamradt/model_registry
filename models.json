@@ -5224,6 +5224,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-live-transcribe",
+    "release_date": "2026-07-27",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-realtime",
     "release_date": "2025-08-27",
     "status": "active"
@@ -5296,6 +5303,13 @@
     "developer": "openai",
     "model_id": "gpt-realtime-whisper",
     "release_date": "2026-05-05",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-transcribe",
+    "release_date": "2026-07-27",
     "status": "active"
   },
   {
