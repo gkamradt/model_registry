@@ -2,20 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-28T02:24:56.026826+00:00</updated>
+  <updated>2026-07-28T16:56:20.775412+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.7-flash</id>
-    <title>openrouter - qwen - qwen/qwen3.7-flash</title>
-    <updated>2026-07-28T02:24:56.026865+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.7-flash&lt;br/&gt;Release Date: 2026-07-27&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-2.5-pro:batch</id>
+    <title>openrouter - google - google/gemini-2.5-pro:batch</title>
+    <updated>2026-07-28T16:56:20.776702+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-pro:batch&lt;br/&gt;Release Date: 2025-06-17&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.7-flash" label="model_id"/>
-    <category term="2026-07-27" label="release_date"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-2.5-pro:batch" label="model_id"/>
+    <category term="2025-06-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-27T00:00:00+00:00</published>
+    <published>2025-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-2.5-flash:batch</id>
+    <title>openrouter - google - google/gemini-2.5-flash:batch</title>
+    <updated>2026-07-28T16:56:20.776628+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-flash:batch&lt;br/&gt;Release Date: 2025-06-17&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-2.5-flash:batch" label="model_id"/>
+    <category term="2025-06-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-2.5-flash-lite:batch</id>
+    <title>openrouter - google - google/gemini-2.5-flash-lite:batch</title>
+    <updated>2026-07-28T16:56:20.776554+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-2.5-flash-lite:batch&lt;br/&gt;Release Date: 2025-07-22&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-2.5-flash-lite:batch" label="model_id"/>
+    <category term="2025-07-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-07-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-sonnet-4.5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-sonnet-4.5:batch</title>
+    <updated>2026-07-28T16:56:20.776476+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-sonnet-4.5:batch&lt;br/&gt;Release Date: 2025-09-29&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-sonnet-4.5:batch" label="model_id"/>
+    <category term="2025-09-29" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-haiku-4.5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-haiku-4.5:batch</title>
+    <updated>2026-07-28T16:56:20.776394+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-haiku-4.5:batch&lt;br/&gt;Release Date: 2025-10-15&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-haiku-4.5:batch" label="model_id"/>
+    <category term="2025-10-15" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3-flash-preview:batch</id>
+    <title>openrouter - google - google/gemini-3-flash-preview:batch</title>
+    <updated>2026-07-28T16:56:20.776281+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3-flash-preview:batch&lt;br/&gt;Release Date: 2025-12-17&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3-flash-preview:batch" label="model_id"/>
+    <category term="2025-12-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.1-pro-preview:batch</id>
+    <title>openrouter - google - google/gemini-3.1-pro-preview:batch</title>
+    <updated>2026-07-28T16:56:20.776193+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-pro-preview:batch&lt;br/&gt;Release Date: 2026-02-19&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.1-pro-preview:batch" label="model_id"/>
+    <category term="2026-02-19" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.1-flash-lite:batch</id>
+    <title>openrouter - google - google/gemini-3.1-flash-lite:batch</title>
+    <updated>2026-07-28T16:56:20.776108+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.1-flash-lite:batch&lt;br/&gt;Release Date: 2026-05-07&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.1-flash-lite:batch" label="model_id"/>
+    <category term="2026-05-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.5-flash:batch</id>
+    <title>openrouter - google - google/gemini-3.5-flash:batch</title>
+    <updated>2026-07-28T16:56:20.776018+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.5-flash:batch&lt;br/&gt;Release Date: 2026-05-19&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.5-flash:batch" label="model_id"/>
+    <category term="2026-05-19" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-05-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-sonnet-5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-sonnet-5:batch</title>
+    <updated>2026-07-28T16:56:20.775914+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-sonnet-5:batch&lt;br/&gt;Release Date: 2026-06-30&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-sonnet-5:batch" label="model_id"/>
+    <category term="2026-06-30" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.6-flash:batch</id>
+    <title>openrouter - google - google/gemini-3.6-flash:batch</title>
+    <updated>2026-07-28T16:56:20.775808+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.6-flash:batch&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.6-flash:batch" label="model_id"/>
+    <category term="2026-07-21" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-3.5-flash-lite:batch</id>
+    <title>openrouter - google - google/gemini-3.5-flash-lite:batch</title>
+    <updated>2026-07-28T16:56:20.775676+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-3.5-flash-lite:batch&lt;br/&gt;Release Date: 2026-07-21&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-3.5-flash-lite:batch" label="model_id"/>
+    <category term="2026-07-21" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-opus-5:batch</title>
+    <updated>2026-07-28T16:56:20.775456+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-5:batch&lt;br/&gt;Release Date: 2026-07-24&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-opus-5:batch" label="model_id"/>
+    <category term="2026-07-24" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-24T00:00:00+00:00</published>
   </entry>
 </feed>
