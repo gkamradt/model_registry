@@ -6218,6 +6218,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "ra-gpt-5.6-sol",
+    "release_date": "2026-07-29",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "sora-2",
     "release_date": "2025-10-05",
     "status": "active"
