@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-07-31T15:13:22.980890+00:00</updated>
+  <updated>2026-08-01T18:59:46.282350+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling-small</id>
-    <title>openrouter - thinkingmachines - thinkingmachines/inkling-small</title>
-    <updated>2026-07-31T15:13:22.980950+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling-small&lt;br/&gt;Release Date: 2026-07-30&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:~deepseek:~deepseek/deepseek-v4-flash-latest</id>
+    <title>openrouter - ~deepseek - ~deepseek/deepseek-v4-flash-latest</title>
+    <updated>2026-08-01T18:59:46.282403+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~deepseek/deepseek-v4-flash-latest&lt;br/&gt;Release Date: 2026-08-01&lt;br/&gt;Developer: ~deepseek&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="thinkingmachines" label="developer"/>
-    <category term="thinkingmachines/inkling-small" label="model_id"/>
-    <category term="2026-07-30" label="release_date"/>
+    <category term="~deepseek" label="developer"/>
+    <category term="~deepseek/deepseek-v4-flash-latest" label="model_id"/>
+    <category term="2026-08-01" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-30T00:00:00+00:00</published>
+    <published>2026-08-01T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -7981,6 +7981,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "~deepseek",
+    "model_id": "~deepseek/deepseek-v4-flash-latest",
+    "release_date": "2026-08-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "~google",
     "model_id": "~google/gemini-flash-latest",
     "release_date": "2026-04-27",
