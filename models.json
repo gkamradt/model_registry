@@ -625,6 +625,13 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-sonnet-4.6:batch",
+    "release_date": "2026-02-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-sonnet-5",
     "release_date": "2026-06-30",
     "status": "active"
@@ -4090,6 +4097,13 @@
   {
     "provider": "openrouter",
     "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-k2.7-code:batch",
+    "release_date": "2026-06-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
     "model_id": "moonshotai/kimi-k2:free",
     "release_date": "2025-07-11",
     "status": "active"
@@ -4399,6 +4413,13 @@
     "provider": "openrouter",
     "developer": "nvidia",
     "model_id": "nvidia/nemotron-3-ultra-550b-a55b",
+    "release_date": "2026-06-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
+    "model_id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
     "release_date": "2026-06-04",
     "status": "active"
   },
@@ -5784,6 +5805,13 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5-codex:batch",
+    "release_date": "2025-09-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5-image",
     "release_date": "2025-10-14",
     "status": "active"
@@ -5827,6 +5855,13 @@
     "provider": "openrouter",
     "developer": "openai",
     "model_id": "openai/gpt-5-pro",
+    "release_date": "2025-10-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5-pro:batch",
     "release_date": "2025-10-06",
     "status": "active"
   },
@@ -6036,6 +6071,20 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.6-luna-pro:batch",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.6-luna:batch",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5.6-sol",
     "release_date": "2026-07-09",
     "status": "active"
@@ -6050,6 +6099,20 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-5.6-sol-pro:batch",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.6-sol:batch",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-5.6-terra",
     "release_date": "2026-07-09",
     "status": "active"
@@ -6058,6 +6121,20 @@
     "provider": "openrouter",
     "developer": "openai",
     "model_id": "openai/gpt-5.6-terra-pro",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.6-terra-pro:batch",
+    "release_date": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-5.6-terra:batch",
     "release_date": "2026-07-09",
     "status": "active"
   },
@@ -6176,6 +6253,20 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/o1-pro:batch",
+    "release_date": "2025-03-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o1:batch",
+    "release_date": "2024-12-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/o3",
     "release_date": "2025-04-16",
     "status": "active"
@@ -6204,8 +6295,36 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/o3-mini-high:batch",
+    "release_date": "2025-02-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o3-mini:batch",
+    "release_date": "2025-01-31",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/o3-pro",
     "release_date": "2025-06-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o3-pro:batch",
+    "release_date": "2025-06-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o3:batch",
+    "release_date": "2025-04-16",
     "status": "active"
   },
   {
@@ -6226,6 +6345,20 @@
     "provider": "openrouter",
     "developer": "openai",
     "model_id": "openai/o4-mini-high",
+    "release_date": "2025-04-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o4-mini-high:batch",
+    "release_date": "2025-04-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/o4-mini:batch",
     "release_date": "2025-04-16",
     "status": "active"
   },
@@ -7554,6 +7687,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling:batch",
+    "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "thudm",
     "model_id": "thudm/glm-4-32b",
     "release_date": "2025-04-17",
@@ -7962,6 +8102,13 @@
     "provider": "openrouter",
     "developer": "z-ai",
     "model_id": "z-ai/glm-5.2",
+    "release_date": "2026-06-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
+    "model_id": "z-ai/glm-5.2:batch",
     "release_date": "2026-06-16",
     "status": "active"
   },

@@ -2,20 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-06T01:57:22.323214+00:00</updated>
+  <updated>2026-08-06T15:08:34.465253+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash</id>
-    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash</title>
-    <updated>2026-08-06T01:57:22.323259+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash&lt;br/&gt;Release Date: 2026-07-23&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/o1:batch</id>
+    <title>openrouter - openai - openai/o1:batch</title>
+    <updated>2026-08-06T15:08:34.467259+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o1:batch&lt;br/&gt;Release Date: 2024-12-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ling-3.0-flash" label="model_id"/>
-    <category term="2026-07-23" label="release_date"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o1:batch" label="model_id"/>
+    <category term="2024-12-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-07-23T00:00:00+00:00</published>
+    <published>2024-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o3-mini:batch</id>
+    <title>openrouter - openai - openai/o3-mini:batch</title>
+    <updated>2026-08-06T15:08:34.467151+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o3-mini:batch&lt;br/&gt;Release Date: 2025-01-31&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o3-mini:batch" label="model_id"/>
+    <category term="2025-01-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-01-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o3-mini-high:batch</id>
+    <title>openrouter - openai - openai/o3-mini-high:batch</title>
+    <updated>2026-08-06T15:08:34.467014+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o3-mini-high:batch&lt;br/&gt;Release Date: 2025-02-12&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o3-mini-high:batch" label="model_id"/>
+    <category term="2025-02-12" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-02-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o1-pro:batch</id>
+    <title>openrouter - openai - openai/o1-pro:batch</title>
+    <updated>2026-08-06T15:08:34.466939+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o1-pro:batch&lt;br/&gt;Release Date: 2025-03-19&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o1-pro:batch" label="model_id"/>
+    <category term="2025-03-19" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o4-mini:batch</id>
+    <title>openrouter - openai - openai/o4-mini:batch</title>
+    <updated>2026-08-06T15:08:34.466864+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o4-mini:batch&lt;br/&gt;Release Date: 2025-04-16&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o4-mini:batch" label="model_id"/>
+    <category term="2025-04-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o4-mini-high:batch</id>
+    <title>openrouter - openai - openai/o4-mini-high:batch</title>
+    <updated>2026-08-06T15:08:34.466758+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o4-mini-high:batch&lt;br/&gt;Release Date: 2025-04-16&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o4-mini-high:batch" label="model_id"/>
+    <category term="2025-04-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o3:batch</id>
+    <title>openrouter - openai - openai/o3:batch</title>
+    <updated>2026-08-06T15:08:34.466686+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o3:batch&lt;br/&gt;Release Date: 2025-04-16&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o3:batch" label="model_id"/>
+    <category term="2025-04-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/o3-pro:batch</id>
+    <title>openrouter - openai - openai/o3-pro:batch</title>
+    <updated>2026-08-06T15:08:34.466613+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/o3-pro:batch&lt;br/&gt;Release Date: 2025-06-10&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/o3-pro:batch" label="model_id"/>
+    <category term="2025-06-10" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-06-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-codex:batch</id>
+    <title>openrouter - openai - openai/gpt-5-codex:batch</title>
+    <updated>2026-08-06T15:08:34.466539+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-codex:batch&lt;br/&gt;Release Date: 2025-09-23&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-codex:batch" label="model_id"/>
+    <category term="2025-09-23" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-09-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5-pro:batch</title>
+    <updated>2026-08-06T15:08:34.466462+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5-pro:batch&lt;br/&gt;Release Date: 2025-10-06&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5-pro:batch" label="model_id"/>
+    <category term="2025-10-06" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-sonnet-4.6:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-sonnet-4.6:batch</title>
+    <updated>2026-08-06T15:08:34.466387+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-sonnet-4.6:batch&lt;br/&gt;Release Date: 2026-02-17&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-sonnet-4.6:batch" label="model_id"/>
+    <category term="2026-02-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-02-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3-ultra-550b-a55b:batch</id>
+    <title>openrouter - nvidia - nvidia/nemotron-3-ultra-550b-a55b:batch</title>
+    <updated>2026-08-06T15:08:34.466309+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3-ultra-550b-a55b:batch&lt;br/&gt;Release Date: 2026-06-04&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="nvidia" label="developer"/>
+    <category term="nvidia/nemotron-3-ultra-550b-a55b:batch" label="model_id"/>
+    <category term="2026-06-04" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k2.7-code:batch</id>
+    <title>openrouter - moonshotai - moonshotai/kimi-k2.7-code:batch</title>
+    <updated>2026-08-06T15:08:34.466228+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k2.7-code:batch&lt;br/&gt;Release Date: 2026-06-12&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="moonshotai" label="developer"/>
+    <category term="moonshotai/kimi-k2.7-code:batch" label="model_id"/>
+    <category term="2026-06-12" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.2:batch</id>
+    <title>openrouter - z-ai - z-ai/glm-5.2:batch</title>
+    <updated>2026-08-06T15:08:34.466118+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.2:batch&lt;br/&gt;Release Date: 2026-06-16&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="z-ai" label="developer"/>
+    <category term="z-ai/glm-5.2:batch" label="model_id"/>
+    <category term="2026-06-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-06-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-terra:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-terra:batch</title>
+    <updated>2026-08-06T15:08:34.466003+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-terra:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-terra:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-terra-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-terra-pro:batch</title>
+    <updated>2026-08-06T15:08:34.465919+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-terra-pro:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-terra-pro:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-sol:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-sol:batch</title>
+    <updated>2026-08-06T15:08:34.465832+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-sol:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-sol:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-sol-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-sol-pro:batch</title>
+    <updated>2026-08-06T15:08:34.465733+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-sol-pro:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-sol-pro:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-luna:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-luna:batch</title>
+    <updated>2026-08-06T15:08:34.465637+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-luna:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-luna:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-5.6-luna-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-5.6-luna-pro:batch</title>
+    <updated>2026-08-06T15:08:34.465532+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-5.6-luna-pro:batch&lt;br/&gt;Release Date: 2026-07-09&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-5.6-luna-pro:batch" label="model_id"/>
+    <category term="2026-07-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling:batch</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling:batch</title>
+    <updated>2026-08-06T15:08:34.465300+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling:batch&lt;br/&gt;Release Date: 2026-07-17&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling:batch" label="model_id"/>
+    <category term="2026-07-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-17T00:00:00+00:00</published>
   </entry>
 </feed>
