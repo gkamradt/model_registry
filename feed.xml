@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-05T20:04:24.318397+00:00</updated>
+  <updated>2026-08-06T01:57:22.323214+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:meta:meta/muse-spark-1.2</id>
-    <title>openrouter - meta - meta/muse-spark-1.2</title>
-    <updated>2026-08-05T20:04:24.318468+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta/muse-spark-1.2&lt;br/&gt;Release Date: 2026-08-05&lt;br/&gt;Developer: meta&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash</title>
+    <updated>2026-08-06T01:57:22.323259+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash&lt;br/&gt;Release Date: 2026-07-23&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="meta" label="developer"/>
-    <category term="meta/muse-spark-1.2" label="model_id"/>
-    <category term="2026-08-05" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.0-flash" label="model_id"/>
+    <category term="2026-07-23" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-05T00:00:00+00:00</published>
+    <published>2026-07-23T00:00:00+00:00</published>
   </entry>
 </feed>
