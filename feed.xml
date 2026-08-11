@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-11T16:51:24.194274+00:00</updated>
+  <updated>2026-08-11T17:52:21.928782+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3.5-lightning</id>
-    <title>openrouter - nvidia - nvidia/nemotron-3.5-lightning</title>
-    <updated>2026-08-11T16:51:24.194362+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3.5-lightning&lt;br/&gt;Release Date: 2026-08-11&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:bytedance-seed:bytedance-seed/seed-2.0-code</id>
+    <title>openrouter - bytedance-seed - bytedance-seed/seed-2.0-code</title>
+    <updated>2026-08-11T17:52:21.928834+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: bytedance-seed/seed-2.0-code&lt;br/&gt;Release Date: 2026-07-30&lt;br/&gt;Developer: bytedance-seed&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="nvidia" label="developer"/>
-    <category term="nvidia/nemotron-3.5-lightning" label="model_id"/>
-    <category term="2026-08-11" label="release_date"/>
+    <category term="bytedance-seed" label="developer"/>
+    <category term="bytedance-seed/seed-2.0-code" label="model_id"/>
+    <category term="2026-07-30" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-11T00:00:00+00:00</published>
+    <published>2026-07-30T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -996,6 +996,13 @@
   {
     "provider": "openrouter",
     "developer": "bytedance-seed",
+    "model_id": "bytedance-seed/seed-2.0-code",
+    "release_date": "2026-07-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "bytedance-seed",
     "model_id": "bytedance-seed/seed-2.0-lite",
     "release_date": "2026-03-10",
     "status": "active"
