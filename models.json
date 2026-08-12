@@ -996,6 +996,13 @@
   {
     "provider": "openrouter",
     "developer": "bytedance-seed",
+    "model_id": "bytedance-seed/seed-2-1-turbo",
+    "release_date": "2026-08-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "bytedance-seed",
     "model_id": "bytedance-seed/seed-2.0-code",
     "release_date": "2026-07-30",
     "status": "active"
@@ -1439,6 +1446,13 @@
     "developer": "deepseek",
     "model_id": "deepseek/deepseek-v4-pro",
     "release_date": "2026-04-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4-pro-0813",
+    "release_date": "2026-08-12",
     "status": "active"
   },
   {
@@ -7991,6 +8005,13 @@
     "developer": "x-ai",
     "model_id": "x-ai/grok-4.5",
     "release_date": "2026-07-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
+    "model_id": "x-ai/grok-4.6",
+    "release_date": "2026-08-12",
     "status": "active"
   },
   {
