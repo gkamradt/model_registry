@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-14T05:26:27.628687+00:00</updated>
+  <updated>2026-08-14T15:13:20.155773+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:dots-studio:dots-studio/dots-3-note-preview:free</id>
-    <title>openrouter - dots-studio - dots-studio/dots-3-note-preview:free</title>
-    <updated>2026-08-14T05:26:27.628730+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: dots-studio/dots-3-note-preview:free&lt;br/&gt;Release Date: 2026-08-14&lt;br/&gt;Developer: dots-studio&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="dots-studio" label="developer"/>
-    <category term="dots-studio/dots-3-note-preview:free" label="model_id"/>
-    <category term="2026-08-14" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-3.7-flash-video-understanding-eap</id>
+    <title>gemini - google - models/gemini-3.7-flash-video-understanding-eap</title>
+    <updated>2026-08-14T15:13:20.155829+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.7-flash-video-understanding-eap&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.7-flash-video-understanding-eap" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-14T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

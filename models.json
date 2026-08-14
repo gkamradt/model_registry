@@ -2711,6 +2711,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-3.7-flash-video-understanding-eap",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-embedding-001",
     "release_date": "9999-12-31",
     "status": "active"
