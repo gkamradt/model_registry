@@ -1457,6 +1457,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "dots-studio",
+    "model_id": "dots-studio/dots-3-note-preview:free",
+    "release_date": "2026-08-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "eleutherai",
     "model_id": "eleutherai/llemma_7b",
     "release_date": "2025-04-14",
