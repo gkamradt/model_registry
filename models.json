@@ -7464,6 +7464,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3.8-27b",
+    "release_date": "2026-08-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3.8-max",
     "release_date": "2026-08-03",
     "status": "active"
