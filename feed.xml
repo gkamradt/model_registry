@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-15T02:09:59.977805+00:00</updated>
+  <updated>2026-08-16T21:13:19.621905+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-27b</id>
-    <title>openrouter - qwen - qwen/qwen3.8-27b</title>
-    <updated>2026-08-15T02:09:59.977860+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-27b&lt;br/&gt;Release Date: 2026-08-14&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.2:free</id>
+    <title>openrouter - z-ai - z-ai/glm-5.2:free</title>
+    <updated>2026-08-16T21:13:19.621946+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.2:free&lt;br/&gt;Release Date: 2026-06-16&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.8-27b" label="model_id"/>
-    <category term="2026-08-14" label="release_date"/>
+    <category term="z-ai" label="developer"/>
+    <category term="z-ai/glm-5.2:free" label="model_id"/>
+    <category term="2026-06-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-14T00:00:00+00:00</published>
+    <published>2026-06-16T00:00:00+00:00</published>
   </entry>
 </feed>
