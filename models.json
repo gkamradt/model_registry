@@ -8335,5 +8335,12 @@
     "model_id": "~x-ai/grok-latest",
     "release_date": "2026-07-08",
     "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~z-ai",
+    "model_id": "~z-ai/glm-latest",
+    "release_date": "2026-08-19",
+    "status": "active"
   }
 ]
