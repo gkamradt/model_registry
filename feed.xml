@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-21T11:49:32.665327+00:00</updated>
+  <updated>2026-08-21T19:45:25.266779+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4-flash-vision-exp</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v4-flash-vision-exp</title>
-    <updated>2026-08-21T11:49:32.665371+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4-flash-vision-exp&lt;br/&gt;Release Date: 2026-08-21&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling:free</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling:free</title>
+    <updated>2026-08-21T19:45:25.267052+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling:free&lt;br/&gt;Release Date: 2026-07-17&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v4-flash-vision-exp" label="model_id"/>
-    <category term="2026-08-21" label="release_date"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling:free" label="model_id"/>
+    <category term="2026-07-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-21T00:00:00+00:00</published>
+    <published>2026-07-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling-small:free</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling-small:free</title>
+    <updated>2026-08-21T19:45:25.266828+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling-small:free&lt;br/&gt;Release Date: 2026-07-30&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling-small:free" label="model_id"/>
+    <category term="2026-07-30" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-07-30T00:00:00+00:00</published>
   </entry>
 </feed>

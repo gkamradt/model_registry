@@ -7828,7 +7828,21 @@
   {
     "provider": "openrouter",
     "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling-small:free",
+    "release_date": "2026-07-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "thinkingmachines",
     "model_id": "thinkingmachines/inkling:batch",
+    "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling:free",
     "release_date": "2026-07-17",
     "status": "active"
   },
