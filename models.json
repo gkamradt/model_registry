@@ -3389,6 +3389,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "meta",
+    "model_id": "meta/muse-spark-1.2-contributor",
+    "release_date": "2026-08-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "meta-llama",
     "model_id": "meta-llama/llama-2-70b-chat",
     "release_date": "2023-06-20",
