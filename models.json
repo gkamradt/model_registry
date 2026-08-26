@@ -7513,6 +7513,13 @@
   {
     "provider": "openrouter",
     "developer": "qwen",
+    "model_id": "qwen/qwen3.8-flash",
+    "release_date": "2026-08-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
     "model_id": "qwen/qwen3.8-max",
     "release_date": "2026-08-03",
     "status": "active"
