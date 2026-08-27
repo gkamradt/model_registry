@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-26T23:56:18.521289+00:00</updated>
+  <updated>2026-08-27T18:20:57.323350+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-flash</id>
-    <title>openrouter - qwen - qwen/qwen3.8-flash</title>
-    <updated>2026-08-26T23:56:18.521348+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-flash&lt;br/&gt;Release Date: 2026-08-26&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-fin:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-fin:free</title>
+    <updated>2026-08-27T18:20:57.323654+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-fin:free&lt;br/&gt;Release Date: 2026-08-27&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.8-flash" label="model_id"/>
-    <category term="2026-08-26" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.0-flash-fin:free" label="model_id"/>
+    <category term="2026-08-27" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-26T00:00:00+00:00</published>
+    <published>2026-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-omni-1.1-flash</id>
+    <title>gemini - google - models/gemini-omni-1.1-flash</title>
+    <updated>2026-08-27T18:20:57.323407+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-omni-1.1-flash&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-omni-1.1-flash" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -2802,6 +2802,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-omni-1.1-flash",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-omni-flash-preview",
     "release_date": "9999-12-31",
     "status": "active"
@@ -3189,6 +3196,13 @@
     "developer": "inclusionai",
     "model_id": "inclusionai/ling-3.0-flash",
     "release_date": "2026-07-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.0-flash-fin:free",
+    "release_date": "2026-08-27",
     "status": "active"
   },
   {
