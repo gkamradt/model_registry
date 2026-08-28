@@ -3831,6 +3831,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/codestral-2508:batch",
+    "release_date": "2025-08-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/codestral-mamba",
     "release_date": "2024-07-19",
     "status": "active"
@@ -3943,6 +3950,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/ministral-8b-2512:batch",
+    "release_date": "2025-12-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-7b-instruct",
     "release_date": "2024-05-27",
     "status": "active"
@@ -4006,6 +4020,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-large-2512:batch",
+    "release_date": "2025-12-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-medium",
     "release_date": "2024-01-10",
     "status": "active"
@@ -4027,7 +4048,21 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/mistral-medium-3-5:batch",
+    "release_date": "2026-04-30",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/mistral-medium-3.1",
+    "release_date": "2025-08-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
+    "model_id": "mistralai/mistral-medium-3.1:batch",
     "release_date": "2025-08-13",
     "status": "active"
   },
@@ -4077,6 +4112,13 @@
     "provider": "openrouter",
     "developer": "mistralai",
     "model_id": "mistralai/mistral-small-2603",
+    "release_date": "2026-03-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
+    "model_id": "mistralai/mistral-small-2603:batch",
     "release_date": "2026-03-16",
     "status": "active"
   },
@@ -7823,6 +7865,13 @@
     "developer": "tencent",
     "model_id": "tencent/hy3:free",
     "release_date": "2026-07-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "tencent",
+    "model_id": "tencent/hy4-preview",
+    "release_date": "2026-08-28",
     "status": "active"
   },
   {

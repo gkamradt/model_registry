@@ -2,32 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-08-27T18:20:57.323350+00:00</updated>
+  <updated>2026-08-28T14:28:00.075740+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-fin:free</id>
-    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-fin:free</title>
-    <updated>2026-08-27T18:20:57.323654+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-fin:free&lt;br/&gt;Release Date: 2026-08-27&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/codestral-2508:batch</id>
+    <title>openrouter - mistralai - mistralai/codestral-2508:batch</title>
+    <updated>2026-08-28T14:28:00.076333+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/codestral-2508:batch&lt;br/&gt;Release Date: 2025-08-01&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ling-3.0-flash-fin:free" label="model_id"/>
-    <category term="2026-08-27" label="release_date"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/codestral-2508:batch" label="model_id"/>
+    <category term="2025-08-01" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-27T00:00:00+00:00</published>
+    <published>2025-08-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-omni-1.1-flash</id>
-    <title>gemini - google - models/gemini-omni-1.1-flash</title>
-    <updated>2026-08-27T18:20:57.323407+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-omni-1.1-flash&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-omni-1.1-flash" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-medium-3.1:batch</id>
+    <title>openrouter - mistralai - mistralai/mistral-medium-3.1:batch</title>
+    <updated>2026-08-28T14:28:00.076275+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-medium-3.1:batch&lt;br/&gt;Release Date: 2025-08-13&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/mistral-medium-3.1:batch" label="model_id"/>
+    <category term="2025-08-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2025-08-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-large-2512:batch</id>
+    <title>openrouter - mistralai - mistralai/mistral-large-2512:batch</title>
+    <updated>2026-08-28T14:28:00.076213+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-large-2512:batch&lt;br/&gt;Release Date: 2025-12-01&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/mistral-large-2512:batch" label="model_id"/>
+    <category term="2025-12-01" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/ministral-8b-2512:batch</id>
+    <title>openrouter - mistralai - mistralai/ministral-8b-2512:batch</title>
+    <updated>2026-08-28T14:28:00.076142+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/ministral-8b-2512:batch&lt;br/&gt;Release Date: 2025-12-02&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/ministral-8b-2512:batch" label="model_id"/>
+    <category term="2025-12-02" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2025-12-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-small-2603:batch</id>
+    <title>openrouter - mistralai - mistralai/mistral-small-2603:batch</title>
+    <updated>2026-08-28T14:28:00.076074+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-small-2603:batch&lt;br/&gt;Release Date: 2026-03-16&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/mistral-small-2603:batch" label="model_id"/>
+    <category term="2026-03-16" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-medium-3-5:batch</id>
+    <title>openrouter - mistralai - mistralai/mistral-medium-3-5:batch</title>
+    <updated>2026-08-28T14:28:00.075999+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-medium-3-5:batch&lt;br/&gt;Release Date: 2026-04-30&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="mistralai" label="developer"/>
+    <category term="mistralai/mistral-medium-3-5:batch" label="model_id"/>
+    <category term="2026-04-30" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:tencent:tencent/hy4-preview</id>
+    <title>openrouter - tencent - tencent/hy4-preview</title>
+    <updated>2026-08-28T14:28:00.075781+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: tencent/hy4-preview&lt;br/&gt;Release Date: 2026-08-28&lt;br/&gt;Developer: tencent&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="tencent" label="developer"/>
+    <category term="tencent/hy4-preview" label="model_id"/>
+    <category term="2026-08-28" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-08-28T00:00:00+00:00</published>
   </entry>
 </feed>
