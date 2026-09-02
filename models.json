@@ -464,6 +464,13 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-fable-5.1:batch",
+    "release_date": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-fable-5:batch",
     "release_date": "2026-06-09",
     "status": "active"
