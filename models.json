@@ -6484,6 +6484,34 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-6-astra",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-astra-pro",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-astra-pro:batch",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-astra:batch",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-audio",
     "release_date": "2026-01-19",
     "status": "active"
