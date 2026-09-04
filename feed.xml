@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-04T04:51:38.444763+00:00</updated>
+  <updated>2026-09-04T19:44:53.794405+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.3:batch</id>
-    <title>openrouter - x-ai - x-ai/grok-4.3:batch</title>
-    <updated>2026-09-04T04:51:38.444823+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.3:batch&lt;br/&gt;Release Date: 2026-04-30&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="x-ai" label="developer"/>
-    <category term="x-ai/grok-4.3:batch" label="model_id"/>
-    <category term="2026-04-30" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-6-astra</id>
+    <title>openai - openai - gpt-6-astra</title>
+    <updated>2026-09-04T19:44:53.794797+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6-astra&lt;br/&gt;Release Date: 2026-08-27&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-6-astra" label="model_id"/>
+    <category term="2026-08-27" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-04-30T00:00:00+00:00</published>
+    <published>2026-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-sante:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-sante:free</title>
+    <updated>2026-09-04T19:44:53.794487+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-sante:free&lt;br/&gt;Release Date: 2026-09-04&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.0-flash-sante:free" label="model_id"/>
+    <category term="2026-09-04" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-04T00:00:00+00:00</published>
   </entry>
 </feed>
