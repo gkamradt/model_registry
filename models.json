@@ -4734,6 +4734,13 @@
   {
     "provider": "openrouter",
     "developer": "nvidia",
+    "model_id": "nvidia/nemotron-3.5-content-safety",
+    "release_date": "2026-06-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nvidia",
     "model_id": "nvidia/nemotron-3.5-content-safety:free",
     "release_date": "2026-06-04",
     "status": "active"
