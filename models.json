@@ -3075,6 +3075,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/lyria-realtime-exp",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/nano-banana",
     "release_date": "9999-12-31",
     "status": "active"
