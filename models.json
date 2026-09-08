@@ -1472,6 +1472,13 @@
   {
     "provider": "openrouter",
     "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4-flash-vision-exp:batch",
+    "release_date": "2026-08-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
     "model_id": "deepseek/deepseek-v4-flash:free",
     "release_date": "2026-04-24",
     "status": "active"
@@ -8649,6 +8656,13 @@
     "developer": "z-ai",
     "model_id": "z-ai/glm-5.3-flash:batch",
     "release_date": "2026-08-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
+    "model_id": "z-ai/glm-5.3:batch",
+    "release_date": "2026-08-18",
     "status": "active"
   },
   {
