@@ -3243,6 +3243,13 @@
   {
     "provider": "openrouter",
     "developer": "inception",
+    "model_id": "inception/mercury-2.5",
+    "release_date": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inception",
     "model_id": "inception/mercury-2.5-preview",
     "release_date": "2026-08-31",
     "status": "active"
@@ -4568,6 +4575,20 @@
     "developer": "nex-agi",
     "model_id": "nex-agi/nex-n2-pro:free",
     "release_date": "2026-06-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nex-agi",
+    "model_id": "nex-agi/nex-n2.5-mini:free",
+    "release_date": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "nex-agi",
+    "model_id": "nex-agi/nex-n2.5-pro:free",
+    "release_date": "2026-09-08",
     "status": "active"
   },
   {
