@@ -5658,6 +5658,34 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-image-2.5-flare",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-2.5-flare-2026-09-08",
+    "release_date": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-2.5-sunburst",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-2.5-sunburst-2026-09-08",
+    "release_date": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-live-transcribe",
     "release_date": "2026-07-27",
     "status": "active"

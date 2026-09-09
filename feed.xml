@@ -2,42 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-08T21:17:39.530666+00:00</updated>
+  <updated>2026-09-09T18:59:29.942883+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2.5-pro:free</id>
-    <title>openrouter - nex-agi - nex-agi/nex-n2.5-pro:free</title>
-    <updated>2026-09-08T21:17:39.531095+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2.5-pro:free&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/nex-n2.5-pro:free" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-image-2.5-sunburst</id>
+    <title>openai - openai - gpt-image-2.5-sunburst</title>
+    <updated>2026-09-09T18:59:29.943288+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.5-sunburst&lt;br/&gt;Release Date: 2026-09-04&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.5-sunburst" label="model_id"/>
+    <category term="2026-09-04" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-image-2.5-flare</id>
+    <title>openai - openai - gpt-image-2.5-flare</title>
+    <updated>2026-09-09T18:59:29.943226+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.5-flare&lt;br/&gt;Release Date: 2026-09-04&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.5-flare" label="model_id"/>
+    <category term="2026-09-04" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-image-2.5-sunburst-2026-09-08</id>
+    <title>openai - openai - gpt-image-2.5-sunburst-2026-09-08</title>
+    <updated>2026-09-09T18:59:29.943127+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.5-sunburst-2026-09-08&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.5-sunburst-2026-09-08" label="model_id"/>
     <category term="2026-09-08" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-08T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2.5-mini:free</id>
-    <title>openrouter - nex-agi - nex-agi/nex-n2.5-mini:free</title>
-    <updated>2026-09-08T21:17:39.530999+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2.5-mini:free&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/nex-n2.5-mini:free" label="model_id"/>
-    <category term="2026-09-08" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:inception:inception/mercury-2.5</id>
-    <title>openrouter - inception - inception/mercury-2.5</title>
-    <updated>2026-09-08T21:17:39.530729+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inception/mercury-2.5&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: inception&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="inception" label="developer"/>
-    <category term="inception/mercury-2.5" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-image-2.5-flare-2026-09-08</id>
+    <title>openai - openai - gpt-image-2.5-flare-2026-09-08</title>
+    <updated>2026-09-09T18:59:29.942921+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.5-flare-2026-09-08&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.5-flare-2026-09-08" label="model_id"/>
     <category term="2026-09-08" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-08T00:00:00+00:00</published>
