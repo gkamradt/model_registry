@@ -3341,6 +3341,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.0-flash-vl:free",
+    "release_date": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ling-3.0-flash:free",
     "release_date": "2026-07-23",
     "status": "active"

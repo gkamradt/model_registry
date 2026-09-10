@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-10T07:45:12.463814+00:00</updated>
+  <updated>2026-09-10T16:49:44.172403+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4.1-flash</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v4.1-flash</title>
-    <updated>2026-09-10T07:45:12.463881+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4.1-flash&lt;br/&gt;Release Date: 2026-09-10&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-vl:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-vl:free</title>
+    <updated>2026-09-10T16:49:44.172451+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-vl:free&lt;br/&gt;Release Date: 2026-09-10&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v4.1-flash" label="model_id"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.0-flash-vl:free" label="model_id"/>
     <category term="2026-09-10" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-10T00:00:00+00:00</published>
