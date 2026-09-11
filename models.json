@@ -3341,6 +3341,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.0-flash-vl",
+    "release_date": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ling-3.0-flash-vl:free",
     "release_date": "2026-09-10",
     "status": "active"
@@ -8815,6 +8822,13 @@
   {
     "provider": "openrouter",
     "developer": "~openai",
+    "model_id": "~openai/gpt-astra-latest",
+    "release_date": "2026-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
     "model_id": "~openai/gpt-latest",
     "release_date": "2026-04-27",
     "status": "active"
@@ -8822,8 +8836,29 @@
   {
     "provider": "openrouter",
     "developer": "~openai",
+    "model_id": "~openai/gpt-luna-latest",
+    "release_date": "2026-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
     "model_id": "~openai/gpt-mini-latest",
     "release_date": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
+    "model_id": "~openai/gpt-sol-latest",
+    "release_date": "2026-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~openai",
+    "model_id": "~openai/gpt-terra-latest",
+    "release_date": "2026-09-11",
     "status": "active"
   },
   {
