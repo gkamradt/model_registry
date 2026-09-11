@@ -7947,8 +7947,22 @@
   {
     "provider": "openrouter",
     "developer": "sakana",
+    "model_id": "sakana/fugu-max",
+    "release_date": "2026-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "sakana",
     "model_id": "sakana/fugu-ultra",
     "release_date": "2026-06-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "sakana",
+    "model_id": "sakana/fugu-ultra-v2",
+    "release_date": "2026-09-11",
     "status": "active"
   },
   {
