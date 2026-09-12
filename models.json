@@ -3389,6 +3389,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "inference-net",
+    "model_id": "inference-net/schematron-v2-small",
+    "release_date": "2026-09-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inference-net",
+    "model_id": "inference-net/schematron-v2-turbo",
+    "release_date": "2026-09-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "infermatic",
     "model_id": "infermatic/mn-inferor-12b",
     "release_date": "2024-11-13",

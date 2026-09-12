@@ -2,68 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-11T16:39:22.158331+00:00</updated>
+  <updated>2026-09-12T02:36:29.231726+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-vl</id>
-    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-vl</title>
-    <updated>2026-09-11T16:39:22.158970+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-vl&lt;br/&gt;Release Date: 2026-09-10&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inference-net:inference-net/schematron-v2-turbo</id>
+    <title>openrouter - inference-net - inference-net/schematron-v2-turbo</title>
+    <updated>2026-09-12T02:36:29.232031+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inference-net/schematron-v2-turbo&lt;br/&gt;Release Date: 2026-09-12&lt;br/&gt;Developer: inference-net&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ling-3.0-flash-vl" label="model_id"/>
-    <category term="2026-09-10" label="release_date"/>
+    <category term="inference-net" label="developer"/>
+    <category term="inference-net/schematron-v2-turbo" label="model_id"/>
+    <category term="2026-09-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-10T00:00:00+00:00</published>
+    <published>2026-09-12T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:~openai:~openai/gpt-terra-latest</id>
-    <title>openrouter - ~openai - ~openai/gpt-terra-latest</title>
-    <updated>2026-09-11T16:39:22.158875+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-terra-latest&lt;br/&gt;Release Date: 2026-09-11&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inference-net:inference-net/schematron-v2-small</id>
+    <title>openrouter - inference-net - inference-net/schematron-v2-small</title>
+    <updated>2026-09-12T02:36:29.231782+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inference-net/schematron-v2-small&lt;br/&gt;Release Date: 2026-09-12&lt;br/&gt;Developer: inference-net&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="~openai" label="developer"/>
-    <category term="~openai/gpt-terra-latest" label="model_id"/>
-    <category term="2026-09-11" label="release_date"/>
+    <category term="inference-net" label="developer"/>
+    <category term="inference-net/schematron-v2-small" label="model_id"/>
+    <category term="2026-09-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:~openai:~openai/gpt-sol-latest</id>
-    <title>openrouter - ~openai - ~openai/gpt-sol-latest</title>
-    <updated>2026-09-11T16:39:22.158788+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-sol-latest&lt;br/&gt;Release Date: 2026-09-11&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="~openai" label="developer"/>
-    <category term="~openai/gpt-sol-latest" label="model_id"/>
-    <category term="2026-09-11" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:~openai:~openai/gpt-luna-latest</id>
-    <title>openrouter - ~openai - ~openai/gpt-luna-latest</title>
-    <updated>2026-09-11T16:39:22.158689+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-luna-latest&lt;br/&gt;Release Date: 2026-09-11&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="~openai" label="developer"/>
-    <category term="~openai/gpt-luna-latest" label="model_id"/>
-    <category term="2026-09-11" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:~openai:~openai/gpt-astra-latest</id>
-    <title>openrouter - ~openai - ~openai/gpt-astra-latest</title>
-    <updated>2026-09-11T16:39:22.158405+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~openai/gpt-astra-latest&lt;br/&gt;Release Date: 2026-09-11&lt;br/&gt;Developer: ~openai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="~openai" label="developer"/>
-    <category term="~openai/gpt-astra-latest" label="model_id"/>
-    <category term="2026-09-11" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-11T00:00:00+00:00</published>
+    <published>2026-09-12T00:00:00+00:00</published>
   </entry>
 </feed>
