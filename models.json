@@ -8815,6 +8815,20 @@
   {
     "provider": "openrouter",
     "developer": "~deepseek",
+    "model_id": "~deepseek/deepseek-flash-latest",
+    "release_date": "2026-09-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~deepseek",
+    "model_id": "~deepseek/deepseek-pro-latest",
+    "release_date": "2026-09-14",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~deepseek",
     "model_id": "~deepseek/deepseek-v4-flash-latest",
     "release_date": "2026-08-01",
     "status": "active"
