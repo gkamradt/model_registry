@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-12T02:36:29.231726+00:00</updated>
+  <updated>2026-09-14T10:50:57.296410+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inference-net:inference-net/schematron-v2-turbo</id>
-    <title>openrouter - inference-net - inference-net/schematron-v2-turbo</title>
-    <updated>2026-09-12T02:36:29.232031+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inference-net/schematron-v2-turbo&lt;br/&gt;Release Date: 2026-09-12&lt;br/&gt;Developer: inference-net&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="inference-net" label="developer"/>
-    <category term="inference-net/schematron-v2-turbo" label="model_id"/>
-    <category term="2026-09-12" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/antigravity-preview-09-2026</id>
+    <title>gemini - google - models/antigravity-preview-09-2026</title>
+    <updated>2026-09-14T10:50:57.296472+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/antigravity-preview-09-2026&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/antigravity-preview-09-2026" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:inference-net:inference-net/schematron-v2-small</id>
-    <title>openrouter - inference-net - inference-net/schematron-v2-small</title>
-    <updated>2026-09-12T02:36:29.231782+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inference-net/schematron-v2-small&lt;br/&gt;Release Date: 2026-09-12&lt;br/&gt;Developer: inference-net&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="inference-net" label="developer"/>
-    <category term="inference-net/schematron-v2-small" label="model_id"/>
-    <category term="2026-09-12" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-12T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
