@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-14T16:43:16.311403+00:00</updated>
+  <updated>2026-09-15T17:51:56.510072+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:~deepseek:~deepseek/deepseek-pro-latest</id>
-    <title>openrouter - ~deepseek - ~deepseek/deepseek-pro-latest</title>
-    <updated>2026-09-14T16:43:16.311709+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~deepseek/deepseek-pro-latest&lt;br/&gt;Release Date: 2026-09-14&lt;br/&gt;Developer: ~deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="~deepseek" label="developer"/>
-    <category term="~deepseek/deepseek-pro-latest" label="model_id"/>
-    <category term="2026-09-14" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-3.8-live-extended-thinking</id>
+    <title>gemini - google - models/gemini-3.8-live-extended-thinking</title>
+    <updated>2026-09-15T17:51:56.510379+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-live-extended-thinking&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.8-live-extended-thinking" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-14T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:~deepseek:~deepseek/deepseek-flash-latest</id>
-    <title>openrouter - ~deepseek - ~deepseek/deepseek-flash-latest</title>
-    <updated>2026-09-14T16:43:16.311466+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ~deepseek/deepseek-flash-latest&lt;br/&gt;Release Date: 2026-09-14&lt;br/&gt;Developer: ~deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="~deepseek" label="developer"/>
-    <category term="~deepseek/deepseek-flash-latest" label="model_id"/>
-    <category term="2026-09-14" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-3.8-live</id>
+    <title>gemini - google - models/gemini-3.8-live</title>
+    <updated>2026-09-15T17:51:56.510127+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-live&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.8-live" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-14T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
