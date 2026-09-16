@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-15T17:51:56.510072+00:00</updated>
+  <updated>2026-09-16T17:10:49.031552+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.8-live-extended-thinking</id>
-    <title>gemini - google - models/gemini-3.8-live-extended-thinking</title>
-    <updated>2026-09-15T17:51:56.510379+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-live-extended-thinking&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3.8-live-extended-thinking" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:stealth:stealth/union-alpha</id>
+    <title>openrouter - stealth - stealth/union-alpha</title>
+    <updated>2026-09-16T17:10:49.031597+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stealth/union-alpha&lt;br/&gt;Release Date: 2026-09-16&lt;br/&gt;Developer: stealth&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="stealth" label="developer"/>
+    <category term="stealth/union-alpha" label="model_id"/>
+    <category term="2026-09-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.8-live</id>
-    <title>gemini - google - models/gemini-3.8-live</title>
-    <updated>2026-09-15T17:51:56.510127+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-live&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3.8-live" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-09-16T00:00:00+00:00</published>
   </entry>
 </feed>

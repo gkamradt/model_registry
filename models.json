@@ -8121,6 +8121,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "stealth",
+    "model_id": "stealth/union-alpha",
+    "release_date": "2026-09-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "stepfun",
     "model_id": "stepfun/step-3.5-flash",
     "release_date": "2026-01-29",
