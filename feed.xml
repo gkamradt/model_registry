@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-16T17:10:49.031552+00:00</updated>
+  <updated>2026-09-17T20:26:57.558182+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:stealth:stealth/union-alpha</id>
-    <title>openrouter - stealth - stealth/union-alpha</title>
-    <updated>2026-09-16T17:10:49.031597+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stealth/union-alpha&lt;br/&gt;Release Date: 2026-09-16&lt;br/&gt;Developer: stealth&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-27b:free</id>
+    <title>openrouter - qwen - qwen/qwen3.8-27b:free</title>
+    <updated>2026-09-17T20:26:57.558226+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-27b:free&lt;br/&gt;Release Date: 2026-08-14&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="stealth" label="developer"/>
-    <category term="stealth/union-alpha" label="model_id"/>
-    <category term="2026-09-16" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.8-27b:free" label="model_id"/>
+    <category term="2026-08-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-16T00:00:00+00:00</published>
+    <published>2026-08-14T00:00:00+00:00</published>
   </entry>
 </feed>
