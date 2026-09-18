@@ -7316,6 +7316,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "prism-ml",
+    "model_id": "prism-ml/ternary-bonsai-2-27b",
+    "release_date": "2026-09-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "pygmalionai",
     "model_id": "pygmalionai/mythalion-13b",
     "release_date": "2023-09-02",
