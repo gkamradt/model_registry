@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-17T20:26:57.558182+00:00</updated>
+  <updated>2026-09-18T01:05:26.769923+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-27b:free</id>
-    <title>openrouter - qwen - qwen/qwen3.8-27b:free</title>
-    <updated>2026-09-17T20:26:57.558226+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-27b:free&lt;br/&gt;Release Date: 2026-08-14&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4-flash-0731:free</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v4-flash-0731:free</title>
+    <updated>2026-09-18T01:05:26.770251+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4-flash-0731:free&lt;br/&gt;Release Date: 2026-07-31&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.8-27b:free" label="model_id"/>
-    <category term="2026-08-14" label="release_date"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v4-flash-0731:free" label="model_id"/>
+    <category term="2026-07-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-14T00:00:00+00:00</published>
+    <published>2026-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:unbiased:unbiased/pareto</id>
+    <title>openrouter - unbiased - unbiased/pareto</title>
+    <updated>2026-09-18T01:05:26.769987+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: unbiased/pareto&lt;br/&gt;Release Date: 2026-09-17&lt;br/&gt;Developer: unbiased&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="unbiased" label="developer"/>
+    <category term="unbiased/pareto" label="model_id"/>
+    <category term="2026-09-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-17T00:00:00+00:00</published>
   </entry>
 </feed>
