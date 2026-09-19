@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-18T21:22:23.786869+00:00</updated>
+  <updated>2026-09-19T06:10:57.374872+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:prism-ml:prism-ml/ternary-bonsai-2-27b</id>
-    <title>openrouter - prism-ml - prism-ml/ternary-bonsai-2-27b</title>
-    <updated>2026-09-18T21:22:23.786929+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: prism-ml/ternary-bonsai-2-27b&lt;br/&gt;Release Date: 2026-09-18&lt;br/&gt;Developer: prism-ml&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.3-flashx</id>
+    <title>openrouter - z-ai - z-ai/glm-5.3-flashx</title>
+    <updated>2026-09-19T06:10:57.374907+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.3-flashx&lt;br/&gt;Release Date: 2026-09-18&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="prism-ml" label="developer"/>
-    <category term="prism-ml/ternary-bonsai-2-27b" label="model_id"/>
+    <category term="z-ai" label="developer"/>
+    <category term="z-ai/glm-5.3-flashx" label="model_id"/>
     <category term="2026-09-18" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-18T00:00:00+00:00</published>

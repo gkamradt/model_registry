@@ -8822,6 +8822,13 @@
   {
     "provider": "openrouter",
     "developer": "z-ai",
+    "model_id": "z-ai/glm-5.3-flashx",
+    "release_date": "2026-09-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
     "model_id": "z-ai/glm-5.3:batch",
     "release_date": "2026-08-18",
     "status": "active"
