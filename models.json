@@ -2102,6 +2102,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/antigravity-preview-latest",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/aqa",
     "release_date": "9999-12-31",
     "status": "active"
@@ -8691,6 +8698,27 @@
     "developer": "xiaomi",
     "model_id": "xiaomi/mimo-v2.5-pro",
     "release_date": "2026-04-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.6-flash",
+    "release_date": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.6-pro",
+    "release_date": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.6-pro-ultraspeed",
+    "release_date": "2026-09-21",
     "status": "active"
   },
   {

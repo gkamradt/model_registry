@@ -2,20 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-21T16:43:41.659125+00:00</updated>
+  <updated>2026-09-21T20:43:05.923781+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.7</id>
-    <title>openrouter - x-ai - x-ai/grok-4.7</title>
-    <updated>2026-09-21T16:43:41.659184+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.7&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.6-pro-ultraspeed</id>
+    <title>openrouter - xiaomi - xiaomi/mimo-v2.6-pro-ultraspeed</title>
+    <updated>2026-09-21T20:43:05.924349+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.6-pro-ultraspeed&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="x-ai" label="developer"/>
-    <category term="x-ai/grok-4.7" label="model_id"/>
+    <category term="xiaomi" label="developer"/>
+    <category term="xiaomi/mimo-v2.6-pro-ultraspeed" label="model_id"/>
     <category term="2026-09-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.6-pro</id>
+    <title>openrouter - xiaomi - xiaomi/mimo-v2.6-pro</title>
+    <updated>2026-09-21T20:43:05.924244+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.6-pro&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="xiaomi" label="developer"/>
+    <category term="xiaomi/mimo-v2.6-pro" label="model_id"/>
+    <category term="2026-09-21" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.6-flash</id>
+    <title>openrouter - xiaomi - xiaomi/mimo-v2.6-flash</title>
+    <updated>2026-09-21T20:43:05.924119+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.6-flash&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="xiaomi" label="developer"/>
+    <category term="xiaomi/mimo-v2.6-flash" label="model_id"/>
+    <category term="2026-09-21" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/antigravity-preview-latest</id>
+    <title>gemini - google - models/antigravity-preview-latest</title>
+    <updated>2026-09-21T20:43:05.923842+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/antigravity-preview-latest&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/antigravity-preview-latest" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
