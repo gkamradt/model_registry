@@ -2,80 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-22T17:51:59.545174+00:00</updated>
+  <updated>2026-09-22T20:44:12.457709+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4.1-flash:batch</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v4.1-flash:batch</title>
-    <updated>2026-09-22T17:51:59.545895+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4.1-flash:batch&lt;br/&gt;Release Date: 2026-09-10&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v4.1-flash:batch" label="model_id"/>
-    <category term="2026-09-10" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-6-sol</id>
+    <title>openai - openai - gpt-6-sol</title>
+    <updated>2026-09-22T20:44:12.459467+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6-sol&lt;br/&gt;Release Date: 2026-09-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-6-sol" label="model_id"/>
+    <category term="2026-09-14" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-10T00:00:00+00:00</published>
+    <published>2026-09-14T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:anthropic:anthropic:claude-opus-5-5</id>
-    <title>anthropic - anthropic - claude-opus-5-5</title>
-    <updated>2026-09-22T17:51:59.545772+00:00</updated>
-    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-opus-5-5&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
-    <category term="anthropic" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="claude-opus-5-5" label="model_id"/>
+    <id>urn:model-registry:openai:openai:gpt-6-luna</id>
+    <title>openai - openai - gpt-6-luna</title>
+    <updated>2026-09-22T20:44:12.459350+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6-luna&lt;br/&gt;Release Date: 2026-09-14&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-6-luna" label="model_id"/>
+    <category term="2026-09-14" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-omni-flash</id>
+    <title>openrouter - qwen - qwen/qwen3.8-omni-flash</title>
+    <updated>2026-09-22T20:44:12.459043+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-omni-flash&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.8-omni-flash" label="model_id"/>
     <category term="2026-09-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-21T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-5.5:batch</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-5.5:batch</title>
-    <updated>2026-09-22T17:51:59.545666+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-5.5:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-sol:batch</id>
+    <title>openrouter - openai - openai/gpt-6-sol:batch</title>
+    <updated>2026-09-22T20:44:12.458894+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-sol:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-5.5:batch" label="model_id"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-sol:batch" label="model_id"/>
     <category term="2026-09-22" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-5.5</id>
-    <title>openrouter - anthropic - anthropic/claude-opus-5.5</title>
-    <updated>2026-09-22T17:51:59.545547+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-5.5&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-sol-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-6-sol-pro:batch</title>
+    <updated>2026-09-22T20:44:12.458767+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-sol-pro:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="anthropic" label="developer"/>
-    <category term="anthropic/claude-opus-5.5" label="model_id"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-sol-pro:batch" label="model_id"/>
     <category term="2026-09-22" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.8-flash-tts</id>
-    <title>gemini - google - models/gemini-3.8-flash-tts</title>
-    <updated>2026-09-22T17:51:59.545436+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-flash-tts&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3.8-flash-tts" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-sol-pro</id>
+    <title>openrouter - openai - openai/gpt-6-sol-pro</title>
+    <updated>2026-09-22T20:44:12.458640+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-sol-pro&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-sol-pro" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-09-22T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-3.8-flash-lite-tts</id>
-    <title>gemini - google - models/gemini-3.8-flash-lite-tts</title>
-    <updated>2026-09-22T17:51:59.545216+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-flash-lite-tts&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-3.8-flash-lite-tts" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-sol</id>
+    <title>openrouter - openai - openai/gpt-6-sol</title>
+    <updated>2026-09-22T20:44:12.458513+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-sol&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-sol" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
     <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-luna:batch</id>
+    <title>openrouter - openai - openai/gpt-6-luna:batch</title>
+    <updated>2026-09-22T20:44:12.458361+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-luna:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-luna:batch" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-luna-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-6-luna-pro:batch</title>
+    <updated>2026-09-22T20:44:12.458189+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-luna-pro:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-luna-pro:batch" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-luna-pro</id>
+    <title>openrouter - openai - openai/gpt-6-luna-pro</title>
+    <updated>2026-09-22T20:44:12.458041+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-luna-pro&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-luna-pro" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6-luna</id>
+    <title>openrouter - openai - openai/gpt-6-luna</title>
+    <updated>2026-09-22T20:44:12.457761+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6-luna&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6-luna" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
   </entry>
 </feed>

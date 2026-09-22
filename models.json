@@ -5707,6 +5707,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-6-luna",
+    "release_date": "2026-09-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-6-sol",
+    "release_date": "2026-09-14",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
@@ -6703,6 +6717,62 @@
     "developer": "openai",
     "model_id": "openai/gpt-6-astra:batch",
     "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-luna",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-luna-pro",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-luna-pro:batch",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-luna:batch",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-sol",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-sol-pro",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-sol-pro:batch",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6-sol:batch",
+    "release_date": "2026-09-22",
     "status": "active"
   },
   {
@@ -7998,6 +8068,13 @@
     "developer": "qwen",
     "model_id": "qwen/qwen3.8-max-0902",
     "release_date": "2026-09-03",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "qwen",
+    "model_id": "qwen/qwen3.8-omni-flash",
+    "release_date": "2026-09-21",
     "status": "active"
   },
   {
