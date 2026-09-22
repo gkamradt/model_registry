@@ -604,6 +604,20 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-5.5",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-opus-5.5:batch",
+    "release_date": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-opus-5:batch",
     "release_date": "2026-07-24",
     "status": "active"
@@ -788,6 +802,13 @@
     "developer": "anthropic",
     "model_id": "claude-opus-5",
     "release_date": "2026-07-24",
+    "status": "active"
+  },
+  {
+    "provider": "anthropic",
+    "developer": "anthropic",
+    "model_id": "claude-opus-5-5",
+    "release_date": "2026-09-21",
     "status": "active"
   },
   {
@@ -1515,6 +1536,13 @@
     "provider": "openrouter",
     "developer": "deepseek",
     "model_id": "deepseek/deepseek-v4.1-flash",
+    "release_date": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4.1-flash:batch",
     "release_date": "2026-09-10",
     "status": "active"
   },
@@ -2831,6 +2859,20 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-3.8-flash",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.8-flash-lite-tts",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-3.8-flash-tts",
     "release_date": "9999-12-31",
     "status": "active"
   },

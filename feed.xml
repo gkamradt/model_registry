@@ -2,32 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-22T08:08:12.744914+00:00</updated>
+  <updated>2026-09-22T17:51:59.545174+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2.5-pro</id>
-    <title>openrouter - nex-agi - nex-agi/nex-n2.5-pro</title>
-    <updated>2026-09-22T08:08:12.745238+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2.5-pro&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4.1-flash:batch</id>
+    <title>openrouter - deepseek - deepseek/deepseek-v4.1-flash:batch</title>
+    <updated>2026-09-22T17:51:59.545895+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4.1-flash:batch&lt;br/&gt;Release Date: 2026-09-10&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/nex-n2.5-pro" label="model_id"/>
-    <category term="2026-09-08" label="release_date"/>
+    <category term="deepseek" label="developer"/>
+    <category term="deepseek/deepseek-v4.1-flash:batch" label="model_id"/>
+    <category term="2026-09-10" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-08T00:00:00+00:00</published>
+    <published>2026-09-10T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:nex-agi:nex-agi/nex-n2.5-mini</id>
-    <title>openrouter - nex-agi - nex-agi/nex-n2.5-mini</title>
-    <updated>2026-09-22T08:08:12.744971+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nex-agi/nex-n2.5-mini&lt;br/&gt;Release Date: 2026-09-08&lt;br/&gt;Developer: nex-agi&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="nex-agi" label="developer"/>
-    <category term="nex-agi/nex-n2.5-mini" label="model_id"/>
-    <category term="2026-09-08" label="release_date"/>
+    <id>urn:model-registry:anthropic:anthropic:claude-opus-5-5</id>
+    <title>anthropic - anthropic - claude-opus-5-5</title>
+    <updated>2026-09-22T17:51:59.545772+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-opus-5-5&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-opus-5-5" label="model_id"/>
+    <category term="2026-09-21" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-08T00:00:00+00:00</published>
+    <published>2026-09-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-5.5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-opus-5.5:batch</title>
+    <updated>2026-09-22T17:51:59.545666+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-5.5:batch&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-opus-5.5:batch" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-opus-5.5</id>
+    <title>openrouter - anthropic - anthropic/claude-opus-5.5</title>
+    <updated>2026-09-22T17:51:59.545547+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-opus-5.5&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-opus-5.5" label="model_id"/>
+    <category term="2026-09-22" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.8-flash-tts</id>
+    <title>gemini - google - models/gemini-3.8-flash-tts</title>
+    <updated>2026-09-22T17:51:59.545436+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-flash-tts&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.8-flash-tts" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-3.8-flash-lite-tts</id>
+    <title>gemini - google - models/gemini-3.8-flash-lite-tts</title>
+    <updated>2026-09-22T17:51:59.545216+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-3.8-flash-lite-tts&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-3.8-flash-lite-tts" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
