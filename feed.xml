@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-23T17:38:00.784476+00:00</updated>
+  <updated>2026-09-23T20:56:30.148080+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:aion-labs:aion-labs/aion-3.5-mini</id>
-    <title>openrouter - aion-labs - aion-labs/aion-3.5-mini</title>
-    <updated>2026-09-23T17:38:00.784802+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: aion-labs/aion-3.5-mini&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: aion-labs&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:stealth:stealth/space-bunny-alpha</id>
+    <title>openrouter - stealth - stealth/space-bunny-alpha</title>
+    <updated>2026-09-23T20:56:30.148397+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stealth/space-bunny-alpha&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: stealth&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="aion-labs" label="developer"/>
-    <category term="aion-labs/aion-3.5-mini" label="model_id"/>
+    <category term="stealth" label="developer"/>
+    <category term="stealth/space-bunny-alpha" label="model_id"/>
     <category term="2026-09-23" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-23T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:aion-labs:aion-labs/aion-3.5</id>
-    <title>openrouter - aion-labs - aion-labs/aion-3.5</title>
-    <updated>2026-09-23T17:38:00.784529+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: aion-labs/aion-3.5&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: aion-labs&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-max-prime</id>
+    <title>openrouter - qwen - qwen/qwen3.8-max-prime</title>
+    <updated>2026-09-23T20:56:30.148133+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-max-prime&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="aion-labs" label="developer"/>
-    <category term="aion-labs/aion-3.5" label="model_id"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.8-max-prime" label="model_id"/>
     <category term="2026-09-23" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-23T00:00:00+00:00</published>
