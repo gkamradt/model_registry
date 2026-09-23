@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-22T23:24:28.143422+00:00</updated>
+  <updated>2026-09-23T12:51:03.506065+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:cohere:cohere/command-a-plus</id>
-    <title>openrouter - cohere - cohere/command-a-plus</title>
-    <updated>2026-09-22T23:24:28.143481+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: cohere/command-a-plus&lt;br/&gt;Release Date: 2026-09-22&lt;br/&gt;Developer: cohere&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:upstage:upstage/solar-mini4</id>
+    <title>openrouter - upstage - upstage/solar-mini4</title>
+    <updated>2026-09-23T12:51:03.506105+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: upstage/solar-mini4&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: upstage&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="cohere" label="developer"/>
-    <category term="cohere/command-a-plus" label="model_id"/>
-    <category term="2026-09-22" label="release_date"/>
+    <category term="upstage" label="developer"/>
+    <category term="upstage/solar-mini4" label="model_id"/>
+    <category term="2026-09-23" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-22T00:00:00+00:00</published>
+    <published>2026-09-23T00:00:00+00:00</published>
   </entry>
 </feed>
