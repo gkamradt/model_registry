@@ -2,30 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-23T20:56:30.148080+00:00</updated>
+  <updated>2026-09-23T23:24:54.568661+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:stealth:stealth/space-bunny-alpha</id>
-    <title>openrouter - stealth - stealth/space-bunny-alpha</title>
-    <updated>2026-09-23T20:56:30.148397+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: stealth/space-bunny-alpha&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: stealth&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.3-prime</id>
+    <title>openrouter - z-ai - z-ai/glm-5.3-prime</title>
+    <updated>2026-09-23T23:24:54.568724+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.3-prime&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="stealth" label="developer"/>
-    <category term="stealth/space-bunny-alpha" label="model_id"/>
-    <category term="2026-09-23" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-09-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-max-prime</id>
-    <title>openrouter - qwen - qwen/qwen3.8-max-prime</title>
-    <updated>2026-09-23T20:56:30.148133+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-max-prime&lt;br/&gt;Release Date: 2026-09-23&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.8-max-prime" label="model_id"/>
+    <category term="z-ai" label="developer"/>
+    <category term="z-ai/glm-5.3-prime" label="model_id"/>
     <category term="2026-09-23" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-23T00:00:00+00:00</published>
