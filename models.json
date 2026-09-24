@@ -1618,6 +1618,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "fireworks",
+    "model_id": "fireworks/ember-1",
+    "release_date": "2026-09-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "google",
     "model_id": "google/gemini-2.0-flash-001",
     "release_date": "2025-02-05",
