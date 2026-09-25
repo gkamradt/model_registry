@@ -8618,6 +8618,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "typesafe",
+    "model_id": "typesafe/jev-router",
+    "release_date": "2026-09-25",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "unbiased",
     "model_id": "unbiased/pareto",
     "release_date": "2026-09-17",

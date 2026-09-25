@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-09-25T18:48:47.515974+00:00</updated>
+  <updated>2026-09-25T21:55:35.812429+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:perceptron:perceptron/perceptron-mk1.5</id>
-    <title>openrouter - perceptron - perceptron/perceptron-mk1.5</title>
-    <updated>2026-09-25T18:48:47.516032+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: perceptron/perceptron-mk1.5&lt;br/&gt;Release Date: 2026-09-25&lt;br/&gt;Developer: perceptron&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:typesafe:typesafe/jev-router</id>
+    <title>openrouter - typesafe - typesafe/jev-router</title>
+    <updated>2026-09-25T21:55:35.812475+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: typesafe/jev-router&lt;br/&gt;Release Date: 2026-09-25&lt;br/&gt;Developer: typesafe&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="perceptron" label="developer"/>
-    <category term="perceptron/perceptron-mk1.5" label="model_id"/>
+    <category term="typesafe" label="developer"/>
+    <category term="typesafe/jev-router" label="model_id"/>
     <category term="2026-09-25" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-09-25T00:00:00+00:00</published>
