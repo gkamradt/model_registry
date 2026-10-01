@@ -8688,6 +8688,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "unbiased",
+    "model_id": "unbiased/pareto-26.10-preview",
+    "release_date": "2026-10-01",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "undi95",
     "model_id": "undi95/remm-slerp-l2-13b",
     "release_date": "2023-07-22",
