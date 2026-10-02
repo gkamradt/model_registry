@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-01T21:31:20.856369+00:00</updated>
+  <updated>2026-10-02T19:04:11.222179+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:apodex:apodex/apodex-1.1-mini:free</id>
-    <title>openrouter - apodex - apodex/apodex-1.1-mini:free</title>
-    <updated>2026-10-01T21:31:20.856409+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: apodex/apodex-1.1-mini:free&lt;br/&gt;Release Date: 2026-10-01&lt;br/&gt;Developer: apodex&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.1-flash</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.1-flash</title>
+    <updated>2026-10-02T19:04:11.222246+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.1-flash&lt;br/&gt;Release Date: 2026-10-02&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="apodex" label="developer"/>
-    <category term="apodex/apodex-1.1-mini:free" label="model_id"/>
-    <category term="2026-10-01" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.1-flash" label="model_id"/>
+    <category term="2026-10-02" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-01T00:00:00+00:00</published>
+    <published>2026-10-02T00:00:00+00:00</published>
   </entry>
 </feed>

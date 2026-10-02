@@ -3502,6 +3502,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.1-flash",
+    "release_date": "2026-10-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ring-1t",
     "release_date": "2025-10-13",
     "status": "active"
