@@ -1990,6 +1990,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-nano-banana-2.1",
+    "release_date": "2026-10-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-pro-1.5",
     "release_date": "2024-04-09",
     "status": "active"

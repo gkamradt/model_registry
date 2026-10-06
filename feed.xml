@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-06T16:05:24.811388+00:00</updated>
+  <updated>2026-10-06T21:05:22.007613+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/mistral-large-4-0</id>
-    <title>openrouter - mistralai - mistralai/mistral-large-4-0</title>
-    <updated>2026-10-06T16:05:24.811685+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/mistral-large-4-0&lt;br/&gt;Release Date: 2026-10-06&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-nano-banana-2.1</id>
+    <title>openrouter - google - google/gemini-nano-banana-2.1</title>
+    <updated>2026-10-06T21:05:22.007663+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-nano-banana-2.1&lt;br/&gt;Release Date: 2026-10-06&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/mistral-large-4-0" label="model_id"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-nano-banana-2.1" label="model_id"/>
     <category term="2026-10-06" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-nano-banana-2.1</id>
-    <title>gemini - google - models/gemini-nano-banana-2.1</title>
-    <updated>2026-10-06T16:05:24.811437+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-nano-banana-2.1&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-nano-banana-2.1" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
