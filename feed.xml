@@ -2,20 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-06T21:05:22.007613+00:00</updated>
+  <updated>2026-10-07T20:02:21.035399+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-nano-banana-2.1</id>
-    <title>openrouter - google - google/gemini-nano-banana-2.1</title>
-    <updated>2026-10-06T21:05:22.007663+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-nano-banana-2.1&lt;br/&gt;Release Date: 2026-10-06&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-nano-banana-2.1" label="model_id"/>
-    <category term="2026-10-06" label="release_date"/>
+    <id>urn:model-registry:anthropic:anthropic:claude-haiku-5-5</id>
+    <title>anthropic - anthropic - claude-haiku-5-5</title>
+    <updated>2026-10-07T20:02:21.035781+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-haiku-5-5&lt;br/&gt;Release Date: 2026-10-07&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-haiku-5-5" label="model_id"/>
+    <category term="2026-10-07" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-06T00:00:00+00:00</published>
+    <published>2026-10-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-haiku-5.5:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-haiku-5.5:batch</title>
+    <updated>2026-10-07T20:02:21.035704+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-haiku-5.5:batch&lt;br/&gt;Release Date: 2026-10-07&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-haiku-5.5:batch" label="model_id"/>
+    <category term="2026-10-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-haiku-5.5</id>
+    <title>openrouter - anthropic - anthropic/claude-haiku-5.5</title>
+    <updated>2026-10-07T20:02:21.035448+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-haiku-5.5&lt;br/&gt;Release Date: 2026-10-07&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-haiku-5.5" label="model_id"/>
+    <category term="2026-10-07" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-07T00:00:00+00:00</published>
   </entry>
 </feed>
