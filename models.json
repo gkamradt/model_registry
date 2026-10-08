@@ -3502,6 +3502,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.0-flash-sante",
+    "release_date": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ling-3.0-flash-sante:free",
     "release_date": "2026-09-04",
     "status": "active"
