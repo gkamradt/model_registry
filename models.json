@@ -8478,6 +8478,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "stepfun",
+    "model_id": "stepfun/step-5-preview",
+    "release_date": "2026-10-08",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "stepfun-ai",
     "model_id": "stepfun-ai/step3",
     "release_date": "2025-08-28",
