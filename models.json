@@ -3788,6 +3788,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "meta",
+    "model_id": "meta/muse-wonder",
+    "release_date": "2026-10-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "meta-llama",
     "model_id": "meta-llama/llama-2-70b-chat",
     "release_date": "2023-06-20",

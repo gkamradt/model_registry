@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-08T19:36:19.193821+00:00</updated>
+  <updated>2026-10-12T19:54:26.003583+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.0-flash-sante</id>
-    <title>openrouter - inclusionai - inclusionai/ling-3.0-flash-sante</title>
-    <updated>2026-10-08T19:36:19.193864+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.0-flash-sante&lt;br/&gt;Release Date: 2026-09-04&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:meta:meta/muse-wonder</id>
+    <title>openrouter - meta - meta/muse-wonder</title>
+    <updated>2026-10-12T19:54:26.003638+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta/muse-wonder&lt;br/&gt;Release Date: 2026-10-12&lt;br/&gt;Developer: meta&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="inclusionai" label="developer"/>
-    <category term="inclusionai/ling-3.0-flash-sante" label="model_id"/>
-    <category term="2026-09-04" label="release_date"/>
+    <category term="meta" label="developer"/>
+    <category term="meta/muse-wonder" label="model_id"/>
+    <category term="2026-10-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-04T00:00:00+00:00</published>
+    <published>2026-10-12T00:00:00+00:00</published>
   </entry>
 </feed>
