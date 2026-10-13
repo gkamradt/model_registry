@@ -1997,6 +1997,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-4-argon",
+    "release_date": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-flash-1.5",
     "release_date": "2024-05-14",
     "status": "active"
@@ -2971,6 +2978,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-3.8-live-extended-thinking",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-4-argon",
     "release_date": "9999-12-31",
     "status": "active"
   },
@@ -8404,6 +8418,20 @@
     "developer": "sarvamai",
     "model_id": "sarvamai/sarvam-m:free",
     "release_date": "2025-05-25",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "scaledown",
+    "model_id": "scaledown/extract",
+    "release_date": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "scaledown",
+    "model_id": "scaledown/summarize",
+    "release_date": "2026-10-13",
     "status": "active"
   },
   {
