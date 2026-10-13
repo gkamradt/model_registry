@@ -2,56 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-13T16:39:19.234934+00:00</updated>
+  <updated>2026-10-13T21:40:59.974712+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:scaledown:scaledown/summarize</id>
-    <title>openrouter - scaledown - scaledown/summarize</title>
-    <updated>2026-10-13T16:39:19.235460+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: scaledown/summarize&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: scaledown&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2.5-24b-a2b</id>
+    <title>openrouter - liquid - liquid/lfm-2.5-24b-a2b</title>
+    <updated>2026-10-13T21:40:59.975058+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2.5-24b-a2b&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="scaledown" label="developer"/>
-    <category term="scaledown/summarize" label="model_id"/>
+    <category term="liquid" label="developer"/>
+    <category term="liquid/lfm-2.5-24b-a2b" label="model_id"/>
     <category term="2026-10-13" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-10-13T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:scaledown:scaledown/extract</id>
-    <title>openrouter - scaledown - scaledown/extract</title>
-    <updated>2026-10-13T16:39:19.235356+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: scaledown/extract&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: scaledown&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="scaledown" label="developer"/>
-    <category term="scaledown/extract" label="model_id"/>
-    <category term="2026-10-13" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-10-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-4-argon</id>
-    <title>openrouter - google - google/gemini-4-argon</title>
-    <updated>2026-10-13T16:39:19.235242+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-argon&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-4-argon:batch</id>
+    <title>openrouter - google - google/gemini-4-argon:batch</title>
+    <updated>2026-10-13T21:40:59.974766+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-argon:batch&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="google" label="developer"/>
-    <category term="google/gemini-4-argon" label="model_id"/>
+    <category term="google/gemini-4-argon:batch" label="model_id"/>
     <category term="2026-10-13" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-10-13T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:gemini:google:models/gemini-4-argon</id>
-    <title>gemini - google - models/gemini-4-argon</title>
-    <updated>2026-10-13T16:39:19.234992+00:00</updated>
-    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-4-argon&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
-    <category term="gemini" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="models/gemini-4-argon" label="model_id"/>
-    <category term="9999-12-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>

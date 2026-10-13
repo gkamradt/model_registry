@@ -2004,6 +2004,13 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-4-argon:batch",
+    "release_date": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-flash-1.5",
     "release_date": "2024-05-14",
     "status": "active"
@@ -3693,6 +3700,13 @@
     "developer": "liquid",
     "model_id": "liquid/lfm-2.5-2.6b:free",
     "release_date": "2026-08-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "liquid",
+    "model_id": "liquid/lfm-2.5-24b-a2b",
+    "release_date": "2026-10-13",
     "status": "active"
   },
   {
