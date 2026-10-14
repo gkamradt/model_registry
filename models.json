@@ -8821,6 +8821,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "unbiased",
+    "model_id": "unbiased/pareto-26.9",
+    "release_date": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "undi95",
     "model_id": "undi95/remm-slerp-l2-13b",
     "release_date": "2023-07-22",
@@ -9377,6 +9384,13 @@
     "developer": "~openai",
     "model_id": "~openai/gpt-terra-latest",
     "release_date": "2026-09-11",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "~unbiased",
+    "model_id": "~unbiased/pareto-latest",
+    "release_date": "2026-10-13",
     "status": "active"
   },
   {
