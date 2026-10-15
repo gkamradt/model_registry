@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-15T16:06:01.633892+00:00</updated>
+  <updated>2026-10-15T19:57:01.799879+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3.5-super-vl:free</id>
-    <title>openrouter - nvidia - nvidia/nemotron-3.5-super-vl:free</title>
-    <updated>2026-10-15T16:06:01.633953+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3.5-super-vl:free&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:nvidia:nvidia/nemotron-3.5-super-vl</id>
+    <title>openrouter - nvidia - nvidia/nemotron-3.5-super-vl</title>
+    <updated>2026-10-15T19:57:01.800180+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: nvidia/nemotron-3.5-super-vl&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: nvidia&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="nvidia" label="developer"/>
-    <category term="nvidia/nemotron-3.5-super-vl:free" label="model_id"/>
+    <category term="nvidia/nemotron-3.5-super-vl" label="model_id"/>
+    <category term="2026-10-15" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:meta:meta/muse-spark-open</id>
+    <title>openrouter - meta - meta/muse-spark-open</title>
+    <updated>2026-10-15T19:57:01.799932+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta/muse-spark-open&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: meta&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="meta" label="developer"/>
+    <category term="meta/muse-spark-open" label="model_id"/>
     <category term="2026-10-15" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-10-15T00:00:00+00:00</published>
