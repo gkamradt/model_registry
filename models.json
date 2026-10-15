@@ -4614,6 +4614,20 @@
   },
   {
     "provider": "openrouter",
+    "developer": "moondream",
+    "model_id": "moondream/moondream3-preview",
+    "release_date": "2026-10-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moondream",
+    "model_id": "moondream/moondream3.1-9b-a2b",
+    "release_date": "2026-10-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "moonshotai",
     "model_id": "moonshotai/kimi-dev-72b",
     "release_date": "2025-06-16",
