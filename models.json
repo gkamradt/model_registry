@@ -9157,6 +9157,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "xingchen-agi",
+    "model_id": "xingchen-agi/xing4.0-29b-a4b:free",
+    "release_date": "2026-10-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "z-ai",
     "model_id": "z-ai/glm-4-32b",
     "release_date": "2025-07-24",
