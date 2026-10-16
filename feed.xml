@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-15T22:53:25.021770+00:00</updated>
+  <updated>2026-10-16T18:36:07.462978+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:moondream:moondream/moondream3.1-9b-a2b</id>
-    <title>openrouter - moondream - moondream/moondream3.1-9b-a2b</title>
-    <updated>2026-10-15T22:53:25.022154+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moondream/moondream3.1-9b-a2b&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: moondream&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:reflection:reflection/beam-1.0-501b-a23b</id>
+    <title>openrouter - reflection - reflection/beam-1.0-501b-a23b</title>
+    <updated>2026-10-16T18:36:07.463035+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: reflection/beam-1.0-501b-a23b&lt;br/&gt;Release Date: 2026-10-16&lt;br/&gt;Developer: reflection&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="moondream" label="developer"/>
-    <category term="moondream/moondream3.1-9b-a2b" label="model_id"/>
-    <category term="2026-10-15" label="release_date"/>
+    <category term="reflection" label="developer"/>
+    <category term="reflection/beam-1.0-501b-a23b" label="model_id"/>
+    <category term="2026-10-16" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:moondream:moondream/moondream3-preview</id>
-    <title>openrouter - moondream - moondream/moondream3-preview</title>
-    <updated>2026-10-15T22:53:25.021836+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moondream/moondream3-preview&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: moondream&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="moondream" label="developer"/>
-    <category term="moondream/moondream3-preview" label="model_id"/>
-    <category term="2026-10-15" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-10-15T00:00:00+00:00</published>
+    <published>2026-10-16T00:00:00+00:00</published>
   </entry>
 </feed>
