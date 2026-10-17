@@ -1612,6 +1612,13 @@
   {
     "provider": "openrouter",
     "developer": "deepseek",
+    "model_id": "deepseek/deepseek-v4.1-flash-1017",
+    "release_date": "2026-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "deepseek",
     "model_id": "deepseek/deepseek-v4.1-flash:batch",
     "release_date": "2026-09-10",
     "status": "active"
