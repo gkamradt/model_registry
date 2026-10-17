@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-16T21:51:30.653392+00:00</updated>
+  <updated>2026-10-17T00:05:12.812304+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:xingchen-agi:xingchen-agi/xing4.0-29b-a4b:free</id>
-    <title>openrouter - xingchen-agi - xingchen-agi/xing4.0-29b-a4b:free</title>
-    <updated>2026-10-16T21:51:30.653432+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xingchen-agi/xing4.0-29b-a4b:free&lt;br/&gt;Release Date: 2026-10-16&lt;br/&gt;Developer: xingchen-agi&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.7-plus:batch</id>
+    <title>openrouter - qwen - qwen/qwen3.7-plus:batch</title>
+    <updated>2026-10-17T00:05:12.812369+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.7-plus:batch&lt;br/&gt;Release Date: 2026-06-03&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="xingchen-agi" label="developer"/>
-    <category term="xingchen-agi/xing4.0-29b-a4b:free" label="model_id"/>
-    <category term="2026-10-16" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.7-plus:batch" label="model_id"/>
+    <category term="2026-06-03" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-16T00:00:00+00:00</published>
+    <published>2026-06-03T00:00:00+00:00</published>
   </entry>
 </feed>
