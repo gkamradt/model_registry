@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-17T08:57:24.358379+00:00</updated>
+  <updated>2026-10-17T23:16:03.265964+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4.1-flash-1017</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v4.1-flash-1017</title>
-    <updated>2026-10-17T08:57:24.358434+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4.1-flash-1017&lt;br/&gt;Release Date: 2026-10-17&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:unbiased:unbiased/pareto-26.10</id>
+    <title>openrouter - unbiased - unbiased/pareto-26.10</title>
+    <updated>2026-10-17T23:16:03.266011+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: unbiased/pareto-26.10&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: unbiased&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v4.1-flash-1017" label="model_id"/>
-    <category term="2026-10-17" label="release_date"/>
+    <category term="unbiased" label="developer"/>
+    <category term="unbiased/pareto-26.10" label="model_id"/>
+    <category term="2026-10-15" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-17T00:00:00+00:00</published>
+    <published>2026-10-15T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -8878,6 +8878,13 @@
   {
     "provider": "openrouter",
     "developer": "unbiased",
+    "model_id": "unbiased/pareto-26.10",
+    "release_date": "2026-10-15",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "unbiased",
     "model_id": "unbiased/pareto-26.10-preview",
     "release_date": "2026-10-01",
     "status": "active"
