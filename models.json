@@ -1632,6 +1632,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "elorian",
+    "model_id": "elorian/glimpse",
+    "release_date": "2026-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "essentialai",
     "model_id": "essentialai/rnj-1-instruct",
     "release_date": "2025-12-07",
