@@ -2,20 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-17T23:16:03.265964+00:00</updated>
+  <updated>2026-10-18T06:14:27.209238+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:unbiased:unbiased/pareto-26.10</id>
-    <title>openrouter - unbiased - unbiased/pareto-26.10</title>
-    <updated>2026-10-17T23:16:03.266011+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: unbiased/pareto-26.10&lt;br/&gt;Release Date: 2026-10-15&lt;br/&gt;Developer: unbiased&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="unbiased" label="developer"/>
-    <category term="unbiased/pareto-26.10" label="model_id"/>
-    <category term="2026-10-15" label="release_date"/>
+    <id>urn:model-registry:openai:openai:aurora-red-alpha</id>
+    <title>openai - openai - aurora-red-alpha</title>
+    <updated>2026-10-18T06:14:27.209583+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: aurora-red-alpha&lt;br/&gt;Release Date: 2026-10-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="aurora-red-alpha" label="model_id"/>
+    <category term="2026-10-17" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-15T00:00:00+00:00</published>
+    <published>2026-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:aurora-green-alpha</id>
+    <title>openai - openai - aurora-green-alpha</title>
+    <updated>2026-10-18T06:14:27.209503+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: aurora-green-alpha&lt;br/&gt;Release Date: 2026-10-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="aurora-green-alpha" label="model_id"/>
+    <category term="2026-10-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:aurora-blue-alpha</id>
+    <title>openai - openai - aurora-blue-alpha</title>
+    <updated>2026-10-18T06:14:27.209283+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: aurora-blue-alpha&lt;br/&gt;Release Date: 2026-10-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="aurora-blue-alpha" label="model_id"/>
+    <category term="2026-10-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-17T00:00:00+00:00</published>
   </entry>
 </feed>

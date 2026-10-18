@@ -5168,6 +5168,27 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "aurora-blue-alpha",
+    "release_date": "2026-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "aurora-green-alpha",
+    "release_date": "2026-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "aurora-red-alpha",
+    "release_date": "2026-10-17",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "babbage-002",
     "release_date": "2023-08-21",
     "status": "active"
