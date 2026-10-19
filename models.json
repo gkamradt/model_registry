@@ -3467,6 +3467,13 @@
   {
     "provider": "openrouter",
     "developer": "inception",
+    "model_id": "inception/mercury-3",
+    "release_date": "2026-10-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inception",
     "model_id": "inception/mercury-coder",
     "release_date": "2025-04-30",
     "status": "active"
@@ -4218,6 +4225,13 @@
     "developer": "minimax",
     "model_id": "minimax/minimax-m3",
     "release_date": "2026-05-31",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "minimax",
+    "model_id": "minimax/minimax-m3.1-flash:free",
+    "release_date": "2026-10-19",
     "status": "active"
   },
   {
