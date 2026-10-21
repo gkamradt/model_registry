@@ -8401,6 +8401,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "recursive",
+    "model_id": "recursive/flint-v1.0:free",
+    "release_date": "2026-10-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "reflection",
     "model_id": "reflection/beam-1.0-501b-a23b",
     "release_date": "2026-10-16",
