@@ -4230,6 +4230,13 @@
   {
     "provider": "openrouter",
     "developer": "minimax",
+    "model_id": "minimax/minimax-m3.1-flash",
+    "release_date": "2026-10-19",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "minimax",
     "model_id": "minimax/minimax-m3.1-flash:free",
     "release_date": "2026-10-19",
     "status": "active"
