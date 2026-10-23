@@ -4755,6 +4755,13 @@
   {
     "provider": "openrouter",
     "developer": "moonshotai",
+    "model_id": "moonshotai/kimi-k3.1-pro",
+    "release_date": "2026-10-23",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "moonshotai",
     "model_id": "moonshotai/kimi-k3:batch",
     "release_date": "2026-07-16",
     "status": "active"
