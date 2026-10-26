@@ -2,20 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-24T22:10:26.570225+00:00</updated>
+  <updated>2026-10-26T18:45:23.803259+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:liquid:liquid/lfm-2.5-2.6b</id>
-    <title>openrouter - liquid - liquid/lfm-2.5-2.6b</title>
-    <updated>2026-10-24T22:10:26.570273+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: liquid/lfm-2.5-2.6b&lt;br/&gt;Release Date: 2026-08-11&lt;br/&gt;Developer: liquid&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="liquid" label="developer"/>
-    <category term="liquid/lfm-2.5-2.6b" label="model_id"/>
-    <category term="2026-08-11" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-6.1-terra</id>
+    <title>openai - openai - gpt-6.1-terra</title>
+    <updated>2026-10-26T18:45:23.803630+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6.1-terra&lt;br/&gt;Release Date: 2026-10-13&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-6.1-terra" label="model_id"/>
+    <category term="2026-10-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-08-11T00:00:00+00:00</published>
+    <published>2026-10-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.1-terra:batch</id>
+    <title>openrouter - openai - openai/gpt-6.1-terra:batch</title>
+    <updated>2026-10-26T18:45:23.803555+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.1-terra:batch&lt;br/&gt;Release Date: 2026-10-26&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.1-terra:batch" label="model_id"/>
+    <category term="2026-10-26" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.1-terra</id>
+    <title>openrouter - openai - openai/gpt-6.1-terra</title>
+    <updated>2026-10-26T18:45:23.803322+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.1-terra&lt;br/&gt;Release Date: 2026-10-26&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.1-terra" label="model_id"/>
+    <category term="2026-10-26" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-26T00:00:00+00:00</published>
   </entry>
 </feed>
