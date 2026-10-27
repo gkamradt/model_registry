@@ -7086,6 +7086,20 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-6.1-terra-pro",
+    "release_date": "2026-10-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.1-terra-pro:batch",
+    "release_date": "2026-10-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-6.1-terra:batch",
     "release_date": "2026-10-26",
     "status": "active"
