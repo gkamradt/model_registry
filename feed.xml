@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-10-27T22:47:32.761510+00:00</updated>
+  <updated>2026-10-28T20:00:53.108097+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:prism-ml:prism-ml/ternary-bonsai-2-9b</id>
-    <title>openrouter - prism-ml - prism-ml/ternary-bonsai-2-9b</title>
-    <updated>2026-10-27T22:47:32.761550+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: prism-ml/ternary-bonsai-2-9b&lt;br/&gt;Release Date: 2026-10-16&lt;br/&gt;Developer: prism-ml&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:particle-ai:particle-ai/particle-1</id>
+    <title>openrouter - particle-ai - particle-ai/particle-1</title>
+    <updated>2026-10-28T20:00:53.108155+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: particle-ai/particle-1&lt;br/&gt;Release Date: 2026-10-28&lt;br/&gt;Developer: particle-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="prism-ml" label="developer"/>
-    <category term="prism-ml/ternary-bonsai-2-9b" label="model_id"/>
-    <category term="2026-10-16" label="release_date"/>
+    <category term="particle-ai" label="developer"/>
+    <category term="particle-ai/particle-1" label="model_id"/>
+    <category term="2026-10-28" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-16T00:00:00+00:00</published>
+    <published>2026-10-28T00:00:00+00:00</published>
   </entry>
 </feed>
