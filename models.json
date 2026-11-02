@@ -9445,6 +9445,13 @@
   {
     "provider": "openrouter",
     "developer": "z-ai",
+    "model_id": "z-ai/glm-5.3-flashx-legal",
+    "release_date": "2026-11-02",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "z-ai",
     "model_id": "z-ai/glm-5.3-prime",
     "release_date": "2026-09-23",
     "status": "active"
