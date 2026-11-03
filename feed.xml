@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-02T17:17:13.443361+00:00</updated>
+  <updated>2026-11-03T20:11:27.795827+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:z-ai:z-ai/glm-5.3-flashx-legal</id>
-    <title>openrouter - z-ai - z-ai/glm-5.3-flashx-legal</title>
-    <updated>2026-11-02T17:17:13.443422+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: z-ai/glm-5.3-flashx-legal&lt;br/&gt;Release Date: 2026-11-02&lt;br/&gt;Developer: z-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.6:batch</id>
+    <title>openrouter - x-ai - x-ai/grok-4.6:batch</title>
+    <updated>2026-11-03T20:11:27.796111+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.6:batch&lt;br/&gt;Release Date: 2026-08-12&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="z-ai" label="developer"/>
-    <category term="z-ai/glm-5.3-flashx-legal" label="model_id"/>
-    <category term="2026-11-02" label="release_date"/>
+    <category term="x-ai" label="developer"/>
+    <category term="x-ai/grok-4.6:batch" label="model_id"/>
+    <category term="2026-08-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <published>2026-08-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:x-ai:x-ai/grok-4.7:batch</id>
+    <title>openrouter - x-ai - x-ai/grok-4.7:batch</title>
+    <updated>2026-11-03T20:11:27.795872+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: x-ai/grok-4.7:batch&lt;br/&gt;Release Date: 2026-09-21&lt;br/&gt;Developer: x-ai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="x-ai" label="developer"/>
+    <category term="x-ai/grok-4.7:batch" label="model_id"/>
+    <category term="2026-09-21" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-09-21T00:00:00+00:00</published>
   </entry>
 </feed>

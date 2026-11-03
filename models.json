@@ -9200,7 +9200,21 @@
   {
     "provider": "openrouter",
     "developer": "x-ai",
+    "model_id": "x-ai/grok-4.6:batch",
+    "release_date": "2026-08-12",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
     "model_id": "x-ai/grok-4.7",
+    "release_date": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "x-ai",
+    "model_id": "x-ai/grok-4.7:batch",
     "release_date": "2026-09-21",
     "status": "active"
   },
