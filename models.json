@@ -8527,6 +8527,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "ricursiveai",
+    "model_id": "ricursiveai/ripple-65b-preview",
+    "release_date": "2026-11-04",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "sakana",
     "model_id": "sakana/fugu-max",
     "release_date": "2026-09-11",
