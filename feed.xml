@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-04T21:39:27.918702+00:00</updated>
+  <updated>2026-11-05T01:55:56.636732+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:ricursiveai:ricursiveai/ripple-65b-preview</id>
-    <title>openrouter - ricursiveai - ricursiveai/ripple-65b-preview</title>
-    <updated>2026-11-04T21:39:27.918771+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: ricursiveai/ripple-65b-preview&lt;br/&gt;Release Date: 2026-11-04&lt;br/&gt;Developer: ricursiveai&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="ricursiveai" label="developer"/>
-    <category term="ricursiveai/ripple-65b-preview" label="model_id"/>
-    <category term="2026-11-04" label="release_date"/>
+    <id>urn:model-registry:openai:openai:gpt-image-2.6-sunburst</id>
+    <title>openai - openai - gpt-image-2.6-sunburst</title>
+    <updated>2026-11-05T01:55:56.637059+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.6-sunburst&lt;br/&gt;Release Date: 2026-10-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.6-sunburst" label="model_id"/>
+    <category term="2026-10-28" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-04T00:00:00+00:00</published>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openai:openai:gpt-image-2.6-flare</id>
+    <title>openai - openai - gpt-image-2.6-flare</title>
+    <updated>2026-11-05T01:55:56.636787+00:00</updated>
+    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-image-2.6-flare&lt;br/&gt;Release Date: 2026-10-28&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openai" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="gpt-image-2.6-flare" label="model_id"/>
+    <category term="2026-10-28" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-10-28T00:00:00+00:00</published>
   </entry>
 </feed>

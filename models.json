@@ -6099,6 +6099,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-image-2.6-flare",
+    "release_date": "2026-10-28",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-image-2.6-sunburst",
+    "release_date": "2026-10-28",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-live-1",
     "release_date": "2026-09-08",
     "status": "active"
