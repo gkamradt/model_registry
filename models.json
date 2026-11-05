@@ -3096,6 +3096,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/gemini-omni-1.2-flash",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/gemini-omni-flash-preview",
     "release_date": "9999-12-31",
     "status": "active"
@@ -7536,6 +7543,13 @@
     "developer": "openrouter",
     "model_id": "openrouter/auto-beta",
     "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openrouter",
+    "model_id": "openrouter/auto-code",
+    "release_date": "2026-11-05",
     "status": "active"
   },
   {
