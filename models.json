@@ -3768,6 +3768,20 @@
   {
     "provider": "openrouter",
     "developer": "liquid",
+    "model_id": "liquid/lfm-3-1.7b",
+    "release_date": "2026-11-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "liquid",
+    "model_id": "liquid/lfm-3-1.7b:free",
+    "release_date": "2026-11-06",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "liquid",
     "model_id": "liquid/lfm-3b",
     "release_date": "2025-01-25",
     "status": "active"
