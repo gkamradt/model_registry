@@ -2,44 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-08T03:49:46.732085+00:00</updated>
+  <updated>2026-11-09T17:14:31.869008+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:morph:morph/morph-v3-large:batch</id>
-    <title>openrouter - morph - morph/morph-v3-large:batch</title>
-    <updated>2026-11-08T03:49:46.732555+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: morph/morph-v3-large:batch&lt;br/&gt;Release Date: 2025-07-07&lt;br/&gt;Developer: morph&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-max-0902:batch</id>
+    <title>openrouter - qwen - qwen/qwen3.8-max-0902:batch</title>
+    <updated>2026-11-09T17:14:31.869113+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-max-0902:batch&lt;br/&gt;Release Date: 2026-09-03&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="morph" label="developer"/>
-    <category term="morph/morph-v3-large:batch" label="model_id"/>
-    <category term="2025-07-07" label="release_date"/>
+    <category term="qwen" label="developer"/>
+    <category term="qwen/qwen3.8-max-0902:batch" label="model_id"/>
+    <category term="2026-09-03" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2025-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:morph:morph/morph-v3-fast:batch</id>
-    <title>openrouter - morph - morph/morph-v3-fast:batch</title>
-    <updated>2026-11-08T03:49:46.732477+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: morph/morph-v3-fast:batch&lt;br/&gt;Release Date: 2025-07-07&lt;br/&gt;Developer: morph&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="morph" label="developer"/>
-    <category term="morph/morph-v3-fast:batch" label="model_id"/>
-    <category term="2025-07-07" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2025-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:deepseek:deepseek/deepseek-v4.1-flash-1017:batch</id>
-    <title>openrouter - deepseek - deepseek/deepseek-v4.1-flash-1017:batch</title>
-    <updated>2026-11-08T03:49:46.732152+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: deepseek/deepseek-v4.1-flash-1017:batch&lt;br/&gt;Release Date: 2026-10-17&lt;br/&gt;Developer: deepseek&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="deepseek" label="developer"/>
-    <category term="deepseek/deepseek-v4.1-flash-1017:batch" label="model_id"/>
-    <category term="2026-10-17" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-10-17T00:00:00+00:00</published>
+    <published>2026-09-03T00:00:00+00:00</published>
   </entry>
 </feed>
