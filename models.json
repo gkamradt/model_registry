@@ -485,6 +485,20 @@
   {
     "provider": "openrouter",
     "developer": "anthropic",
+    "model_id": "anthropic/claude-fable-5.2",
+    "release_date": "2026-11-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
+    "model_id": "anthropic/claude-fable-5.2:batch",
+    "release_date": "2026-11-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "anthropic",
     "model_id": "anthropic/claude-fable-5:batch",
     "release_date": "2026-06-09",
     "status": "active"
@@ -788,6 +802,13 @@
     "developer": "anthropic",
     "model_id": "claude-fable-5-1",
     "release_date": "2026-08-28",
+    "status": "active"
+  },
+  {
+    "provider": "anthropic",
+    "developer": "anthropic",
+    "model_id": "claude-fable-5-2",
+    "release_date": "2026-11-09",
     "status": "active"
   },
   {
@@ -3840,6 +3861,13 @@
     "developer": "meituan",
     "model_id": "meituan/longcat-flash-chat:free",
     "release_date": "2025-09-09",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "meta",
+    "model_id": "meta/muse-ember",
+    "release_date": "2026-11-09",
     "status": "active"
   },
   {
@@ -8971,6 +8999,13 @@
     "developer": "thinkingmachines",
     "model_id": "thinkingmachines/inkling",
     "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling-2-small:free",
+    "release_date": "2026-11-09",
     "status": "active"
   },
   {

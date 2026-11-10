@@ -2,20 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-09T17:14:31.869008+00:00</updated>
+  <updated>2026-11-10T00:47:00.930112+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:qwen:qwen/qwen3.8-max-0902:batch</id>
-    <title>openrouter - qwen - qwen/qwen3.8-max-0902:batch</title>
-    <updated>2026-11-09T17:14:31.869113+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: qwen/qwen3.8-max-0902:batch&lt;br/&gt;Release Date: 2026-09-03&lt;br/&gt;Developer: qwen&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling-2-small:free</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling-2-small:free</title>
+    <updated>2026-11-10T00:47:00.930782+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling-2-small:free&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="qwen" label="developer"/>
-    <category term="qwen/qwen3.8-max-0902:batch" label="model_id"/>
-    <category term="2026-09-03" label="release_date"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling-2-small:free" label="model_id"/>
+    <category term="2026-11-09" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-09-03T00:00:00+00:00</published>
+    <published>2026-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:meta:meta/muse-ember</id>
+    <title>openrouter - meta - meta/muse-ember</title>
+    <updated>2026-11-10T00:47:00.930684+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: meta/muse-ember&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: meta&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="meta" label="developer"/>
+    <category term="meta/muse-ember" label="model_id"/>
+    <category term="2026-11-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:anthropic:anthropic:claude-fable-5-2</id>
+    <title>anthropic - anthropic - claude-fable-5-2</title>
+    <updated>2026-11-10T00:47:00.930591+00:00</updated>
+    <content type="html">Provider: anthropic&lt;br/&gt;Model ID: claude-fable-5-2&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="anthropic" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="claude-fable-5-2" label="model_id"/>
+    <category term="2026-11-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-fable-5.2:batch</id>
+    <title>openrouter - anthropic - anthropic/claude-fable-5.2:batch</title>
+    <updated>2026-11-10T00:47:00.930486+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-fable-5.2:batch&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-fable-5.2:batch" label="model_id"/>
+    <category term="2026-11-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:anthropic:anthropic/claude-fable-5.2</id>
+    <title>openrouter - anthropic - anthropic/claude-fable-5.2</title>
+    <updated>2026-11-10T00:47:00.930180+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: anthropic/claude-fable-5.2&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: anthropic&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="anthropic" label="developer"/>
+    <category term="anthropic/claude-fable-5.2" label="model_id"/>
+    <category term="2026-11-09" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-09T00:00:00+00:00</published>
   </entry>
 </feed>
