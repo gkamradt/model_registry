@@ -1080,6 +1080,20 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/ernie-5.5-flash-preview",
+    "release_date": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
+    "model_id": "baidu/ernie-light-dt-1.0-intl",
+    "release_date": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/qianfan-ocr-fast",
     "release_date": "2026-04-20",
     "status": "active"
@@ -2048,6 +2062,20 @@
     "developer": "google",
     "model_id": "google/gemini-4-argon:batch",
     "release_date": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/gemini-4-carbon",
+    "release_date": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/gemini-4-carbon:batch",
+    "release_date": "2026-11-10",
     "status": "active"
   },
   {
