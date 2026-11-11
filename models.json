@@ -3739,6 +3739,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "kt",
+    "model_id": "kt/midm-k-3.0-pro",
+    "release_date": "2026-11-05",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "kwaipilot",
     "model_id": "kwaipilot/kat-coder-air-v2.5",
     "release_date": "2026-07-10",
@@ -4946,6 +4953,13 @@
     "developer": "morph",
     "model_id": "morph/morph-v3-large:batch",
     "release_date": "2025-07-07",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "motif-technologies",
+    "model_id": "motif-technologies/motif-3",
+    "release_date": "2026-11-02",
     "status": "active"
   },
   {

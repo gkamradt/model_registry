@@ -2,56 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-10T21:51:55.277384+00:00</updated>
+  <updated>2026-11-11T01:38:37.815371+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-4-carbon:batch</id>
-    <title>openrouter - google - google/gemini-4-carbon:batch</title>
-    <updated>2026-11-10T21:51:55.277812+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-carbon:batch&lt;br/&gt;Release Date: 2026-11-10&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:motif-technologies:motif-technologies/motif-3</id>
+    <title>openrouter - motif-technologies - motif-technologies/motif-3</title>
+    <updated>2026-11-11T01:38:37.815625+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: motif-technologies/motif-3&lt;br/&gt;Release Date: 2026-11-02&lt;br/&gt;Developer: motif-technologies&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-4-carbon:batch" label="model_id"/>
-    <category term="2026-11-10" label="release_date"/>
+    <category term="motif-technologies" label="developer"/>
+    <category term="motif-technologies/motif-3" label="model_id"/>
+    <category term="2026-11-02" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-10T00:00:00+00:00</published>
+    <published>2026-11-02T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>urn:model-registry:openrouter:google:google/gemini-4-carbon</id>
-    <title>openrouter - google - google/gemini-4-carbon</title>
-    <updated>2026-11-10T21:51:55.277744+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-carbon&lt;br/&gt;Release Date: 2026-11-10&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:kt:kt/midm-k-3.0-pro</id>
+    <title>openrouter - kt - kt/midm-k-3.0-pro</title>
+    <updated>2026-11-11T01:38:37.815411+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: kt/midm-k-3.0-pro&lt;br/&gt;Release Date: 2026-11-05&lt;br/&gt;Developer: kt&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="google" label="developer"/>
-    <category term="google/gemini-4-carbon" label="model_id"/>
-    <category term="2026-11-10" label="release_date"/>
+    <category term="kt" label="developer"/>
+    <category term="kt/midm-k-3.0-pro" label="model_id"/>
+    <category term="2026-11-05" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:baidu:baidu/ernie-light-dt-1.0-intl</id>
-    <title>openrouter - baidu - baidu/ernie-light-dt-1.0-intl</title>
-    <updated>2026-11-10T21:51:55.277668+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/ernie-light-dt-1.0-intl&lt;br/&gt;Release Date: 2026-11-10&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="baidu" label="developer"/>
-    <category term="baidu/ernie-light-dt-1.0-intl" label="model_id"/>
-    <category term="2026-11-10" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:baidu:baidu/ernie-5.5-flash-preview</id>
-    <title>openrouter - baidu - baidu/ernie-5.5-flash-preview</title>
-    <updated>2026-11-10T21:51:55.277437+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/ernie-5.5-flash-preview&lt;br/&gt;Release Date: 2026-11-10&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="baidu" label="developer"/>
-    <category term="baidu/ernie-5.5-flash-preview" label="model_id"/>
-    <category term="2026-11-10" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-10T00:00:00+00:00</published>
+    <published>2026-11-05T00:00:00+00:00</published>
   </entry>
 </feed>
