@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-11T08:42:53.554975+00:00</updated>
+  <updated>2026-11-11T16:48:49.087602+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:baidu:baidu/ernie-5.5-flash-preview:free</id>
-    <title>openrouter - baidu - baidu/ernie-5.5-flash-preview:free</title>
-    <updated>2026-11-11T08:42:53.555015+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: baidu/ernie-5.5-flash-preview:free&lt;br/&gt;Release Date: 2026-11-10&lt;br/&gt;Developer: baidu&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="baidu" label="developer"/>
-    <category term="baidu/ernie-5.5-flash-preview:free" label="model_id"/>
-    <category term="2026-11-10" label="release_date"/>
+    <id>urn:model-registry:gemini:google:models/gemini-decision-1</id>
+    <title>gemini - google - models/gemini-decision-1</title>
+    <updated>2026-11-11T16:48:49.087642+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-decision-1&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-decision-1" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-10T00:00:00+00:00</published>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
