@@ -1087,6 +1087,13 @@
   {
     "provider": "openrouter",
     "developer": "baidu",
+    "model_id": "baidu/ernie-5.5-flash-preview:free",
+    "release_date": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "baidu",
     "model_id": "baidu/ernie-light-dt-1.0-intl",
     "release_date": "2026-11-10",
     "status": "active"
