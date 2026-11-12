@@ -2,20 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-12T12:19:29.814068+00:00</updated>
+  <updated>2026-11-12T20:13:37.589524+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:moonshotai:moonshotai/kimi-k3.1-pro:batch</id>
-    <title>openrouter - moonshotai - moonshotai/kimi-k3.1-pro:batch</title>
-    <updated>2026-11-12T12:19:29.814122+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: moonshotai/kimi-k3.1-pro:batch&lt;br/&gt;Release Date: 2026-10-23&lt;br/&gt;Developer: moonshotai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:google:google/gemini-4-hydrogen:batch</id>
+    <title>openrouter - google - google/gemini-4-hydrogen:batch</title>
+    <updated>2026-11-12T20:13:37.590082+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-hydrogen:batch&lt;br/&gt;Release Date: 2026-11-12&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="moonshotai" label="developer"/>
-    <category term="moonshotai/kimi-k3.1-pro:batch" label="model_id"/>
-    <category term="2026-10-23" label="release_date"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-4-hydrogen:batch" label="model_id"/>
+    <category term="2026-11-12" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-23T00:00:00+00:00</published>
+    <published>2026-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:google:google/gemini-4-hydrogen</id>
+    <title>openrouter - google - google/gemini-4-hydrogen</title>
+    <updated>2026-11-12T20:13:37.589923+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: google/gemini-4-hydrogen&lt;br/&gt;Release Date: 2026-11-12&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="google/gemini-4-hydrogen" label="model_id"/>
+    <category term="2026-11-12" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:gemini:google:models/gemini-4-hydrogen</id>
+    <title>gemini - google - models/gemini-4-hydrogen</title>
+    <updated>2026-11-12T20:13:37.589583+00:00</updated>
+    <content type="html">Provider: gemini&lt;br/&gt;Model ID: models/gemini-4-hydrogen&lt;br/&gt;Release Date: 9999-12-31&lt;br/&gt;Developer: google&lt;br/&gt;Status: active</content>
+    <category term="gemini" label="provider"/>
+    <category term="google" label="developer"/>
+    <category term="models/gemini-4-hydrogen" label="model_id"/>
+    <category term="9999-12-31" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>9999-12-31T00:00:00+00:00</published>
   </entry>
 </feed>
