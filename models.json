@@ -7862,6 +7862,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "particle-ai",
+    "model_id": "particle-ai/particle-1:free",
+    "release_date": "2026-10-28",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "perceptron",
     "model_id": "perceptron/perceptron-mk1",
     "release_date": "2026-05-12",
@@ -9097,6 +9104,13 @@
     "developer": "thinkingmachines",
     "model_id": "thinkingmachines/inkling",
     "release_date": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling-2-small",
+    "release_date": "2026-11-09",
     "status": "active"
   },
   {
