@@ -2,32 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-13T01:17:36.395369+00:00</updated>
+  <updated>2026-11-13T22:19:39.282207+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:particle-ai:particle-ai/particle-1:free</id>
-    <title>openrouter - particle-ai - particle-ai/particle-1:free</title>
-    <updated>2026-11-13T01:17:36.395675+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: particle-ai/particle-1:free&lt;br/&gt;Release Date: 2026-10-28&lt;br/&gt;Developer: particle-ai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/ling-3.2-flash:free</id>
+    <title>openrouter - inclusionai - inclusionai/ling-3.2-flash:free</title>
+    <updated>2026-11-13T22:19:39.282251+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/ling-3.2-flash:free&lt;br/&gt;Release Date: 2026-11-13&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="particle-ai" label="developer"/>
-    <category term="particle-ai/particle-1:free" label="model_id"/>
-    <category term="2026-10-28" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/ling-3.2-flash:free" label="model_id"/>
+    <category term="2026-11-13" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling-2-small</id>
-    <title>openrouter - thinkingmachines - thinkingmachines/inkling-2-small</title>
-    <updated>2026-11-13T01:17:36.395417+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling-2-small&lt;br/&gt;Release Date: 2026-11-09&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="thinkingmachines" label="developer"/>
-    <category term="thinkingmachines/inkling-2-small" label="model_id"/>
-    <category term="2026-11-09" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-09T00:00:00+00:00</published>
+    <published>2026-11-13T00:00:00+00:00</published>
   </entry>
 </feed>
