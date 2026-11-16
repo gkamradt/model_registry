@@ -9060,6 +9060,13 @@
   {
     "provider": "openrouter",
     "developer": "tencent",
+    "model_id": "tencent/hy4-flash",
+    "release_date": "2026-11-16",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "tencent",
     "model_id": "tencent/hy4-preview",
     "release_date": "2026-08-28",
     "status": "active"
