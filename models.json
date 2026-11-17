@@ -6190,6 +6190,20 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-6.2-astra",
+    "release_date": "2026-10-31",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-6.2-sol",
+    "release_date": "2026-11-02",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-audio",
     "release_date": "2025-08-28",
     "status": "active"
@@ -7312,6 +7326,13 @@
     "developer": "openai",
     "model_id": "openai/gpt-6.1-terra:batch",
     "release_date": "2026-10-26",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-astra",
+    "release_date": "2026-11-17",
     "status": "active"
   },
   {
