@@ -2102,6 +2102,20 @@
   {
     "provider": "openrouter",
     "developer": "google",
+    "model_id": "google/gemini-4-neon",
+    "release_date": "2026-11-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
+    "model_id": "google/gemini-4-neon:batch",
+    "release_date": "2026-11-18",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "google",
     "model_id": "google/gemini-flash-1.5",
     "release_date": "2024-05-14",
     "status": "active"
@@ -3111,6 +3125,13 @@
     "provider": "gemini",
     "developer": "google",
     "model_id": "models/gemini-4-hydrogen",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
+    "model_id": "models/gemini-4-neon",
     "release_date": "9999-12-31",
     "status": "active"
   },
