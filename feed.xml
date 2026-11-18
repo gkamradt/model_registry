@@ -2,42 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-17T18:01:20.231060+00:00</updated>
+  <updated>2026-11-18T01:04:59.310449+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openai:openai:gpt-6.2-astra</id>
-    <title>openai - openai - gpt-6.2-astra</title>
-    <updated>2026-11-17T18:01:20.231611+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6.2-astra&lt;br/&gt;Release Date: 2026-10-31&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-6.2-astra" label="model_id"/>
-    <category term="2026-10-31" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-10-31T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openai:openai:gpt-6.2-sol</id>
-    <title>openai - openai - gpt-6.2-sol</title>
-    <updated>2026-11-17T18:01:20.231450+00:00</updated>
-    <content type="html">Provider: openai&lt;br/&gt;Model ID: gpt-6.2-sol&lt;br/&gt;Release Date: 2026-11-02&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
-    <category term="openai" label="provider"/>
-    <category term="openai" label="developer"/>
-    <category term="gpt-6.2-sol" label="model_id"/>
-    <category term="2026-11-02" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-astra</id>
-    <title>openrouter - openai - openai/gpt-6.2-astra</title>
-    <updated>2026-11-17T18:01:20.231127+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-astra&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-sol:batch</id>
+    <title>openrouter - openai - openai/gpt-6.2-sol:batch</title>
+    <updated>2026-11-18T01:04:59.311387+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-sol:batch&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
     <category term="openai" label="developer"/>
-    <category term="openai/gpt-6.2-astra" label="model_id"/>
+    <category term="openai/gpt-6.2-sol:batch" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-sol-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-6.2-sol-pro:batch</title>
+    <updated>2026-11-18T01:04:59.311283+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-sol-pro:batch&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-sol-pro:batch" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-sol-pro</id>
+    <title>openrouter - openai - openai/gpt-6.2-sol-pro</title>
+    <updated>2026-11-18T01:04:59.311163+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-sol-pro&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-sol-pro" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-sol</id>
+    <title>openrouter - openai - openai/gpt-6.2-sol</title>
+    <updated>2026-11-18T01:04:59.311051+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-sol&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-sol" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-astra:batch</id>
+    <title>openrouter - openai - openai/gpt-6.2-astra:batch</title>
+    <updated>2026-11-18T01:04:59.310942+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-astra:batch&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-astra:batch" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-astra-pro:batch</id>
+    <title>openrouter - openai - openai/gpt-6.2-astra-pro:batch</title>
+    <updated>2026-11-18T01:04:59.310821+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-astra-pro:batch&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-astra-pro:batch" label="model_id"/>
+    <category term="2026-11-17" label="release_date"/>
+    <category term="active" label="status"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>urn:model-registry:openrouter:openai:openai/gpt-6.2-astra-pro</id>
+    <title>openrouter - openai - openai/gpt-6.2-astra-pro</title>
+    <updated>2026-11-18T01:04:59.310519+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: openai/gpt-6.2-astra-pro&lt;br/&gt;Release Date: 2026-11-17&lt;br/&gt;Developer: openai&lt;br/&gt;Status: active</content>
+    <category term="openrouter" label="provider"/>
+    <category term="openai" label="developer"/>
+    <category term="openai/gpt-6.2-astra-pro" label="model_id"/>
     <category term="2026-11-17" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-11-17T00:00:00+00:00</published>

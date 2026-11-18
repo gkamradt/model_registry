@@ -7338,6 +7338,55 @@
   {
     "provider": "openrouter",
     "developer": "openai",
+    "model_id": "openai/gpt-6.2-astra-pro",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-astra-pro:batch",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-astra:batch",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-sol",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-sol-pro",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-sol-pro:batch",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
+    "model_id": "openai/gpt-6.2-sol:batch",
+    "release_date": "2026-11-17",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "openai",
     "model_id": "openai/gpt-audio",
     "release_date": "2026-01-19",
     "status": "active"
