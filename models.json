@@ -3341,6 +3341,13 @@
   {
     "provider": "gemini",
     "developer": "google",
+    "model_id": "models/genie-4",
+    "release_date": "9999-12-31",
+    "status": "active"
+  },
+  {
+    "provider": "gemini",
+    "developer": "google",
     "model_id": "models/imagen-3.0-generate-002",
     "release_date": "9999-12-31",
     "status": "active"
@@ -6346,6 +6353,13 @@
     "developer": "openai",
     "model_id": "gpt-live-1",
     "release_date": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-live-1.1",
+    "release_date": "2026-11-18",
     "status": "active"
   },
   {
