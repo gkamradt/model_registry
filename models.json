@@ -4839,6 +4839,13 @@
   {
     "provider": "openrouter",
     "developer": "mistralai",
+    "model_id": "mistralai/pixtral-large-2502",
+    "release_date": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "mistralai",
     "model_id": "mistralai/voxtral-small-24b-2507",
     "release_date": "2025-10-13",
     "status": "active"
