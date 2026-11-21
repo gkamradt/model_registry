@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-21T01:54:39.893703+00:00</updated>
+  <updated>2026-11-21T09:02:50.379855+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:radixark:radixark/daisyrose-27b</id>
-    <title>openrouter - radixark - radixark/daisyrose-27b</title>
-    <updated>2026-11-21T01:54:39.893746+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: radixark/daisyrose-27b&lt;br/&gt;Release Date: 2026-11-21&lt;br/&gt;Developer: radixark&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:thinkingmachines:thinkingmachines/inkling-2-mini</id>
+    <title>openrouter - thinkingmachines - thinkingmachines/inkling-2-mini</title>
+    <updated>2026-11-21T09:02:50.379915+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: thinkingmachines/inkling-2-mini&lt;br/&gt;Release Date: 2026-11-21&lt;br/&gt;Developer: thinkingmachines&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="radixark" label="developer"/>
-    <category term="radixark/daisyrose-27b" label="model_id"/>
+    <category term="thinkingmachines" label="developer"/>
+    <category term="thinkingmachines/inkling-2-mini" label="model_id"/>
     <category term="2026-11-21" label="release_date"/>
     <category term="active" label="status"/>
     <published>2026-11-21T00:00:00+00:00</published>

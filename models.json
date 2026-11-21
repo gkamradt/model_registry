@@ -9249,6 +9249,13 @@
   {
     "provider": "openrouter",
     "developer": "thinkingmachines",
+    "model_id": "thinkingmachines/inkling-2-mini",
+    "release_date": "2026-11-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "thinkingmachines",
     "model_id": "thinkingmachines/inkling-2-small",
     "release_date": "2026-11-09",
     "status": "active"
