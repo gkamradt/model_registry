@@ -8821,6 +8821,13 @@
   },
   {
     "provider": "openrouter",
+    "developer": "radixark",
+    "model_id": "radixark/daisyrose-27b",
+    "release_date": "2026-11-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
     "developer": "raifle",
     "model_id": "raifle/sorcererlm-8x22b",
     "release_date": "2024-11-08",

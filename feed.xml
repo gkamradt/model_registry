@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-20T03:49:01.996226+00:00</updated>
+  <updated>2026-11-21T01:54:39.893703+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:mistralai:mistralai/pixtral-large-2502</id>
-    <title>openrouter - mistralai - mistralai/pixtral-large-2502</title>
-    <updated>2026-11-20T03:49:01.996283+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: mistralai/pixtral-large-2502&lt;br/&gt;Release Date: 2026-11-20&lt;br/&gt;Developer: mistralai&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:radixark:radixark/daisyrose-27b</id>
+    <title>openrouter - radixark - radixark/daisyrose-27b</title>
+    <updated>2026-11-21T01:54:39.893746+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: radixark/daisyrose-27b&lt;br/&gt;Release Date: 2026-11-21&lt;br/&gt;Developer: radixark&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="mistralai" label="developer"/>
-    <category term="mistralai/pixtral-large-2502" label="model_id"/>
-    <category term="2026-11-20" label="release_date"/>
+    <category term="radixark" label="developer"/>
+    <category term="radixark/daisyrose-27b" label="model_id"/>
+    <category term="2026-11-21" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-20T00:00:00+00:00</published>
+    <published>2026-11-21T00:00:00+00:00</published>
   </entry>
 </feed>
