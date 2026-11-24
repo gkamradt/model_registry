@@ -6197,6 +6197,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-6-astra-healthcare",
+    "release_date": "2026-10-16",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-6-luna",
     "release_date": "2026-09-14",
     "status": "active"
@@ -6218,6 +6225,13 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-6.1-sol-healthcare",
+    "release_date": "2026-10-26",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-6.1-terra",
     "release_date": "2026-10-13",
     "status": "active"
@@ -6232,7 +6246,21 @@
   {
     "provider": "openai",
     "developer": "openai",
+    "model_id": "gpt-6.2-astra-healthcare",
+    "release_date": "2026-10-31",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
     "model_id": "gpt-6.2-sol",
+    "release_date": "2026-11-02",
+    "status": "active"
+  },
+  {
+    "provider": "openai",
+    "developer": "openai",
+    "model_id": "gpt-6.2-sol-healthcare",
     "release_date": "2026-11-02",
     "status": "active"
   },
