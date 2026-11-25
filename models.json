@@ -9466,6 +9466,13 @@
   {
     "provider": "openrouter",
     "developer": "upstage",
+    "model_id": "upstage/solar-mini-4-5",
+    "release_date": "2026-11-24",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "upstage",
     "model_id": "upstage/solar-mini4",
     "release_date": "2026-09-23",
     "status": "active"
@@ -9482,6 +9489,13 @@
     "developer": "upstage",
     "model_id": "upstage/solar-pro-3:free",
     "release_date": "2026-01-27",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "upstage",
+    "model_id": "upstage/solar-pro-4-contributor",
+    "release_date": "2026-11-24",
     "status": "active"
   },
   {
@@ -9734,6 +9748,13 @@
     "developer": "xiaomi",
     "model_id": "xiaomi/mimo-v2.6-flash",
     "release_date": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "xiaomi",
+    "model_id": "xiaomi/mimo-v2.6-flash-mopd",
+    "release_date": "2026-11-23",
     "status": "active"
   },
   {
