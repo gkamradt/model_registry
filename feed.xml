@@ -2,44 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/gkamradt/model_registry/feed.xml</id>
   <title>Model Registry Updates</title>
-  <updated>2026-11-25T04:25:14.303038+00:00</updated>
+  <updated>2026-11-26T15:32:34.053633+00:00</updated>
   <link href="https://github.com/gkamradt/model_registry" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Updates to the public LLM model registry</subtitle>
   <entry>
-    <id>urn:model-registry:openrouter:xiaomi:xiaomi/mimo-v2.6-flash-mopd</id>
-    <title>openrouter - xiaomi - xiaomi/mimo-v2.6-flash-mopd</title>
-    <updated>2026-11-25T04:25:14.303368+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: xiaomi/mimo-v2.6-flash-mopd&lt;br/&gt;Release Date: 2026-11-23&lt;br/&gt;Developer: xiaomi&lt;br/&gt;Status: active</content>
+    <id>urn:model-registry:openrouter:inclusionai:inclusionai/lingsante-3.1-air-vl</id>
+    <title>openrouter - inclusionai - inclusionai/lingsante-3.1-air-vl</title>
+    <updated>2026-11-26T15:32:34.053690+00:00</updated>
+    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: inclusionai/lingsante-3.1-air-vl&lt;br/&gt;Release Date: 2026-11-26&lt;br/&gt;Developer: inclusionai&lt;br/&gt;Status: active</content>
     <category term="openrouter" label="provider"/>
-    <category term="xiaomi" label="developer"/>
-    <category term="xiaomi/mimo-v2.6-flash-mopd" label="model_id"/>
-    <category term="2026-11-23" label="release_date"/>
+    <category term="inclusionai" label="developer"/>
+    <category term="inclusionai/lingsante-3.1-air-vl" label="model_id"/>
+    <category term="2026-11-26" label="release_date"/>
     <category term="active" label="status"/>
-    <published>2026-11-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:upstage:upstage/solar-pro-4-contributor</id>
-    <title>openrouter - upstage - upstage/solar-pro-4-contributor</title>
-    <updated>2026-11-25T04:25:14.303293+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: upstage/solar-pro-4-contributor&lt;br/&gt;Release Date: 2026-11-24&lt;br/&gt;Developer: upstage&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="upstage" label="developer"/>
-    <category term="upstage/solar-pro-4-contributor" label="model_id"/>
-    <category term="2026-11-24" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>urn:model-registry:openrouter:upstage:upstage/solar-mini-4-5</id>
-    <title>openrouter - upstage - upstage/solar-mini-4-5</title>
-    <updated>2026-11-25T04:25:14.303081+00:00</updated>
-    <content type="html">Provider: openrouter&lt;br/&gt;Model ID: upstage/solar-mini-4-5&lt;br/&gt;Release Date: 2026-11-24&lt;br/&gt;Developer: upstage&lt;br/&gt;Status: active</content>
-    <category term="openrouter" label="provider"/>
-    <category term="upstage" label="developer"/>
-    <category term="upstage/solar-mini-4-5" label="model_id"/>
-    <category term="2026-11-24" label="release_date"/>
-    <category term="active" label="status"/>
-    <published>2026-11-24T00:00:00+00:00</published>
+    <published>2026-11-26T00:00:00+00:00</published>
   </entry>
 </feed>
