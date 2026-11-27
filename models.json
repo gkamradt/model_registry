@@ -3747,6 +3747,13 @@
   {
     "provider": "openrouter",
     "developer": "inclusionai",
+    "model_id": "inclusionai/ling-3.2-flash",
+    "release_date": "2026-11-13",
+    "status": "active"
+  },
+  {
+    "provider": "openrouter",
+    "developer": "inclusionai",
     "model_id": "inclusionai/ling-3.2-flash:free",
     "release_date": "2026-11-13",
     "status": "active"
